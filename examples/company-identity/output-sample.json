@@ -1,0 +1,68 @@
+{
+  "url": "https://www.grenoble-emplois.com/",
+  "domain": "grenoble-emplois.com",
+  "source": "google",
+  "query": "menuisier Grenoble",
+  "finalUrl": "https://www.grenoble-emplois.com/",
+  "reachable": true,
+  "legalNoticeUrl": "https://www.grenoble-emplois.com/infos-legales.html",
+  "country": "FR",
+  "companyName": "HelloWork SASU",
+  "tradeName": null,
+  "legalForm": "SASU",
+  "registrations": [
+    {
+      "type": "FR_SIREN",
+      "value": "428843130",
+      "registry": "RCS RENNES"
+    }
+  ],
+  "vatIds": [
+    "FR69428843130"
+  ],
+  "shareCapital": 168672,
+  "address": {
+    "street": "2, rue de la Mabilais",
+    "postalCode": "35000",
+    "city": "RENNES"
+  },
+  "emails": [
+    "contact@hellowork.com"
+  ],
+  "phones": [
+    "+33223448044",
+    "+33223448045",
+    "+33299125757"
+  ],
+  "socials": {
+    "facebook": "https://www.facebook.com/helloworkcom/",
+    "linkedin": "https://www.linkedin.com/company/helloworkcom/",
+    "x": "https://twitter.com/hellowork"
+  },
+  "primaryEmail": "contact@hellowork.com",
+  "primaryRegistration": {
+    "type": "FR_SIREN",
+    "value": "428843130",
+    "registry": "RCS RENNES"
+  },
+  "pagesScanned": [
+    "https://www.grenoble-emplois.com/infos-legales.html",
+    "https://www.grenoble-emplois.com/"
+  ],
+  "registryCheck": {
+    "country": "FR",
+    "source": "INSEE/INPI (recherche-entreprises.api.gouv.fr)",
+    "id": "428843130",
+    "found": true,
+    "officialName": "HELLOWORK",
+    "status": "active",
+    "nameMatches": true,
+    "createdAt": "2000-01-01",
+    "nafCode": "63.12Z",
+    "nafLabel": "Portails Internet",
+    "employees": "500 à 999 salariés",
+    "headquarters": "2 RUE DE LA MABILAIS 35000 RENNES",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428843130"
+  },
+  "scrapedAt": "2026-09-29T13:26:47.639Z"
+}

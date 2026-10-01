@@ -1,0 +1,51 @@
+{
+  "type": "tender",
+  "source": "TED",
+  "noticeId": "674214-2026",
+  "procedureId": "663171e3-c5be-4930-9462-f4c455f12cb6",
+  "url": "https://ted.europa.eu/en/notice/-/detail/674214-2026",
+  "pdfUrl": "https://ted.europa.eu/en/notice/674214-2026/pdf",
+  "publishedAt": "2026-09-30",
+  "country": "DE",
+  "countryName": "Germany",
+  "buyerName": "Humboldt-Universität zu Berlin",
+  "buyerCity": "Berlin",
+  "buyerPostCode": "10099",
+  "buyerEmail": null,
+  "buyerWebsite": "https://zuv.hu-berlin.de/de/ta/bst/",
+  "title": "HCM Ausschreibung für Service und Support sowie Projektbegleitung und Change Requests",
+  "description": "Service und Support sowie Projektbegleitung und Change Requests für HCM",
+  "language": "de",
+  "contractType": "services",
+  "procedureType": "Open",
+  "mainCpv": "72261000",
+  "mainCpvLabel": "Software support services",
+  "cpvCodes": [
+    "72261000",
+    "72253000",
+    "72253200",
+    "72265000",
+    "72266000"
+  ],
+  "regions": [
+    "DE300"
+  ],
+  "lotsCount": 1,
+  "lotTitles": [
+    "HCM Ausschreibung für Service und Support sowie Projektbegleitung und Change Requests"
+  ],
+  "estimatedValue": null,
+  "currency": null,
+  "deadline": "2026-11-02T08:15:00.000Z",
+  "deadlineType": "tenders",
+  "durationMonths": null,
+  "isFrameworkAgreement": false,
+  "documentsUrl": "https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210685",
+  "submissionUrl": "https://www.meinauftrag.rib.de",
+  "frenchDepartment": null,
+  "estimatedValueEur": null,
+  "daysLeft": 32,
+  "publicationLevel": "EU",
+  "changeType": null,
+  "scrapedAt": "2026-09-30T18:03:16.877Z"
+}

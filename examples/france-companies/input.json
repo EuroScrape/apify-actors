@@ -1,0 +1,14 @@
+{
+  "nafCodes": [
+    "43.22A"
+  ],
+  "departments": [
+    "38"
+  ],
+  "employeeRanges": [
+    "11",
+    "12"
+  ],
+  "maxItems": 100,
+  "findContacts": true
+}

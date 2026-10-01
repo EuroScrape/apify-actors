@@ -1,0 +1,11 @@
+{
+  "keywords": [
+    "iphone 15"
+  ],
+  "locations": [
+    "Berlin"
+  ],
+  "radiusKm": 20,
+  "maxItems": 50,
+  "minDealScore": 60
+}

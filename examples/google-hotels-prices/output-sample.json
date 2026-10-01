@@ -1,0 +1,177 @@
+{
+  "type": "hotel",
+  "searchType": "tracked",
+  "query": "https://www.google.com/travel/hotels/entity/ChkI1N6v0cC4pfmpARoML2cvMTJxNHhyNHh0EAE",
+  "position": null,
+  "name": "Novotel Suites Paris Stade de France",
+  "hotelId": "ChkI1N6v0cC4pfmpARoML2cvMTJxNHhyNHh0EAE",
+  "checkIn": "2026-10-21",
+  "checkOut": "2026-10-23",
+  "nights": 2,
+  "adults": 2,
+  "childrenAges": [],
+  "currency": "EUR",
+  "pricePerNight": 149.23,
+  "priceTotal": 298.47,
+  "priceBeforeTaxes": 244.23,
+  "taxesAndFees": 54.24,
+  "dealLabel": null,
+  "bookingSitesCount": 23,
+  "cheapestSite": "Kiwi.com",
+  "cheapestSitePricePerNight": 149.23,
+  "officialSitePricePerNight": 181.8,
+  "officialVsCheapestPct": 21.8,
+  "bookingSites": [
+    {
+      "site": "Kiwi.com",
+      "isOfficialSite": false,
+      "pricePerNight": 149.23,
+      "priceTotal": 298.47,
+      "url": "https://hotels-tracker.kiwi.com/?sig=863672d43279b952b5170ed2c3497011c1cf2b4bb2c02e0599107fa8b3d0ad44333737&turl=https%3A%2F%2Fhotels.kiwi.com%2FHotel%2FSearch%3FcheckIn%3D2026-10-21%26checkOut%3D2026-10-23%26currency%3DEUR%26forceCurrencyChange%3D1%26lang%3Den%26forceLanguageChange%3D1%26rooms%3D2%3A%26utm_source%3Dkiwi%26utm_medium%3Dcpc%26utm_referrer%3Dgha%26hotelId%3D1136058%26userCountry%3DFR%26profile%3DH9wkf23b1j%26preferredRate%3D298.47%26deviceType%3Ddesktop%26label%3Dsrc%253Dgha%2526cltype%253Dhotel%2526datype%253Ddefault%2526gsite%253Dlocaluniversal%2526vf%253D0%2526ucountry%253DFR%2526udevice%253Ddesktop%2526hotel%253D1136058%2526day%253D21%2526month%253D10%2526year%253D2026%2526los%253D2%2526price%253D298.47%2526currency%253DEUR%2526cid%253D%2526listid%253D%2526rateid%253DFR_D%2526closerateid%253D%2526promo%253D0%2526isPrivateRate%253D0%2526isAudienceUser%253D0%2526isPaidClick%253D0%2526%26cp%3D2htqyHiq-K0g9jRNChoI3dgBGJEwIgNVU0Q6AgEBQgWDngHsalIBMhIaFUfbSE0aC3psVDIyTDIwOXpJKAIw_qz11QY"
+    },
+    {
+      "site": "Super.com",
+      "isOfficialSite": false,
+      "pricePerNight": 160.93,
+      "priceTotal": 321.86,
+      "url": "https://www.super.com/travel/transition/?data=price=263.87%26total_price=290.26%26retail_price=374.73%26retail_total_price=412.2%26surcharge=31.61%26request_id=11272233467568414720%26ps=4562811839800325764%26pb=0-slAkZlDjP06IhVxwa_7GYzc8fCoWFXyLb1ME9LY8dlZHk7ek3U8fdLhW6fiEXoZP6ljBArr2S2IQHWyjyp1YBjumOtuxZvX6KB-rHG5byr3vu3juGA4LEaeDKwUXHHmGfh6WZ6S5vgJSR3spkGiQ%253D%253D%26gha_pull_request=True%26alwd_rand=false%26gt=1790745203%26sg=wLWn0%26ib=false%26all_inclusive=false&utm_source=gha&utm_content=localuniversal&currency=EUR&user_country=FR&verification=false&rate_rule_ids=&date_type=default&rate_rule_id=signedout_desktop&display_currency=EUR&display_all_inclusive_price=321.86&checkin_at=2026-10-21&checkout_at=2026-10-23&provider_hotel_id=10004274529&provider=htl&num_adults=2&children=[]&hotel_campaign=&utm_campaign=&user_locale=en-FR&user_list_id=&utm_medium=organic&utm_id=gha_organic"
+    },
+    {
+      "site": "Agoda",
+      "isOfficialSite": false,
+      "pricePerNight": 161.33,
+      "priceTotal": 322.66,
+      "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=21&CkInMonth=10&CkInYear=2026&CkOutDay=23&campaignid=&CkOutMonth=10&CkOutYear=2026&SearchDateType=default&NumberOfAdults=2&LT=21&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=localuniversal&los=2&PartnerCurrency=EUR&hid=132904&RoomID=4026028&masterRoomId=4026028&PriceTotal=322.66&PriceTax=57.70&PriceFee=0.02&RatePlan=e037a4a1-57e5-6d91-16c9-8deabcff9f0a&UserCountry=FR&Currency=EUR&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=29004&booking_source=cpc&adType=0&mpt=aXlUYWZOd2t2a0dRSWhpR0UrRXNCUDFEL2VMZDBoNFhISXBvL2RLMEZkdmNkKzZBOCtjZWwvZE54YlFRWXdOanMzQ3BZU2l3NXQ0aQ&original_rr=&gaClickSrc=&clickType=hotel&lang=en&pkgId=NoBreakfast_NoDinner_true"
+    },
+    {
+      "site": "Priceline",
+      "isOfficialSite": false,
+      "pricePerNight": 161.33,
+      "priceTotal": 322.66,
+      "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=FR_HP%7C3540105_localuniversal_2%7C20261021%7Cdesktop%7Cdefaultdate|public|||21%7C2%7C0|0|EN&hotelid=3540105&checkin=20261021&checkout=20261023&rooms=1&currency=EUR&cur=EUR&POSCountryCode=FR&taxDisplayMode=BP&cityID=5000049246&adults=2&land=L&metaid=XAy9p6SQos6CTfhEouPHI5udxE2PfnK3cyTGjY8IuhqRDRwf9P7W2h_SnARMzTCsfHZuMBXrAgxLF9-OAJwCp_do02PrVGzKTi2jgR6Ep-r40z64hpyPYUIm4Y_SgUM3h92KSSj19Se_UlRTQKd5Q4C0l1D7Viv9Dsa24UfdiGWdZjzi0nXAd57jWtWwwN-RuxRUND_8xNyGZbpox8cXgr2jXSBgLAa71G71h64A4MrvZS-VIeYiQieKYworerAf3vzg1Tgt-89sc4B7f8zmntv15mByr9dhXY9EQ9botr6cY0aaw4mM_IaXqHGgn_qZsmSUsLLEoV0UrmRFJaC0WcUVQQoFdphy_2m4E4MjMUEHR-vvsiBQQhshIiN6oKS9qXh55jpK1UzSarCpTLsiGY71NhpFiXVSIkAIwn1pqE6KmZWn88B2HJ3YrPBCw4bRER3e9oHJclP32ZVzHKWUUqX8KvnTJRX3RZOh4pN__jqZqdPDwXYQiCglc5WUIEHn&dblcnt=true&user_num_adults=2&hc=1&pdtax=57.69&pdf=6.48&pdt=322.66&locale=en-us&ad-src=&numChild=0"
+    },
+    {
+      "site": "Tripening Hotels",
+      "isOfficialSite": false,
+      "pricePerNight": 177.98,
+      "priceTotal": 355.97,
+      "url": "https://www.tripening.com/hotels/-/4651115-novotel-suites-paris-stade-de-france?checkin-date=2026-10-21&checkout-date=2026-10-23&adults=2&currency=EUR&lang=en&google-package-id=&rate-rule-id=&google-displayed-price=355.97&children=0&google-displayed-tax=0.00&google-displayed-currency=EUR&utm_source=google_hotel_ads&utm_medium=free&utm_campaign=gha_property"
+    }
+  ],
+  "rating": 4.3,
+  "reviewsCount": 1431,
+  "hotelClass": 4,
+  "propertyType": "4-star tourist hotel",
+  "ratingDistribution": {
+    "1": 4,
+    "2": 3,
+    "3": 9,
+    "4": 25,
+    "5": 59
+  },
+  "reviewAspects": [
+    {
+      "aspect": "Property",
+      "mentions": 81,
+      "positive": 63,
+      "negative": 15
+    },
+    {
+      "aspect": "Service",
+      "mentions": 70,
+      "positive": 53,
+      "negative": 14
+    },
+    {
+      "aspect": "Location",
+      "mentions": 57,
+      "positive": 41,
+      "negative": 8
+    },
+    {
+      "aspect": "Cleanliness",
+      "mentions": 44,
+      "positive": 28,
+      "negative": 13
+    },
+    {
+      "aspect": "Family friendly",
+      "mentions": 18,
+      "positive": 13,
+      "negative": 3
+    }
+  ],
+  "ratingsBySource": [
+    {
+      "source": "all.accor.com",
+      "rating": 4.2,
+      "scale": 5,
+      "reviews": 1403
+    },
+    {
+      "source": "Tripadvisor",
+      "rating": 4.2,
+      "scale": 5,
+      "reviews": 546
+    },
+    {
+      "source": "Trip.com",
+      "rating": 4.3,
+      "scale": 5,
+      "reviews": 109
+    }
+  ],
+  "address": "31 Avenue Jules Rimet St Denis, 93210 Saint-Denis, France",
+  "latitude": 48.923648199999995,
+  "longitude": 2.3629501000000004,
+  "phone": "+33 1 49 46 54 54",
+  "website": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=3325&merchantid=seo-maps-FR-3325&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+  "countryCode": "FR",
+  "placeId": "ChIJr8IYIqVu5kcRVO8rCsSV8qk",
+  "featureId": "0x47e66ea52218c2af:0xa9f295c40a2bef54",
+  "checkInTime": "4:00 PM",
+  "checkOutTime": "12:00 PM",
+  "amenities": null,
+  "description": "Contemporary all-suite lodging with Wi-Fi, a bar & a 24/7 pantry, plus parking.",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8BfRV3r7rplVug2QGN8bj2Asl3YjgI6o03_HybUy2x9cn_SaQ0GlpFox4q6fXfu1NT_bsdTjjY1teJqi0e3GQCFLBv67RwGyB1ip50rkPyPdzcmit193Q0ljxTa-snTEaJVHD=w1024",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7thif0Vv55ACpfKxSPB1YbbbUHcGxlokueXVJAWBJTLUX96dRnNDl4aLX3P4QBvjmgWc2hRpdFWTgvj5S_bJlq52h55TBXzeeag_dVdsqxm8hkf-utpLmp3BQAabp14VSbQ2ItA=w1024",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QFyzpg-__6eOzePt6OWE3WlcEA8DKaKErmSJL9e9QAGcmUKGw9js3_EVgN_hShhHHu7C20dw6tm1BNS-6k1Dx0Y5H0P2xoyZtwHEBP1tcmpKv5o6DAwsUkZIJAxkBRJPsrg3h_=w1024",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8VVhaqUwtRQ9K7SyOUHFnjNVvD0rP0_ilvU2t6v0v1T0Ohgs1XDAd9K3lqmGYbdzLwB_rOYdL9hyHHxx_dhjmOoWtZODELvSyyEAOAjWwhM_kN4Y5TycEfBtRt-_J7gJ5UTS-=w1024",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8zJ4xemt5FOMXXoc_mBH_BJof8iYGyG7kp0Aq8Ma-nuH9lesTjwpDtAsp9PXLPrjKzAwDOSVig3ZH3WrqliS0qdiMTv5jX_EHyJV0E1w5JosT5X1fuexJ9TPEPpjly33oox0-=w1024"
+  ],
+  "nearby": [
+    {
+      "place": "Basilique du Sacré-Cœur de Montmartre",
+      "kind": "place",
+      "travelTime": "20 min"
+    },
+    {
+      "place": "Montmartre",
+      "kind": "place",
+      "travelTime": "23 min"
+    },
+    {
+      "place": "Louvre Museum",
+      "kind": "place",
+      "travelTime": "29 min"
+    },
+    {
+      "place": "Arc de Triomphe",
+      "kind": "place",
+      "travelTime": "22 min"
+    },
+    {
+      "place": "Notre-Dame Cathedral of Paris",
+      "kind": "place",
+      "travelTime": "25 min"
+    }
+  ],
+  "googleHotelsUrl": "https://www.google.com/travel/hotels/entity/ChkI1N6v0cC4pfmpARoML2cvMTJxNHhyNHh0EAE?hl=en&gl=us&curr=EUR&ts=CAESCgoCCAMKAggDEAAaIAoCGgASGhIUCgcI6g8QChgVEgcI6g8QChgXGAIyAhAA",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJr8IYIqVu5kcRVO8rCsSV8qk",
+  "matchConfidence": "exact",
+  "changeType": null,
+  "previousPricePerNight": null,
+  "priceChangePct": null,
+  "scrapedAt": "2026-09-30T18:58:00.703Z"
+}

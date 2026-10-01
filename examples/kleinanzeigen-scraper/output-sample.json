@@ -1,0 +1,30 @@
+{
+  "id": "3526538200",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/fahrradtraeger/3526538200-217-20258",
+  "title": "Fahrradträger",
+  "price": null,
+  "priceType": "NEGOTIABLE",
+  "priceText": "VB",
+  "currency": "EUR",
+  "location": "25856 Hattstedt",
+  "postalCode": "25856",
+  "city": "Hattstedt",
+  "postedAt": "2026-09-29T12:56:00.000Z",
+  "postedAtText": "Heute, 14:56",
+  "shippingAvailable": true,
+  "buyNowAvailable": false,
+  "adType": "OFFERED",
+  "isTopAd": false,
+  "descriptionSnippet": "Ich biete diesen stabilen Fahrradträger für die Anhängerkupplung an, der sich ideal für den Transport von 3 Rädern eignet.\n\n- Robuste schwarze Metallkonstruktion\n- Integrierte Rückleuchten für mehr Sicherheit\n- Verstellbare Halterungen für verschi...",
+  "imageUrl": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa8114df-6aff-4542-ad89-8997dcc4b68e?rule=$_59.JPG",
+  "imageCount": 3,
+  "comparableAds": [],
+  "search": {
+    "keyword": "fahrrad",
+    "location": "Atlantisstadt",
+    "resolvedLocation": "hattstedt"
+  },
+  "changeType": null,
+  "riskFlags": [],
+  "scrapedAt": "2026-09-29T13:24:54.016Z"
+}

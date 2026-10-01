@@ -1,0 +1,8 @@
+{
+  "searchQueries": [
+    "Tischlerei München"
+  ],
+  "searchCountry": "de",
+  "resultsPerQuery": 20,
+  "skipWithoutIdentity": true
+}

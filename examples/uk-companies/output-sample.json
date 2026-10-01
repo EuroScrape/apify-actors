@@ -1,0 +1,36 @@
+{
+  "companyNumber": "12499918",
+  "name": "PINK PONY LTD",
+  "status": "dissolved",
+  "companyType": "Private limited Company",
+  "incorporatedOn": "2020-03-05",
+  "dissolvedOn": "2021-09-07",
+  "registeredOffice": "115 Henbury Road, Bristol, City Of Bristol, England, BS10 7AA",
+  "postcode": "BS10 7AA",
+  "sicCodes": [
+    {
+      "code": "56101",
+      "description": "Licensed restaurants"
+    }
+  ],
+  "accounts": {
+    "nextMadeUpTo": null,
+    "nextDueBy": null,
+    "lastMadeUpTo": null,
+    "overdue": false
+  },
+  "confirmationStatement": {
+    "nextDueBy": null,
+    "lastDated": null
+  },
+  "previousNames": [],
+  "hasCharges": false,
+  "hasInsolvencyHistory": false,
+  "ageYears": 6,
+  "links": {
+    "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/12499918",
+    "filingHistory": "https://find-and-update.company-information.service.gov.uk/company/12499918/filing-history"
+  },
+  "changeType": null,
+  "scrapedAt": "2026-09-29T13:25:47.118Z"
+}

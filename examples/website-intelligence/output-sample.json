@@ -1,0 +1,162 @@
+{
+  "url": "https://ubiagarage.de/",
+  "domain": "ubiagarage.de",
+  "source": "input",
+  "query": null,
+  "finalUrl": "https://ubiagarage.de/",
+  "redirectedToDomain": null,
+  "reachable": true,
+  "technologies": [
+    {
+      "name": "WordPress",
+      "category": "cms",
+      "categoryLabel": "CMS",
+      "version": null,
+      "evidence": [
+        "html"
+      ]
+    },
+    {
+      "name": "WooCommerce",
+      "category": "ecommerce",
+      "categoryLabel": "E-commerce",
+      "version": null,
+      "evidence": [
+        "html"
+      ]
+    },
+    {
+      "name": "Divi",
+      "category": "page-builder",
+      "categoryLabel": "Page builder",
+      "version": null,
+      "evidence": [
+        "html"
+      ]
+    },
+    {
+      "name": "Gutenberg blocks",
+      "category": "page-builder",
+      "categoryLabel": "Page builder",
+      "version": null,
+      "evidence": [
+        "html"
+      ]
+    },
+    {
+      "name": "Usercentrics",
+      "category": "consent",
+      "categoryLabel": "Cookie consent (CMP)",
+      "version": null,
+      "evidence": [
+        "html"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "category": "server",
+      "categoryLabel": "Web server",
+      "version": null,
+      "evidence": [
+        "header:server"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "category": "js-library",
+      "categoryLabel": "JavaScript library",
+      "version": "3.7.1",
+      "evidence": [
+        "html"
+      ]
+    }
+  ],
+  "technologyNames": [
+    "WordPress",
+    "WooCommerce",
+    "Divi",
+    "Gutenberg blocks",
+    "Usercentrics",
+    "Nginx",
+    "jQuery"
+  ],
+  "technologiesByCategory": {
+    "cms": [
+      "WordPress"
+    ],
+    "ecommerce": [
+      "WooCommerce"
+    ],
+    "page-builder": [
+      "Divi",
+      "Gutenberg blocks"
+    ],
+    "consent": [
+      "Usercentrics"
+    ],
+    "server": [
+      "Nginx"
+    ],
+    "js-library": [
+      "jQuery 3.7.1"
+    ]
+  },
+  "cms": "WordPress",
+  "ecommercePlatform": "WooCommerce",
+  "platformSummary": "WordPress + WooCommerce + Divi",
+  "opportunityScore": 7,
+  "salesSignals": [
+    {
+      "code": "no_analytics",
+      "severity": 1,
+      "label": "No analytics detected: they cannot measure their marketing."
+    }
+  ],
+  "audit": {
+    "https": true,
+    "statusCode": 200,
+    "responseTimeMs": 686,
+    "totalLoadMs": 1111,
+    "htmlSizeKb": 142,
+    "mobileViewport": true,
+    "title": "Ubiagarage Köln - Ihre Autowerkstatt in Köln › Ubiagarage Köln",
+    "metaDescription": "Die freie Autowerkstatt in Köln. Unfallreparatur, Reifenwechsel, Scheibentausch, Fehlerdiagnose, kommen Sie zu uns. Vereinbaren Sie einen Termin.",
+    "language": "de",
+    "sslIssuer": "Let's Encrypt",
+    "sslValidTo": "2026-12-24T21:42:23.000Z",
+    "sslDaysLeft": 86,
+    "cmsVersion": null,
+    "latestWordPress": "7.1.2",
+    "phpVersion": null,
+    "phpEndOfLife": null,
+    "copyrightYear": null,
+    "trackers": [],
+    "consentTools": [
+      "Usercentrics"
+    ],
+    "googleFontsExternal": false
+  },
+  "socials": {},
+  "country": "DE",
+  "companyName": "UBIA–Garage",
+  "tradeName": null,
+  "legalForm": null,
+  "registrations": [],
+  "vatIds": [
+    "DE180343005"
+  ],
+  "address": {
+    "street": "Rondorfer Str. 30",
+    "postalCode": "50354",
+    "city": "Hürth"
+  },
+  "emails": [
+    "info@ubia-garage.de"
+  ],
+  "primaryEmail": "info@ubia-garage.de",
+  "phones": [
+    "+49941104929"
+  ],
+  "legalNoticeUrl": "https://ubiagarage.de/impressum/",
+  "scrapedAt": "2026-09-29T18:58:11.797Z"
+}

@@ -1,0 +1,86 @@
+{
+  "siren": "501542021",
+  "name": "SYSTEMES SOLAIRES",
+  "legalName": "SYSTEMES SOLAIRES",
+  "acronym": null,
+  "status": "active",
+  "createdAt": "2007-12-07",
+  "ageYears": 18,
+  "closedAt": null,
+  "legalForm": {
+    "code": "5599",
+    "label": "SA à conseil d'administration (s.a.i.)"
+  },
+  "companyCategory": "PME",
+  "nafCode": "43.22B",
+  "nafLabel": "Travaux d’installation d’équipements thermiques et de climatisation",
+  "sector": "F",
+  "sectorLabel": "Construction",
+  "employees": {
+    "code": "12",
+    "label": "20 à 49 salariés",
+    "min": 20,
+    "max": 49,
+    "year": 2023
+  },
+  "isEmployer": null,
+  "establishmentsCount": 273,
+  "openEstablishmentsCount": 251,
+  "headquarters": {
+    "siret": "50154202100057",
+    "isHeadquarters": true,
+    "status": "active",
+    "tradeName": null,
+    "address": "20 RUE LE CORBUSIER 63800 COURNON-D'AUVERGNE",
+    "postalCode": "63800",
+    "city": "COURNON-D'AUVERGNE",
+    "cityCode": "63124",
+    "department": "63",
+    "departmentName": "Puy-de-Dôme",
+    "region": "84",
+    "regionName": "Auvergne-Rhône-Alpes",
+    "latitude": 45.735422696,
+    "longitude": 3.1798784088,
+    "nafCode": "43.22B",
+    "nafLabel": "Travaux d’installation d’équipements thermiques et de climatisation",
+    "employees": {
+      "code": "12",
+      "label": "20 à 49 salariés",
+      "min": 20,
+      "max": 49,
+      "year": 2023
+    },
+    "createdAt": "2011-12-19"
+  },
+  "matchingEstablishments": [],
+  "latestFinances": {
+    "year": 2024,
+    "revenue": 36754436,
+    "netIncome": 9196836,
+    "revenueDisclosed": true
+  },
+  "financesHistory": [
+    {
+      "year": 2024,
+      "revenue": 36754436,
+      "netIncome": 9196836,
+      "revenueDisclosed": true
+    }
+  ],
+  "vatNumber": "FR02501542021",
+  "labels": [
+    "RGE"
+  ],
+  "collectiveAgreements": [
+    "2420",
+    "1597",
+    "2609"
+  ],
+  "links": {
+    "annuaireEntreprises": "https://annuaire-entreprises.data.gouv.fr/entreprise/501542021",
+    "pappers": "https://www.pappers.fr/entreprise/501542021",
+    "societeCom": "https://www.societe.com/cgi-bin/search?champs=501542021"
+  },
+  "changeType": null,
+  "scrapedAt": "2026-09-29T13:25:01.228Z"
+}
