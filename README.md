@@ -1,6 +1,6 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
-Cloud scrapers for hotel prices, public tenders, second-hand marketplaces, app reviews, company data and website technologies. No code and no servers needed: run them on [Apify](https://apify.com/euroscrape), schedule them, get alerts, and pay only per result.
+Cloud scrapers for hotel and flight prices, public tenders, second-hand marketplaces, app reviews, company data and website technologies. No code and no servers needed: run them on [Apify](https://apify.com/euroscrape), schedule them, get alerts, and pay only per result.
 
 This repository holds **input templates and real sample outputs** for each Actor, plus code snippets to run them from your own scripts. (The Actors' source code is not public.)
 
@@ -9,6 +9,7 @@ This repository holds **input templates and real sample outputs** for each Actor
 | Actor | What you get | Price |
 |---|---|---|
 | [Google Hotels Scraper: Prices from Every Booking Site](https://apify.com/euroscrape/google-hotels-prices) | Hotel prices for any destination and dates, the price on every booking site (official website, Booking.com, Expedia…), rate parity, price calendars, price-drop alerts | $0.002 per hotel and date, +$0.003 with all booking sites |
+| [Google Flights Scraper: Cheapest Dates, Prices & Price History](https://apify.com/euroscrape/google-flights-prices) | Flight prices for any route and dates: cheapest day to fly, price calendar, typical price range, price history, CO2, round trips, price-drop alerts | $0.002 per flight |
 | [EU Public Tenders Scraper: TED, BOAMP, Procurement & Awards](https://apify.com/euroscrape/eu-public-tenders) | Open tenders and contract awards from all of Europe (TED) and France (BOAMP, DECP): deadlines, values in €, buyers, winners per lot, bids received | $0.003 per tender, $0.005 per award |
 | [EU Second-Hand Marketplaces Scraper: Vinted, OLX & More](https://apify.com/euroscrape/eu-marketplace-deals) | One search on the top second-hand marketplace of 18 European countries: prices in €, deal score, cheapest country, resale margin | $0.002 per listing |
 | [Website Tech Stack Detector: 280+ Technologies, Leads & Signals](https://apify.com/euroscrape/website-intelligence) | Technologies of any website (CMS, e-commerce, analytics…), company identity from the legal notice, contacts and sales signals | $0.02 per website |

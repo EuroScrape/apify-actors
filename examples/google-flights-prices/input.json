@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "PAR-BCN"
+  ],
+  "departureDate": "2026-11-06",
+  "numberOfDates": 8,
+  "daysBetweenDates": 7,
+  "tripLengthDays": 2,
+  "adults": 2
+}

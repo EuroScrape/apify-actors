@@ -1,0 +1,60 @@
+{
+  "type": "flight",
+  "route": "PAR-BCN",
+  "origin": "PAR",
+  "destination": "BCN",
+  "departureDate": "2026-11-12",
+  "returnDate": "2026-11-16",
+  "tripType": "round_trip",
+  "adults": 1,
+  "children": 0,
+  "cabinClass": "economy",
+  "currency": "EUR",
+  "price": 80,
+  "pricePerPassenger": 80,
+  "priceLevel": "high",
+  "typicalPriceLow": 50,
+  "typicalPriceHigh": 130,
+  "isBestFlight": true,
+  "airline": "Ryanair",
+  "airlines": [
+    "Ryanair"
+  ],
+  "airlineCode": "FR",
+  "flightNumbers": [
+    "FR 3122"
+  ],
+  "departureAirport": "BVA",
+  "arrivalAirport": "BCN",
+  "departure": "2026-11-12T14:05",
+  "arrival": "2026-11-12T15:50",
+  "durationMinutes": 105,
+  "stops": 0,
+  "layovers": [],
+  "aircraft": [
+    "Boeing 737"
+  ],
+  "co2Kg": 88,
+  "co2TypicalKg": 84,
+  "co2DiffPct": 5,
+  "legs": [
+    {
+      "flightNumber": "FR 3122",
+      "airline": "Ryanair",
+      "from": "BVA",
+      "fromName": "Paris Beauvais Airport",
+      "to": "BCN",
+      "toName": "Josep Tarradellas Barcelona-El Prat Airport",
+      "departure": "2026-11-12T14:05",
+      "arrival": "2026-11-12T15:50",
+      "durationMinutes": 105,
+      "aircraft": "Boeing 737",
+      "legroom": "30 in"
+    }
+  ],
+  "googleFlightsUrl": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMTJqBRIDUEFScgUSA0JDThoaEgoyMDI2LTExLTE2agUSA0JDTnIFEgNQQVJAAUgBmAEB&hl=en&gl=us&curr=EUR",
+  "changeType": null,
+  "previousPrice": null,
+  "priceChangePct": null,
+  "scrapedAt": "2026-10-01T16:48:23.556Z"
+}
