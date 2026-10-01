@@ -1,0 +1,16 @@
+{
+  "searches": [
+    "nike air max 90"
+  ],
+  "countries": [
+    "FR",
+    "DE"
+  ],
+  "conditions": [
+    "new_with_tags",
+    "very_good"
+  ],
+  "priceMax": 80,
+  "order": "newest",
+  "maxItemsPerSearch": 30
+}
