@@ -1,0 +1,14 @@
+{
+  "type": "vat",
+  "input": "IE 6388047V",
+  "countryCode": "IE",
+  "vatNumber": "6388047V",
+  "vatNumberFormatted": "IE6388047V",
+  "syntaxValid": true,
+  "valid": true,
+  "companyName": "GOOGLE IRELAND LIMITED",
+  "companyAddress": "3RD FLOOR, GORDON HOUSE, BARROW STREET, DUBLIN 4",
+  "consultationNumber": "WAPIAAAAaD5Jk8-i",
+  "memberStateUnavailable": false,
+  "checkedAt": "2026-10-01T20:27:12.735Z"
+}
