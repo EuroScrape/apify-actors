@@ -69,3 +69,13 @@ Hotels, tenders, second-hand marketplaces, Kleinanzeigen and company registries 
 ## 💬 Feedback
 
 Missing a field, a country or a source? Say it in a review on the Actor's page in Apify Store.
+## 🧪 Example projects
+
+Small, runnable Python projects built on these Actors (one file each, `pip install apify-client`):
+
+| Project | What it does |
+|---|---|
+| [`examples/flight-fare-calendar`](examples/flight-fare-calendar/fare_calendar.py) | Prints the cheapest day to fly on your routes as a fare calendar, and writes `fares.csv` |
+| [`examples/hotel-rate-parity-monitor`](examples/hotel-rate-parity-monitor/parity.py) | Checks whether a hotel's official site is the cheapest place to book it, night by night |
+| [`examples/eu-tenders-slack-alerts`](examples/eu-tenders-slack-alerts/tenders.py) | Posts new EU public tenders matching your keywords to a Slack channel, daily |
+
