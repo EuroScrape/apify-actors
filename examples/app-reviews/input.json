@@ -1,0 +1,12 @@
+{
+  "appNames": [
+    "Duolingo"
+  ],
+  "countries": [
+    "us",
+    "gb",
+    "fr",
+    "de"
+  ],
+  "maxReviewsPerCountry": 50
+}

@@ -1,0 +1,21 @@
+{
+  "type": "review",
+  "store": "Google Play",
+  "appId": "com.spotify.music",
+  "appName": "Spotify: Music and Podcasts",
+  "country": "us",
+  "countryName": "United States",
+  "language": "en",
+  "reviewId": "de82d3cb-4b4a-43e9-9814-906e71b4ffb9",
+  "rating": 5,
+  "title": null,
+  "text": "I just updated the app today and its now unusable. It wouldnt connect to the internet, or show my profile or playlists. I tried to uninstall and reinstall it, and now I can't even log in.",
+  "version": "9.1.86.2432",
+  "date": "2026-09-29T19:17:03.870Z",
+  "helpfulCount": 0,
+  "developerReply": "Hi! This should be fixed now. If you're still having issues, we'd recommend reinstalling the app. If that doesn't help, reach out to our Customer Service team. You can find them by searching “Contact Us” at support.spotify.com.",
+  "developerReplyDate": "2026-09-30T14:45:32.400Z",
+  "url": "https://play.google.com/store/apps/details?id=com.spotify.music&reviewId=de82d3cb-4b4a-43e9-9814-906e71b4ffb9",
+  "changeType": null,
+  "scrapedAt": "2026-09-30T19:23:08.022Z"
+}
