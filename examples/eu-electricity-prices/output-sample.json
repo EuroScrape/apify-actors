@@ -1,0 +1,23 @@
+{
+  "type": "daySummary",
+  "zone": "FR",
+  "zoneName": "France",
+  "country": "France",
+  "date": "2026-10-03",
+  "averageEurMwh": 172.52,
+  "minEurMwh": 63.94,
+  "minTimeCet": "2026-10-03T13:30",
+  "maxEurMwh": 243.06,
+  "maxTimeCet": "2026-10-03T18:45",
+  "negativeQuarterHours": 0,
+  "cheapest3hWindow": {
+    "startCet": "2026-10-03T12:15",
+    "averageEurMwh": 81.95
+  },
+  "priciest3hWindow": {
+    "startCet": "2026-10-03T18:15",
+    "averageEurMwh": 229.93
+  },
+  "spreadEurMwh": 179.12,
+  "source": "Bundesnetzagentur | SMARD.de via api.energy-charts.info (CC BY 4.0)"
+}
