@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "BER-ALC"
+  ],
+  "months": 2,
+  "airports": [
+    "Paris Beauvais"
+  ],
+  "maxPrice": 30
+}

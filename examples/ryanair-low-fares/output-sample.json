@@ -1,0 +1,17 @@
+{
+  "type": "destination",
+  "origin": "BVA",
+  "originName": "Paris Beauvais",
+  "destination": "BGY",
+  "destinationName": "Milan Bergamo",
+  "city": "Bergamo",
+  "country": "Italy",
+  "departure": "2026-11-02T06:00:00",
+  "arrival": "2026-11-02T07:30:00",
+  "flightNumber": "FR3433",
+  "price": 14.99,
+  "currency": "EUR",
+  "ryanairPreviousPrice": 0,
+  "priceUpdatedAt": "2026-10-02T19:17:49.000Z",
+  "scrapedAt": "2026-10-02T19:27:32.579Z"
+}
