@@ -71,6 +71,20 @@ Hotels, tenders, second-hand marketplaces, Kleinanzeigen and company registries 
 ## 💬 Feedback
 
 Missing a field, a country or a source? Say it in a review on the Actor's page in Apify Store.
+## 📚 Articles & guides
+
+Real numbers, real code, from building and running these Actors:
+
+- [Check a hotel's price on every booking site (and spot rate-parity gaps) without writing a scraper](articles/01-google-hotels.md)
+- [Same used iPhone, 62% price gap - comparing second-hand prices across 18 European countries](articles/02-second-hand-europe.md)
+- [57% of the contract lots I sampled got a single bid - mining EU tenders and award winners from TED](articles/03-eu-tenders.md)
+- [Find websites running WordPress, WooCommerce or Shopify - and the ones that need your help](articles/04-tech-stack-leads.md)
+- [Build B2B lead lists from official company registers (France SIRENE and UK Companies House)](articles/05-company-registers-leads.md)
+- [The same flight cost $362 or $162 depending on the day - building a fare calendar from Google Flights](articles/06-google-flights-calendar.md)
+- [Get every new 1-star review of your app in Slack (App Store and Google Play, 58 countries)](articles/07-app-reviews-alerts.md)
+- [When a Vinted search finds nothing, it quietly shows you popular junk - here is how to detect it](articles/08-vinted-fallback-feed.md)
+- [Zero-rating an intra-EU invoice? Without a VIES consultation number, you may owe the VAT yourself](articles/09-vat-vies-proof.md)
+
 ## 🧪 Example projects
 
 Small, runnable Python projects built on these Actors (one file each, `pip install apify-client`):
