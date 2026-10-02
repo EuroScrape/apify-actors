@@ -1,5 +1,9 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
+[![Apify Store](https://img.shields.io/badge/Apify_Store-15_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-10_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
+
+![Fare calendars from real Google Flights data](assets/demo-google-flights-prices.gif)
+
 Cloud scrapers for hotel and flight prices, public tenders, second-hand marketplaces, app reviews, company data and website technologies. No code and no servers needed: run them on [Apify](https://apify.com/euroscrape), schedule them, get alerts, and pay only per result.
 
 This repository holds **input templates and real sample outputs** for each Actor, plus code snippets to run them from your own scripts. (The Actors' source code is not public.)
