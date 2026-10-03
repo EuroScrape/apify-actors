@@ -1,0 +1,10 @@
+{
+  "locations": [
+    "Grenoble"
+  ],
+  "ratings": [
+    "F",
+    "G"
+  ],
+  "maxRatingsPerLocation": 50
+}

@@ -1,0 +1,141 @@
+[
+  {
+    "type": "locationSummary",
+    "location": "Grenoble",
+    "totalRatings": 56771,
+    "byRating": {
+      "A": {
+        "count": 480,
+        "sharePct": 0.8
+      },
+      "B": {
+        "count": 3974,
+        "sharePct": 7
+      },
+      "C": {
+        "count": 19117,
+        "sharePct": 33.7
+      },
+      "D": {
+        "count": 19011,
+        "sharePct": 33.5
+      },
+      "E": {
+        "count": 9758,
+        "sharePct": 17.2
+      },
+      "F": {
+        "count": 3061,
+        "sharePct": 5.4
+      },
+      "G": {
+        "count": 1370,
+        "sharePct": 2.4
+      }
+    },
+    "energySieves": {
+      "count": 4431,
+      "sharePct": 7.8
+    },
+    "deliveredRatings": 40,
+    "medianAnnualEnergyCostEurDelivered": 1766,
+    "source": "ADEME — DPE Logements existants (depuis juillet 2021), Licence Ouverte / Open Licence",
+    "generatedAt": "2026-10-03T12:54:51.034Z"
+  },
+  {
+    "type": "dpe",
+    "location": "Grenoble",
+    "dpeNumber": "2638E2478373S",
+    "energyRating": "G",
+    "ghgRating": "G",
+    "issuedAt": "2026-09-28",
+    "validUntil": "2036-09-27",
+    "rentalBanFrom": 2025,
+    "propertyType": "apartment",
+    "surfaceM2": 35,
+    "constructionPeriod": "avant 1948",
+    "floor": 0,
+    "address": "24 Rue Marx Dormoy 38000 Grenoble",
+    "postalCode": "38000",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "latitude": 45.187544,
+    "longitude": 5.70695,
+    "primaryEnergyKwhM2Year": 697,
+    "ghgKgCo2M2Year": 116,
+    "estimatedAnnualEnergyCostEur": 2501,
+    "mainEnergy": "Gaz naturel",
+    "insulation": {
+      "envelope": "poor",
+      "walls": "poor",
+      "windows": "average",
+      "floor": "very good"
+    },
+    "summerComfort": "poor",
+    "scrapedAt": "2026-10-03T12:54:50.986Z"
+  },
+  {
+    "type": "dpe",
+    "location": "Grenoble",
+    "dpeNumber": "2638E2467290L",
+    "energyRating": "G",
+    "ghgRating": "C",
+    "issuedAt": "2026-09-28",
+    "validUntil": "2036-09-27",
+    "rentalBanFrom": 2025,
+    "propertyType": "apartment",
+    "surfaceM2": 12.5,
+    "constructionPeriod": "1948-1974",
+    "floor": 0,
+    "address": "21 Rue Thiers 38000 Grenoble",
+    "postalCode": "38000",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "latitude": 45.187179,
+    "longitude": 5.721196,
+    "primaryEnergyKwhM2Year": 655,
+    "ghgKgCo2M2Year": 26,
+    "estimatedAnnualEnergyCostEur": 974,
+    "mainEnergy": "Électricité",
+    "insulation": {
+      "envelope": "poor",
+      "walls": "poor",
+      "windows": "average",
+      "floor": "very good"
+    },
+    "summerComfort": "poor",
+    "scrapedAt": "2026-10-03T12:54:50.989Z"
+  },
+  {
+    "type": "dpe",
+    "location": "Grenoble",
+    "dpeNumber": "2638E2469787M",
+    "energyRating": "F",
+    "ghgRating": "C",
+    "issuedAt": "2026-09-28",
+    "validUntil": "2036-09-27",
+    "rentalBanFrom": 2028,
+    "propertyType": "apartment",
+    "surfaceM2": 38.5,
+    "constructionPeriod": "avant 1948",
+    "floor": 0,
+    "address": "8 Rue de Londres 38000 Grenoble",
+    "postalCode": "38000",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "latitude": 45.184191,
+    "longitude": 5.715194,
+    "primaryEnergyKwhM2Year": 350,
+    "ghgKgCo2M2Year": 13,
+    "estimatedAnnualEnergyCostEur": 1521,
+    "mainEnergy": "Électricité",
+    "insulation": {
+      "envelope": "poor",
+      "walls": "poor",
+      "windows": "average",
+      "floor": "very good"
+    },
+    "summerComfort": "average",
+    "scrapedAt": "2026-10-03T12:54:50.989Z"
+  }
+]
