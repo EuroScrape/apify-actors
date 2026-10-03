@@ -1,6 +1,6 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
-[![Apify Store](https://img.shields.io/badge/Apify_Store-17_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-10_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
+[![Apify Store](https://img.shields.io/badge/Apify_Store-17_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-11_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
 
 ![Fare calendars from real Google Flights data](assets/demo-google-flights-prices.gif)
 
@@ -24,7 +24,7 @@ This repository holds **input templates and real sample outputs** for each Actor
 | [Impressum & Legal Notice Scraper: VAT, Registry, Contacts](https://apify.com/euroscrape/company-identity) | Legal name, registry numbers and VAT IDs from any European website, checked against official registries | $0.004 per website | [▶ example](https://apify.com/euroscrape/company-identity/examples/legal-identity-behind-any-eu-website) |
 | [France Fuel Prices: Cheapest Stations Near You & Alerts](https://apify.com/euroscrape/france-fuel-prices) | Official live prices of all ~10,000 French stations: cheapest Diesel, SP95/98, E10, E85, LPG around any point, with distances, medians, local spread and price-drop alerts | $0.001 per station | [▶ example](https://apify.com/euroscrape/france-fuel-prices/examples/cheapest-diesel-around-lyon) |
 | [France Real Estate Sold Prices (DVF)](https://apify.com/euroscrape/france-property-prices) | Every sale registered by the French State: real prices, €/m², surfaces, addresses, GPS, median prices and year-by-year trends per city, alerts on new sales | $0.0005 per sale | [▶ example](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-grenoble-real-prices) |
-| [France Energy Ratings (DPE): Homes, Energy Sieves & Alerts](https://apify.com/euroscrape/france-energy-ratings) | Official ADEME energy certificates of French homes: energy and CO2 class, address, GPS, consumption, estimated yearly bill, insulation quality, F/G share per city, alerts on new certificates | $0.001 per certificate | |
+| [France Energy Ratings (DPE): Homes, Energy Sieves & Alerts](https://apify.com/euroscrape/france-energy-ratings) | Official ADEME energy certificates of French homes: energy and CO2 class, address, GPS, consumption, estimated yearly bill, insulation quality, F/G share per city, alerts on new certificates | $0.001 per certificate | [▶ example](https://apify.com/euroscrape/france-energy-ratings/examples/energy-sieves-f-g-homes-in-paris) |
 | [French Companies Scraper: SIRENE Leads, Directors & Emails](https://apify.com/euroscrape/france-companies) | Every French company by activity, area and size, with finances and optionally a verified website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/france-companies/examples/french-plumbing-companies-with-contacts) |
 | [UK Companies House Scraper: Directors, Leads & Emails](https://apify.com/euroscrape/uk-companies) | UK companies by SIC code and location, with officers and optionally website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/uk-companies/examples/new-london-software-companies-with-officers) |
 | [App Store Reviews Scraper + Google Play Reviews (All Countries)](https://apify.com/euroscrape/app-reviews) | Reviews from both stores in 58 countries: rating, text, version, developer reply, summary by version and country, alerts on new negative reviews | $0.0002 per review | [▶ example](https://apify.com/euroscrape/app-reviews/examples/track-negative-app-reviews-spotify) |
@@ -92,7 +92,9 @@ Real numbers, real code, from building and running these Actors:
 - [The same flight cost $362 or $162 depending on the day - building a fare calendar from Google Flights](articles/06-google-flights-calendar.md)
 - [Get every new 1-star review of your app in Slack (App Store and Google Play, 58 countries)](articles/07-app-reviews-alerts.md)
 - [When a Vinted search finds nothing, it quietly shows you popular junk - here is how to detect it](articles/08-vinted-fallback-feed.md)
-- [Zero-rating an intra-EU invoice? Without a VIES consultation number, you may owe the VAT yourself](articles/09-vat-vies-proof.md)- [France publishes every property sale as open data - most people compute the price per m² wrong](articles/10-dvf-prix-immobilier.md)
+- [Zero-rating an intra-EU invoice? Without a VIES consultation number, you may owe the VAT yourself](articles/09-vat-vies-proof.md)
+- [France publishes every property sale as open data - most people compute the price per m² wrong](articles/10-dvf-prix-immobilier.md)
+- [Night power is not the cheapest, and the cheapest fuel station is often a ghost - two things official energy data taught me](articles/11-energy-two-assumptions.md)
 
 
 ## 🧪 Example projects
