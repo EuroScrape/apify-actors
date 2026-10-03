@@ -1,0 +1,46 @@
+{
+  "type": "locationSummary",
+  "location": "Grenoble",
+  "radiusKm": 8,
+  "stationsFound": 12,
+  "byFuel": {
+    "Gazole": {
+      "stations": 12,
+      "cheapest": {
+        "price": 2.25,
+        "address": "14 Avenue Esclangon",
+        "city": "Gières",
+        "distanceKm": 5.5,
+        "updatedAt": "2026-09-14T08:12:08"
+      },
+      "median": 2.298,
+      "spreadCts": 12.2
+    },
+    "E10": {
+      "stations": 10,
+      "cheapest": {
+        "price": 1.99,
+        "address": "Avenue de Verdun",
+        "city": "LA TRONCHE",
+        "distanceKm": 3,
+        "updatedAt": "2026-10-02T15:49:30"
+      },
+      "median": 2.158,
+      "spreadCts": 21.6
+    },
+    "SP98": {
+      "stations": 7,
+      "cheapest": {
+        "price": 1.99,
+        "address": "115 AVENUE DE LA REPUBLIQUE",
+        "city": "SEYSSINET",
+        "distanceKm": 1.7,
+        "updatedAt": "2026-10-03T08:25:19"
+      },
+      "median": 2.284,
+      "spreadCts": 33.9
+    }
+  },
+  "source": "prix-carburants.gouv.fr (Licence Ouverte / Open Licence)",
+  "generatedAt": "2026-10-03T08:04:11.365Z"
+}

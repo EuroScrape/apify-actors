@@ -1,0 +1,10 @@
+{
+  "locations": [
+    "Grenoble"
+  ],
+  "radiusKm": 10,
+  "fuels": [
+    "Gazole",
+    "E10"
+  ]
+}
