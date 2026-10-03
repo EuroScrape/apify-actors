@@ -1,6 +1,6 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
-[![Apify Store](https://img.shields.io/badge/Apify_Store-17_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-11_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
+[![Apify Store](https://img.shields.io/badge/Apify_Store-17_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-12_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
 
 ![Fare calendars from real Google Flights data](assets/demo-google-flights-prices.gif)
 
@@ -23,7 +23,7 @@ This repository holds **input templates and real sample outputs** for each Actor
 | [EU VAT Number Validator (VIES): Bulk Check, Proof & Alerts](https://apify.com/euroscrape/vat-validator) | Bulk VAT validation against the EU's official VIES registry: company names, official consultation proof for tax audits, alerts when a customer's number becomes invalid | $0.002 per check | [▶ example](https://apify.com/euroscrape/vat-validator/examples/check-eu-vat-numbers-in-bulk) |
 | [Impressum & Legal Notice Scraper: VAT, Registry, Contacts](https://apify.com/euroscrape/company-identity) | Legal name, registry numbers and VAT IDs from any European website, checked against official registries | $0.004 per website | [▶ example](https://apify.com/euroscrape/company-identity/examples/legal-identity-behind-any-eu-website) |
 | [France Fuel Prices: Cheapest Stations Near You & Alerts](https://apify.com/euroscrape/france-fuel-prices) | Official live prices of all ~10,000 French stations: cheapest Diesel, SP95/98, E10, E85, LPG around any point, with distances, medians, local spread and price-drop alerts | $0.001 per station | [▶ example](https://apify.com/euroscrape/france-fuel-prices/examples/cheapest-diesel-around-lyon) |
-| [France Real Estate Sold Prices (DVF)](https://apify.com/euroscrape/france-property-prices) | Every sale registered by the French State: real prices, €/m², surfaces, addresses, GPS, median prices and year-by-year trends per city, alerts on new sales | $0.0005 per sale | [▶ example](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-grenoble-real-prices) |
+| [France Real Estate Sold Prices (DVF)](https://apify.com/euroscrape/france-property-prices) | Every sale registered by the French State: real prices, €/m², surfaces, addresses, GPS, **the energy rating (DPE) of the home sold**, median prices per city and per energy class, alerts on new sales | $0.0005 per sale | [▶ example](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-grenoble-real-prices) |
 | [France Energy Ratings (DPE): Homes, Energy Sieves & Alerts](https://apify.com/euroscrape/france-energy-ratings) | Official ADEME energy certificates of French homes: energy and CO2 class, address, GPS, consumption, estimated yearly bill, insulation quality, F/G share per city, alerts on new certificates | $0.001 per certificate | [▶ example](https://apify.com/euroscrape/france-energy-ratings/examples/energy-sieves-f-g-homes-in-paris) |
 | [French Companies Scraper: SIRENE Leads, Directors & Emails](https://apify.com/euroscrape/france-companies) | Every French company by activity, area and size, with finances and optionally a verified website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/france-companies/examples/french-plumbing-companies-with-contacts) |
 | [UK Companies House Scraper: Directors, Leads & Emails](https://apify.com/euroscrape/uk-companies) | UK companies by SIC code and location, with officers and optionally website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/uk-companies/examples/new-london-software-companies-with-officers) |
@@ -95,6 +95,7 @@ Real numbers, real code, from building and running these Actors:
 - [Zero-rating an intra-EU invoice? Without a VIES consultation number, you may owe the VAT yourself](articles/09-vat-vies-proof.md)
 - [France publishes every property sale as open data - most people compute the price per m² wrong](articles/10-dvf-prix-immobilier.md)
 - [Night power is not the cheapest, and the cheapest fuel station is often a ghost - two things official energy data taught me](articles/11-energy-two-assumptions.md)
+- [I matched 2,518 apartment sales to their energy certificates - F and G homes sold 16% cheaper per m²](articles/12-dvf-dpe-energy-discount.md)
 
 
 ## 🧪 Example projects

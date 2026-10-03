@@ -1,24 +1,194 @@
-{
-  "type": "sale",
-  "location": "Grenoble",
-  "saleId": "2025-507052",
-  "date": "2025-12-30",
-  "year": 2025,
-  "price": 220000,
-  "propertyType": "apartment",
-  "isNewBuild": false,
-  "surface": 105,
-  "rooms": 4,
-  "pricePerM2": 2095,
-  "dwellings": 1,
-  "outbuildings": 2,
-  "address": "16 RUE GENERAL MANGIN",
-  "street": "RUE GENERAL MANGIN",
-  "postalCode": "38100",
-  "city": "Grenoble",
-  "inseeCode": "38185",
-  "department": "38",
-  "latitude": 45.179518,
-  "longitude": 5.719225,
-  "scrapedAt": "2026-10-02T12:10:03.514Z"
-}
+[
+  {
+    "type": "sale",
+    "location": "Grenoble",
+    "saleId": "2025-5070••",
+    "date": "2025-12-23",
+    "year": 2025,
+    "price": 465000,
+    "propertyType": "apartment",
+    "isNewBuild": false,
+    "surface": 144,
+    "rooms": 6,
+    "pricePerM2": 3229,
+    "dwellings": 1,
+    "outbuildings": 2,
+    "landSurface": null,
+    "address": "•• CRS BERRIAT",
+    "postalCode": "38000",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "department": "38",
+    "latitude": 45.187,
+    "longitude": 5.723,
+    "energyRating": "D",
+    "ghgRating": "D",
+    "energyKwhM2Year": 202,
+    "energyRatingIssuedAt": "2025-10-23",
+    "energyRatingMatch": "high",
+    "dpeNumber": "2538E••••••••",
+    "changeType": null,
+    "scrapedAt": "2026-10-03T13:23:41.403Z"
+  },
+  {
+    "type": "sale",
+    "location": "Grenoble",
+    "saleId": "2025-5070••",
+    "date": "2025-12-23",
+    "year": 2025,
+    "price": 155000,
+    "propertyType": "apartment",
+    "isNewBuild": false,
+    "surface": 67,
+    "rooms": 3,
+    "pricePerM2": 2313,
+    "dwellings": 1,
+    "outbuildings": 2,
+    "landSurface": null,
+    "address": "•• AV LEON BLUM",
+    "postalCode": "38100",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "department": "38",
+    "latitude": 45.166,
+    "longitude": 5.721,
+    "energyRating": "C",
+    "ghgRating": "B",
+    "energyKwhM2Year": 162,
+    "energyRatingIssuedAt": "2024-04-03",
+    "energyRatingMatch": "high",
+    "dpeNumber": "2438E••••••••",
+    "changeType": null,
+    "scrapedAt": "2026-10-03T13:23:41.405Z"
+  },
+  {
+    "type": "sale",
+    "location": "Grenoble",
+    "saleId": "2025-5070••",
+    "date": "2025-12-31",
+    "year": 2025,
+    "price": 160000,
+    "propertyType": "apartment",
+    "isNewBuild": false,
+    "surface": 109,
+    "rooms": 3,
+    "pricePerM2": null,
+    "dwellings": 2,
+    "outbuildings": 4,
+    "landSurface": null,
+    "address": "•• RUE BARBILLON",
+    "postalCode": "38000",
+    "city": "Grenoble",
+    "inseeCode": "38185",
+    "department": "38",
+    "latitude": 45.191,
+    "longitude": 5.716,
+    "energyRating": null,
+    "ghgRating": null,
+    "energyKwhM2Year": null,
+    "energyRatingIssuedAt": null,
+    "energyRatingMatch": null,
+    "dpeNumber": null,
+    "changeType": null,
+    "scrapedAt": "2026-10-03T13:23:41.378Z"
+  },
+  {
+    "type": "locationSummary",
+    "location": "Grenoble",
+    "salesMatching": 4791,
+    "salesDelivered": 4791,
+    "apartments": {
+      "sales": 4791,
+      "medianPrice": 131350,
+      "medianPricePerM2": 2500,
+      "medianSurface": 60
+    },
+    "houses": {
+      "sales": 0,
+      "medianPrice": null,
+      "medianPricePerM2": null,
+      "medianSurface": null
+    },
+    "byYear": [
+      {
+        "year": 2024,
+        "sales": 2408,
+        "apartmentMedianPricePerM2": 2522,
+        "houseMedianPrice": null
+      },
+      {
+        "year": 2025,
+        "sales": 2383,
+        "apartmentMedianPricePerM2": 2500,
+        "houseMedianPrice": null
+      }
+    ],
+    "newBuildShare": 1.2,
+    "mostActiveStreets": [
+      {
+        "street": "CRS LIBERATION - GEN DE GAULLE",
+        "city": "Grenoble",
+        "sales": 133
+      },
+      {
+        "street": "RUE DE STALINGRAD",
+        "city": "Grenoble",
+        "sales": 100
+      },
+      {
+        "street": "CRS JEAN JAURES",
+        "city": "Grenoble",
+        "sales": 90
+      },
+      {
+        "street": "CRS BERRIAT",
+        "city": "Grenoble",
+        "sales": 81
+      },
+      {
+        "street": "BD JOSEPH VALLIER",
+        "city": "Grenoble",
+        "sales": 80
+      }
+    ],
+    "generatedAt": "2026-10-03T13:23:42.650Z",
+    "energyRatings": {
+      "salesChecked": 4559,
+      "salesWithRating": 2518,
+      "sharePct": 55.2,
+      "apartments": {
+        "A": {
+          "sales": 15,
+          "medianPricePerM2": 3317
+        },
+        "B": {
+          "sales": 103,
+          "medianPricePerM2": 2727
+        },
+        "C": {
+          "sales": 760,
+          "medianPricePerM2": 2802
+        },
+        "D": {
+          "sales": 1039,
+          "medianPricePerM2": 2398
+        },
+        "E": {
+          "sales": 447,
+          "medianPricePerM2": 2386
+        },
+        "F": {
+          "sales": 104,
+          "medianPricePerM2": 2145
+        },
+        "G": {
+          "sales": 50,
+          "medianPricePerM2": 2173
+        }
+      },
+      "houses": {},
+      "note": "Computed on the delivered sales matched to an official energy certificate (same address, property type and surface, certificate issued in the 2 years before the sale)."
+    },
+    "energySource": "ADEME — DPE Logements existants (depuis juillet 2021), Licence Ouverte / Open Licence"
+  }
+]

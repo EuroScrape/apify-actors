@@ -9,5 +9,5 @@
   "propertyTypes": [
     "apartment"
   ],
-  "minSurface": 30
+  "includeEnergyRating": true
 }
