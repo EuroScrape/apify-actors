@@ -1,6 +1,6 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
-[![Apify Store](https://img.shields.io/badge/Apify_Store-19_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-13_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
+[![Apify Store](https://img.shields.io/badge/Apify_Store-19_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-14_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
 
 ![Fare calendars from real Google Flights data](assets/demo-google-flights-prices.gif)
 
@@ -99,6 +99,7 @@ Real numbers, real code, from building and running these Actors:
 - [Night power is not the cheapest, and the cheapest fuel station is often a ghost - two things official energy data taught me](articles/11-energy-two-assumptions.md)
 - [I matched 2,518 apartment sales to their energy certificates - F and G homes sold 16% cheaper per m²](articles/12-dvf-dpe-energy-discount.md)
 - [Companies file 1 French building permit in 5 and build 3 homes in 4 - and the register names them 8 months before the site opens](articles/13-building-permits-window.md)
+- [A 4.8-star shop tells you nothing - across 444 German online shops the rating fits in a third of a point, while the share of 1 and 2 star reviews varies 11x](articles/14-trusted-shops-ratings.md)
 
 
 ## 🧪 Example projects
