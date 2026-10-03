@@ -2,7 +2,7 @@
 
 ![cover](../assets/cover-trusted-shops.png)
 
-Trusted Shops is the trustmark you see on most serious German online shops. Each certified shop has a public profile with its rating out of 5, the number of reviews collected over the last twelve months, and the count of reviews per star.
+Trusted Shops is one of the most common trustmarks on German online shops. Each certified shop has a public profile with its rating out of 5, the number of reviews collected over the last twelve months, and the count of reviews per star.
 
 I read 444 of those profiles: the first results of the directory for three everyday searches - garden (165 shops), jewellery (162) and furniture (173, limited to shops with 500 reviews or more), duplicates removed. Together they collected 1,583,275 reviews in twelve months.
 
