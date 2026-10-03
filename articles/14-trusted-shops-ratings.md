@@ -30,9 +30,9 @@ The reason is arithmetic. When nine customers out of ten leave five stars, the a
 
 Shops collecting 100 to 999 reviews a year have a median of 1.8% negative reviews; those above 5,000 a year are at 2.65%. In furniture the gap is wider: 2.9% for the small ones, 5.35% for the large ones.
 
-The category matters too: the median furniture shop has 2.8% of negative reviews, against 1.8% for garden and 1.7% for jewellery. Heavy parcels, long delivery times and assembly leave more room for things to go wrong than a necklace in an envelope.
+The category matters too: the median furniture shop has 2.8% of negative reviews, against 1.8% for garden and 1.7% for jewellery. A plausible reason: heavy parcels, long delivery times and assembly leave more room for things to go wrong than a necklace in an envelope.
 
-One more figure for anyone who sells to online shops: review volume is extremely concentrated. The top tenth of the sample (44 shops) collects **58%** of all reviews; the bottom half collects 5.6%. The median shop gets 1,118 reviews a year, a quarter get fewer than 300, a quarter more than 3,250. Since shops ask for a review after each order, that count is the closest public proxy you will find for order volume.
+One more figure for anyone who sells to online shops: review volume is extremely concentrated. The top tenth of the sample (44 shops) collects **58%** of all reviews; the bottom half collects 5.6%. The median shop gets 1,118 reviews a year, a quarter get fewer than 300, a quarter more than 3,250. Since shops invite buyers to leave a review after an order, that count is a usable public proxy for order volume.
 
 ## What I would do with this
 
