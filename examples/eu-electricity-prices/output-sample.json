@@ -1,23 +1,115 @@
-{
-  "type": "daySummary",
-  "zone": "FR",
-  "zoneName": "France",
-  "country": "France",
-  "date": "2026-10-03",
-  "averageEurMwh": 172.52,
-  "minEurMwh": 63.94,
-  "minTimeCet": "2026-10-03T13:30",
-  "maxEurMwh": 243.06,
-  "maxTimeCet": "2026-10-03T18:45",
-  "negativeQuarterHours": 0,
-  "cheapest3hWindow": {
-    "startCet": "2026-10-03T12:15",
-    "averageEurMwh": 81.95
+[
+  {
+    "type": "daySummary",
+    "zone": "FR",
+    "zoneName": "France",
+    "country": "France",
+    "date": "2026-10-03",
+    "marketResolution": "15min",
+    "averageEurMwh": 172.52,
+    "minEurMwh": 63.94,
+    "minTimeCet": "2026-10-03T13:30",
+    "maxEurMwh": 243.06,
+    "maxTimeCet": "2026-10-03T18:45",
+    "negativeQuarterHours": 0,
+    "negativeHours": 0,
+    "cheapestWindow": {
+      "hours": 4,
+      "startCet": "2026-10-03T11:45",
+      "averageEurMwh": 89.88,
+      "endCet": "2026-10-03T15:45"
+    },
+    "priciestWindow": {
+      "hours": 4,
+      "startCet": "2026-10-03T17:45",
+      "averageEurMwh": 226.32,
+      "endCet": "2026-10-03T21:45"
+    },
+    "cheapest3hWindow": {
+      "startCet": "2026-10-03T12:15",
+      "averageEurMwh": 81.95
+    },
+    "priciest3hWindow": {
+      "startCet": "2026-10-03T18:15",
+      "averageEurMwh": 229.93
+    },
+    "spreadEurMwh": 179.12,
+    "source": "Bundesnetzagentur | SMARD.de via api.energy-charts.info (CC BY 4.0)"
   },
-  "priciest3hWindow": {
-    "startCet": "2026-10-03T18:15",
-    "averageEurMwh": 229.93
+  {
+    "type": "daySummary",
+    "zone": "FR",
+    "zoneName": "France",
+    "country": "France",
+    "date": "2026-10-04",
+    "marketResolution": "15min",
+    "averageEurMwh": 167.52,
+    "minEurMwh": 46.62,
+    "minTimeCet": "2026-10-04T14:00",
+    "maxEurMwh": 245.07,
+    "maxTimeCet": "2026-10-04T19:30",
+    "negativeQuarterHours": 0,
+    "negativeHours": 0,
+    "cheapestWindow": {
+      "hours": 4,
+      "startCet": "2026-10-04T11:45",
+      "averageEurMwh": 73.2,
+      "endCet": "2026-10-04T15:45"
+    },
+    "priciestWindow": {
+      "hours": 4,
+      "startCet": "2026-10-04T18:30",
+      "averageEurMwh": 227.17,
+      "endCet": "2026-10-04T22:30"
+    },
+    "cheapest3hWindow": {
+      "startCet": "2026-10-04T12:30",
+      "averageEurMwh": 64.97
+    },
+    "priciest3hWindow": {
+      "startCet": "2026-10-04T18:30",
+      "averageEurMwh": 231.38
+    },
+    "spreadEurMwh": 198.45,
+    "source": "Bundesnetzagentur | SMARD.de via api.energy-charts.info (CC BY 4.0)"
   },
-  "spreadEurMwh": 179.12,
-  "source": "Bundesnetzagentur | SMARD.de via api.energy-charts.info (CC BY 4.0)"
-}
+  {
+    "type": "price",
+    "zone": "FR",
+    "zoneName": "France",
+    "country": "France",
+    "timeCet": "2026-10-03T00:00",
+    "date": "2026-10-03",
+    "timeUtc": "2026-10-02T22:00Z",
+    "priceEurMwh": 194.82,
+    "priceCtKwh": 19.482,
+    "resolution": "hour",
+    "scrapedAt": "2026-10-03T14:44:35.581Z"
+  },
+  {
+    "type": "price",
+    "zone": "FR",
+    "zoneName": "France",
+    "country": "France",
+    "timeCet": "2026-10-03T01:00",
+    "date": "2026-10-03",
+    "timeUtc": "2026-10-02T23:00Z",
+    "priceEurMwh": 179.47,
+    "priceCtKwh": 17.947,
+    "resolution": "hour",
+    "scrapedAt": "2026-10-03T14:44:35.587Z"
+  },
+  {
+    "type": "price",
+    "zone": "FR",
+    "zoneName": "France",
+    "country": "France",
+    "timeCet": "2026-10-03T02:00",
+    "date": "2026-10-03",
+    "timeUtc": "2026-10-03T00:00Z",
+    "priceEurMwh": 173.51,
+    "priceCtKwh": 17.351,
+    "resolution": "hour",
+    "scrapedAt": "2026-10-03T14:44:35.588Z"
+  }
+]

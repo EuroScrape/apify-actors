@@ -9,5 +9,6 @@
   "propertyTypes": [
     "apartment"
   ],
-  "includeEnergyRating": true
+  "includeEnergyRating": true,
+  "includeRentalYield": true
 }

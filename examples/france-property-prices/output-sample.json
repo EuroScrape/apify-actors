@@ -21,6 +21,9 @@
     "department": "38",
     "latitude": 45.187,
     "longitude": 5.723,
+    "rentIndicatorPerM2": 12.21,
+    "grossRentalYieldPct": 4.5,
+    "rentIndicatorReliable": true,
     "energyRating": "D",
     "ghgRating": "D",
     "energyKwhM2Year": 202,
@@ -28,7 +31,7 @@
     "energyRatingMatch": "high",
     "dpeNumber": "2538E••••••••",
     "changeType": null,
-    "scrapedAt": "2026-10-03T13:23:41.403Z"
+    "scrapedAt": "2026-10-03T14:38:35.081Z"
   },
   {
     "type": "sale",
@@ -52,6 +55,9 @@
     "department": "38",
     "latitude": 45.166,
     "longitude": 5.721,
+    "rentIndicatorPerM2": 12.21,
+    "grossRentalYieldPct": 6.3,
+    "rentIndicatorReliable": true,
     "energyRating": "C",
     "ghgRating": "B",
     "energyKwhM2Year": 162,
@@ -59,30 +65,33 @@
     "energyRatingMatch": "high",
     "dpeNumber": "2438E••••••••",
     "changeType": null,
-    "scrapedAt": "2026-10-03T13:23:41.405Z"
+    "scrapedAt": "2026-10-03T14:38:35.083Z"
   },
   {
     "type": "sale",
     "location": "Grenoble",
     "saleId": "2025-5070••",
-    "date": "2025-12-31",
+    "date": "2025-12-30",
     "year": 2025,
-    "price": 160000,
+    "price": 220000,
     "propertyType": "apartment",
     "isNewBuild": false,
-    "surface": 109,
-    "rooms": 3,
-    "pricePerM2": null,
-    "dwellings": 2,
-    "outbuildings": 4,
+    "surface": 105,
+    "rooms": 4,
+    "pricePerM2": 2095,
+    "dwellings": 1,
+    "outbuildings": 2,
     "landSurface": null,
-    "address": "•• RUE BARBILLON",
-    "postalCode": "38000",
+    "address": "•• RUE GENERAL MANGIN",
+    "postalCode": "38100",
     "city": "Grenoble",
     "inseeCode": "38185",
     "department": "38",
-    "latitude": 45.191,
-    "longitude": 5.716,
+    "latitude": 45.18,
+    "longitude": 5.719,
+    "rentIndicatorPerM2": 12.21,
+    "grossRentalYieldPct": 7,
+    "rentIndicatorReliable": true,
     "energyRating": null,
     "ghgRating": null,
     "energyKwhM2Year": null,
@@ -90,7 +99,7 @@
     "energyRatingMatch": null,
     "dpeNumber": null,
     "changeType": null,
-    "scrapedAt": "2026-10-03T13:23:41.378Z"
+    "scrapedAt": "2026-10-03T14:38:35.075Z"
   },
   {
     "type": "locationSummary",
@@ -151,7 +160,7 @@
         "sales": 80
       }
     ],
-    "generatedAt": "2026-10-03T13:23:42.650Z",
+    "generatedAt": "2026-10-03T14:38:36.320Z",
     "energyRatings": {
       "salesChecked": 4559,
       "salesWithRating": 2518,
@@ -189,6 +198,34 @@
       "houses": {},
       "note": "Computed on the delivered sales matched to an official energy certificate (same address, property type and surface, certificate issued in the 2 years before the sale)."
     },
-    "energySource": "ADEME — DPE Logements existants (depuis juillet 2021), Licence Ouverte / Open Licence"
+    "energySource": "ADEME — DPE Logements existants (depuis juillet 2021), Licence Ouverte / Open Licence",
+    "rentalYield": {
+      "edition": 2025,
+      "apartments": {
+        "sales": 4585,
+        "medianGrossYieldPct": 6.6
+      },
+      "apartments1to2Rooms": {
+        "sales": 2084,
+        "medianGrossYieldPct": 6.9
+      },
+      "apartments3RoomsOrMore": {
+        "sales": 2498,
+        "medianGrossYieldPct": 6.3
+      },
+      "houses": null,
+      "apartmentsByCommune": [
+        {
+          "city": "Grenoble",
+          "inseeCode": "38185",
+          "sales": 4585,
+          "medianPricePerM2": 2508,
+          "rentIndicatorPerM2": 13.41,
+          "medianGrossYieldPct": 6.6
+        }
+      ],
+      "note": "Gross and indicative: the commune's asking-rent indicator for a typical home (unfurnished homes advertised in Q3 2025, charges included) x 12, divided by the real sale price per m2. Not the rent of the home sold; no costs, taxes or vacancy deducted.",
+      "rentSource": "Carte des loyers 2025 — ANIL / Ministère chargé du logement, from leboncoin and SeLoger listings (Licence Ouverte / Open Licence)"
+    }
   }
 ]
