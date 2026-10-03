@@ -1,0 +1,7 @@
+{
+  "searchTerms": ["fahrrad"],
+  "countries": ["DE"],
+  "maxShopsPerSearch": 4,
+  "shops": ["bergfreunde.de"],
+  "maxReviewsPerShop": 5
+}
