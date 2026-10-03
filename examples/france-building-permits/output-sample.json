@@ -1,0 +1,262 @@
+[
+  {
+    "type": "locationSummary",
+    "location": "38",
+    "since": "2025-10-03",
+    "permitsMatching": 85,
+    "permitsDelivered": 40,
+    "byCategory": {
+      "housing": {
+        "permits": 85,
+        "dwellings": 2480,
+        "floorAreaM2": 159110
+      }
+    },
+    "byStatus": {
+      "authorized": 82,
+      "started": 3
+    },
+    "topApplicants": [
+      {
+        "name": "GILLES TRIGNAT RESIDENCES",
+        "siren": "397947433",
+        "permits": 8,
+        "dwellings": 245,
+        "floorAreaM2": 15065
+      },
+      {
+        "name": "ISERE HABITAT",
+        "siren": "998318711",
+        "permits": 6,
+        "dwellings": 132,
+        "floorAreaM2": 10459
+      },
+      {
+        "name": "EDIFIM DAUPHINE",
+        "siren": "485015242",
+        "permits": 3,
+        "dwellings": 97,
+        "floorAreaM2": 5412
+      },
+      {
+        "name": "VINCI IMMOBILIER RHONE ALPES AUVERGNE",
+        "siren": "830853628",
+        "permits": 1,
+        "dwellings": 95,
+        "floorAreaM2": 6051
+      },
+      {
+        "name": "RIVES DE GAULLE",
+        "siren": "988996989",
+        "permits": 1,
+        "dwellings": 88,
+        "floorAreaM2": 6331
+      },
+      {
+        "name": "SCCV GRENOUILLET",
+        "siren": "989176532",
+        "permits": 1,
+        "dwellings": 80,
+        "floorAreaM2": 4647
+      },
+      {
+        "name": "AKTIS ARCHITECTURE",
+        "siren": "377537097",
+        "permits": 2,
+        "dwellings": 78,
+        "floorAreaM2": 4890
+      },
+      {
+        "name": "L'IMMOBILIERE VALRIM",
+        "siren": "394086706",
+        "permits": 4,
+        "dwellings": 74,
+        "floorAreaM2": 6812
+      },
+      {
+        "name": "COGEDIM GRENOBLE",
+        "siren": "418868584",
+        "permits": 1,
+        "dwellings": 71,
+        "floorAreaM2": 4375
+      },
+      {
+        "name": "SCCV CHAMROUSSE ALTITUDE 1",
+        "siren": "842267148",
+        "permits": 1,
+        "dwellings": 68,
+        "floorAreaM2": 4238
+      }
+    ],
+    "source": "SDES — Sitadel, liste des permis de construire et autres autorisations d'urbanisme (Licence Ouverte / Open Licence)",
+    "generatedAt": "2026-10-03T13:47:47.316Z"
+  },
+  {
+    "type": "permit",
+    "location": "38",
+    "category": "housing",
+    "permitNumber": "0385632611030",
+    "permitType": "building permit",
+    "status": "authorized",
+    "authorizedAt": "2026-08-24",
+    "filedAt": "2026-06-13",
+    "worksStartedAt": null,
+    "completedAt": null,
+    "lastUpdateMonth": "2026-08",
+    "applicantType": "company",
+    "applicant": {
+      "name": "SCI VILLA SALMORINGA",
+      "siren": "807949953",
+      "siret": "80794995300010",
+      "legalForm": "SCI (real-estate civil company)",
+      "legalCategoryCode": 6540,
+      "activityCode": "68.20B",
+      "postalCode": "38430",
+      "city": "MOIRANS"
+    },
+    "address": "26 AVENUE EDOUARD HERRIOT",
+    "parcels": [
+      "AM 139"
+    ],
+    "postalCode": "38500",
+    "city": "Voiron",
+    "inseeCode": "38563",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "landAreaM2": 1057,
+    "architect": false,
+    "projectNature": "conversion with extension",
+    "levels": 2,
+    "dwellingsCreated": 13,
+    "housingType": "apartment building",
+    "houses": 0,
+    "apartments": 13,
+    "residenceType": null,
+    "socialRentalDwellings": 6,
+    "dwellingsDemolished": 0,
+    "intendedUse": "rental",
+    "floorAreaCreatedM2": 215,
+    "features": {
+      "pool": false,
+      "garage": false,
+      "veranda": false,
+      "gardenShed": false
+    },
+    "changeType": null,
+    "previousStatus": null,
+    "scrapedAt": "2026-10-03T13:47:47.286Z"
+  },
+  {
+    "type": "permit",
+    "location": "38",
+    "category": "housing",
+    "permitNumber": "0383772610010",
+    "permitType": "building permit",
+    "status": "authorized",
+    "authorizedAt": "2026-08-21",
+    "filedAt": "2026-08-21",
+    "worksStartedAt": null,
+    "completedAt": null,
+    "lastUpdateMonth": "2026-08",
+    "applicantType": "company",
+    "applicant": {
+      "name": "COTE VILLAGE",
+      "siren": "108286071",
+      "siret": "10828607100015",
+      "legalForm": "SCCV (build-to-sell real-estate company)",
+      "legalCategoryCode": 6541,
+      "activityCode": "41.10D",
+      "postalCode": null,
+      "city": null
+    },
+    "address": "RUE DU PASSERON",
+    "parcels": [
+      "AE 462",
+      "AE 463",
+      "AE 464"
+    ],
+    "postalCode": "38110",
+    "city": "Saint-Clair-de-la-Tour",
+    "inseeCode": "38377",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "landAreaM2": 2231,
+    "architect": true,
+    "projectNature": "new construction",
+    "levels": 1,
+    "dwellingsCreated": 23,
+    "housingType": "apartment building",
+    "houses": 0,
+    "apartments": 23,
+    "residenceType": null,
+    "socialRentalDwellings": 23,
+    "dwellingsDemolished": 0,
+    "intendedUse": "rental",
+    "floorAreaCreatedM2": 1751,
+    "features": {
+      "pool": false,
+      "garage": false,
+      "veranda": false,
+      "gardenShed": false
+    },
+    "changeType": null,
+    "previousStatus": null,
+    "scrapedAt": "2026-10-03T13:47:47.291Z"
+  },
+  {
+    "type": "permit",
+    "location": "38",
+    "category": "housing",
+    "permitNumber": "0385452510025",
+    "permitType": "building permit",
+    "status": "authorized",
+    "authorizedAt": "2026-08-12",
+    "filedAt": "2025-01-01",
+    "worksStartedAt": null,
+    "completedAt": null,
+    "lastUpdateMonth": "2026-08",
+    "applicantType": "company",
+    "applicant": {
+      "name": "ACTIS OPH DE LA METROPOLE GRENOBLOISE",
+      "siren": "348579095",
+      "siret": "34857909500012",
+      "legalForm": "local public industrial and commercial body",
+      "legalCategoryCode": 4140,
+      "activityCode": "68.20A",
+      "postalCode": "38100",
+      "city": "GRENOBLE"
+    },
+    "address": "46 AVENUE DE RIVALTA DI TORIN",
+    "parcels": [
+      "AM 29",
+      "AM 106"
+    ],
+    "postalCode": "38450",
+    "city": "Vif",
+    "inseeCode": "38545",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "landAreaM2": 1702,
+    "architect": false,
+    "projectNature": "extension",
+    "levels": 3,
+    "dwellingsCreated": 23,
+    "housingType": "apartment building",
+    "houses": 0,
+    "apartments": 23,
+    "residenceType": null,
+    "socialRentalDwellings": 23,
+    "dwellingsDemolished": 1,
+    "intendedUse": "rental",
+    "floorAreaCreatedM2": 1627,
+    "features": {
+      "pool": false,
+      "garage": false,
+      "veranda": false,
+      "gardenShed": false
+    },
+    "changeType": null,
+    "previousStatus": null,
+    "scrapedAt": "2026-10-03T13:47:47.292Z"
+  }
+]
