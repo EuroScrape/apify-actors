@@ -69,9 +69,40 @@ const { items } = await client.dataset(run.defaultDatasetId).listItems();
 console.log(items.filter((x) => x.type === 'listing').slice(0, 5));
 ```
 
+<!-- agents:debut -->
+## 🤖 Use with AI agents (MCP)
+
+Every Actor here works as a tool for Claude, Cursor, VS Code and any MCP client, through Apify's hosted MCP server. Add one URL to your client and the Actors you list become callable tools:
+
+```json
+{
+  "mcpServers": {
+    "euroscrape": {
+      "url": "https://mcp.apify.com?tools=euroscrape/eu-electricity-prices,euroscrape/vat-validator",
+      "headers": { "Authorization": "Bearer YOUR_APIFY_TOKEN" }
+    }
+  }
+}
+```
+
+No token in a file? Open [mcp.apify.com](https://mcp.apify.com) and connect your client with OAuth instead.
+
+Ready-made sets, one server URL per need:
+
+| For | Server URL |
+|---|---|
+| Travel prices | `https://mcp.apify.com?tools=euroscrape/google-flights-prices,euroscrape/google-hotels-prices,euroscrape/ryanair-low-fares` |
+| Company data and B2B leads | `https://mcp.apify.com?tools=euroscrape/france-companies,euroscrape/uk-companies,euroscrape/company-identity,euroscrape/vat-validator,euroscrape/website-intelligence,euroscrape/trusted-shops-scraper` |
+| Real estate and energy (France, EU) | `https://mcp.apify.com?tools=euroscrape/france-property-prices,euroscrape/france-energy-ratings,euroscrape/france-building-permits,euroscrape/eu-electricity-prices,euroscrape/france-fuel-prices` |
+| Second-hand marketplaces | `https://mcp.apify.com?tools=euroscrape/vinted-scraper,euroscrape/kleinanzeigen-scraper,euroscrape/eu-marketplace-deals` |
+| Public tenders and app reviews | `https://mcp.apify.com?tools=euroscrape/eu-public-tenders,euroscrape/app-reviews` |
+
+All of them are pay-per-event Actors: an agent can also pay per run without an Apify account ([agentic payments](https://github.com/apify/apify-mcp-server#-agentic-payments): x402, Skyfire). Each folder in [`examples/`](examples) has the input an agent should send and a real result.
+<!-- agents:fin -->
+
 ## 📁 Examples
 
-Each folder in [`examples/`](examples) has:
+Each folder in [`examples/`](examples) has a page for its Actor (what it returns, API call, MCP URL, price) and:
 - `input.json`: a working input you can paste in Apify Console or send to the API,
 - `output-sample.json`: one real result (personal data removed).
 
