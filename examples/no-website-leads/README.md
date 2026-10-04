@@ -127,5 +127,9 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
+- Ready-made example: [new manchester restaurants without a website](https://apify.com/euroscrape/no-website-leads/examples/new-manchester-restaurants-without-a-website)
+- Ready-made example: [new companies that just bought their domain](https://apify.com/euroscrape/no-website-leads/examples/new-companies-that-just-bought-their-domain)
+- Ready-made example: [new denver companies without a website](https://apify.com/euroscrape/no-website-leads/examples/new-denver-companies-without-a-website)
+- Ready-made example: [new houston companies without a website](https://apify.com/euroscrape/no-website-leads/examples/new-houston-companies-without-a-website)
 - Example project: [`leads.py`](../new-company-leads/leads.py), a single Python file to list this week's new companies in your town that have no website, the ones that just bought a domain first
 - [All EuroScrape Actors](../../README.md)

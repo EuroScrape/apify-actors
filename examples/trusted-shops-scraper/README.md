@@ -102,6 +102,8 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
+- Ready-made example: [german bike shops with 5000 reviews](https://apify.com/euroscrape/trusted-shops-scraper/examples/german-bike-shops-with-5000-reviews)
+- Ready-made example: [latest customer reviews of an online shop](https://apify.com/euroscrape/trusted-shops-scraper/examples/latest-customer-reviews-of-an-online-shop)
 - Article: [A 4.8-star shop tells you nothing - across 444 German online shops the rating fits in a third of a point, while the share of 1 and 2 star reviews varies 11x](../../articles/14-trusted-shops-ratings.md)
 - Example project: [`complaints.py`](../shop-complaint-rate/complaints.py), a single Python file to rank the shops of a niche by their share of 1 and 2 star reviews
 - [All EuroScrape Actors](../../README.md)
