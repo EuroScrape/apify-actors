@@ -1,4 +1,4 @@
-# Website Technology Detection: Tech Stack Detector, CMS & Leads
+# Website Technology Stack Detector: Tech Stack API, CMS & Leads
 
 Website technology detector & tech stack API: technology detection and CMS detection for any website (280+ technologies: e-commerce, analytics, consent, booking…), plus company identity (legal name, VAT, directors, emails, phones) and sales signals for technology leads (old WordPress, no HTTPS).
 
