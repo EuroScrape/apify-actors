@@ -5,7 +5,7 @@ registered this week is on no map yet. In a sample of 160 companies registered i
 28 September and 2 October 2026, 90 had no domain name at their name, and 28 had a domain with no site on it:
 half of those domains had been created around the registration of the company.
 
-Runs the "No-Website Leads: New Companies Without Website (UK & France)" Actor on Apify, prints the leads and
+Runs the "No-Website Leads: New Companies Without Website, UK, France, US" Actor on Apify, prints the leads and
 writes leads.csv (company, activity, address, registered on, domain, domain created on, what answers there).
 
     pip install apify-client
