@@ -1,6 +1,6 @@
 # No-Website Leads: New Companies Without Website (UK & France)
 
-No-website leads API: newly registered companies without website, from the official registers of the UK (Companies House) and France. New business leads and web design leads: newly incorporated companies, businesses without website checked by domain name and domain age. New company leads, daily.
+No-website leads API: newly registered companies without website, from registers of the UK, France and 3 US states (New York, Colorado, Connecticut). New business leads, new company leads and web design leads: newly incorporated companies, businesses without website checked by domain name and age.
 
 **Run it on Apify:** [apify.com/euroscrape/no-website-leads](https://apify.com/euroscrape/no-website-leads) (full documentation, pay per result, no subscription).
 
@@ -85,7 +85,7 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
     }
   ],
   "capital": null,
-  "address": "8 Market Place, Cawood, Selby, England YO8 3SR",
+  "address": "•• Market Place, Cawood, Selby, England YO8 3SR",
   "postcode": "YO8 3SR",
   "city": "Selby",
   "area": null,
@@ -99,6 +99,7 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
   "primaryEmail": null,
   "phones": [],
   "socials": {},
+  "domainsChecked": 10,
   "registeredDomains": [
     "tap-wagon.com",
     "tapwagon.co.uk",
@@ -109,7 +110,6 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
   "domainRecent": true,
   "domainPage": "no_response",
   "domainPageTitle": null,
-  "domainsChecked": 10,
   "ageDays": 2,
   "scrapedAt": "2026-10-04T04:31:59.945Z"
 }

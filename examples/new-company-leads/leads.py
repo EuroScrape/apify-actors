@@ -12,6 +12,7 @@ writes leads.csv (company, activity, address, registered on, domain, domain crea
     export APIFY_TOKEN=your_token
     python leads.py --uk Manchester Leeds --keywords restaurant cafe --days 14
     python leads.py --fr 69 13 --keywords coiffure --days 30
+    python leads.py --us-states CO CT --us Denver Boulder Hartford --days 14
 """
 import argparse
 import csv
@@ -60,6 +61,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--uk", nargs="*", default=[], help='UK towns, counties or postcodes: "Manchester", "SW1"')
     parser.add_argument("--fr", nargs="*", default=[], help='French department numbers: "69", "13", "2A"')
+    parser.add_argument("--us", nargs="*", default=[], help='US cities or counties: "Denver", "Hartford", "Kings"')
+    parser.add_argument("--us-states", nargs="*", default=[], help="US states among NY, CO and CT (default: the three of them)")
     parser.add_argument("--keywords", nargs="*", default=[], help='activity keywords (English for the UK, French for France): "restaurant", "coiffure"')
     parser.add_argument("--days", type=int, default=7, help="registered in the last N days")
     parser.add_argument("--max", type=int, default=100, help="maximum number of leads")
@@ -67,13 +70,15 @@ if __name__ == "__main__":
 
     from apify_client import ApifyClient
 
-    countries = [c for c, places in (("UK", args.uk), ("FR", args.fr)) if places] or ["UK", "FR"]
+    countries = [c for c, places in (("UK", args.uk), ("FR", args.fr), ("US", args.us or args.us_states)) if places] or ["UK", "FR", "US"]
     client = ApifyClient(os.environ["APIFY_TOKEN"])
     run = client.actor("euroscrape/no-website-leads").call(run_input={
         "countries": countries,
         "registeredInLastDays": args.days,
         "ukLocations": args.uk,
         "frDepartments": args.fr,
+        "usStates": args.us_states,
+        "usLocations": args.us,
         "activityKeywords": args.keywords,
         "maxItems": args.max,
     })
