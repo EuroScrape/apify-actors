@@ -68,6 +68,8 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
   "registeredOn": "2026-10-02",
   "publishedOn": null,
   "activity": "Event catering activities; Public houses and bars; Other amusement and recreation activities n.e.c.",
+  "noActivityYet": null,
+  "activityStartsOn": null,
   "sicCodes": [
     {
       "code": "56210",
@@ -97,7 +99,6 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
   "primaryEmail": null,
   "phones": [],
   "socials": {},
-  "domainsChecked": 10,
   "registeredDomains": [
     "tap-wagon.com",
     "tapwagon.co.uk",
@@ -108,6 +109,7 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
   "domainRecent": true,
   "domainPage": "no_response",
   "domainPageTitle": null,
+  "domainsChecked": 10,
   "ageDays": 2,
   "scrapedAt": "2026-10-04T04:31:59.945Z"
 }
