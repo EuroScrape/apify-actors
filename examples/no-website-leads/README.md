@@ -1,6 +1,6 @@
 # No-Website Leads: New Companies Without Website (UK & France)
 
-No-website leads API: newly registered companies without website, from the official registers of the UK (Companies House) and France. Web design leads with company name, activity, address and registration date; businesses without website are checked by domain name. Daily feed of new companies.
+No-website leads API: newly registered companies without website, from the official registers of the UK (Companies House) and France. New business leads and web design leads: newly incorporated companies, businesses without website checked by domain name and domain age. New company leads, daily.
 
 **Run it on Apify:** [apify.com/euroscrape/no-website-leads](https://apify.com/euroscrape/no-website-leads) (full documentation, pay per result, no subscription).
 
@@ -118,11 +118,12 @@ One real result, shortened ([`output-sample.json`](output-sample.json) has the f
 | Event | Price |
 |---|---|
 | Run start | $0.003 |
-| Lead without a website | $0.005 |
+| No-website lead | $0.005 |
 | New company with a website, or undecided | $0.002 |
 
 Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
+- Example project: [`leads.py`](../new-company-leads/leads.py), a single Python file to list this week's new companies in your town that have no website, the ones that just bought a domain first
 - [All EuroScrape Actors](../../README.md)
