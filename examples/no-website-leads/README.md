@@ -1,6 +1,6 @@
 # No-Website Leads: New Companies Without Website (UK & France)
 
-No-website leads API: newly registered companies without website, from registers of the UK, France and 3 US states (New York, Colorado, Connecticut). New business leads, new company leads and web design leads: newly incorporated companies, businesses without website checked by domain name and age.
+No-website leads API: newly registered companies without website, from registers of the UK, France and 4 US states (Texas, New York, Colorado, Connecticut). New business leads, new company leads, web design leads: newly incorporated companies, businesses without website checked by domain age.
 
 **Run it on Apify:** [apify.com/euroscrape/no-website-leads](https://apify.com/euroscrape/no-website-leads) (full documentation, pay per result, no subscription).
 
