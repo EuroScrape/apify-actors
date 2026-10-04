@@ -1,0 +1,138 @@
+[
+  {
+    "type": "lead",
+    "country": "UK",
+    "companyNumber": "17495516",
+    "name": "TAP WAGON LTD",
+    "tradeName": null,
+    "legalForm": "Private limited company",
+    "registeredOn": "2026-10-02",
+    "publishedOn": null,
+    "activity": "Event catering activities; Public houses and bars; Other amusement and recreation activities n.e.c.",
+    "sicCodes": [
+      {
+        "code": "56210",
+        "description": "Event catering activities"
+      },
+      {
+        "code": "56302",
+        "description": "Public houses and bars"
+      },
+      {
+        "code": "93290",
+        "description": "Other amusement and recreation activities n.e.c."
+      }
+    ],
+    "capital": null,
+    "address": "8 Market Place, Cawood, Selby, England YO8 3SR",
+    "postcode": "YO8 3SR",
+    "city": "Selby",
+    "area": null,
+    "areaCode": "YO",
+    "region": null,
+    "sourceUrl": "https://find-and-update.company-information.service.gov.uk/company/17495516",
+    "websiteStatus": "domain_registered",
+    "website": null,
+    "websiteConfidence": null,
+    "emails": [],
+    "primaryEmail": null,
+    "phones": [],
+    "socials": {},
+    "domainsChecked": 10,
+    "registeredDomains": [
+      "tap-wagon.com",
+      "tapwagon.co.uk",
+      "tapwagon.com"
+    ],
+    "domain": "tapwagon.co.uk",
+    "domainCreatedOn": "2026-09-28",
+    "domainRecent": true,
+    "domainPage": "no_response",
+    "domainPageTitle": null,
+    "ageDays": 2,
+    "scrapedAt": "2026-10-04T04:31:59.945Z"
+  },
+  {
+    "type": "lead",
+    "country": "UK",
+    "companyNumber": "17495464",
+    "name": "OAK AND WIRE ELECTRICAL LIMITED",
+    "tradeName": null,
+    "legalForm": "Private limited company",
+    "registeredOn": "2026-10-02",
+    "publishedOn": null,
+    "activity": "Electrical installation",
+    "sicCodes": [
+      {
+        "code": "43210",
+        "description": "Electrical installation"
+      }
+    ],
+    "capital": null,
+    "address": "Unit 8a Wingbury Courtyard Business Village, Wingrave, Aylesbury, England HP22 4LW",
+    "postcode": "HP22 4LW",
+    "city": "Aylesbury",
+    "area": null,
+    "areaCode": "HP",
+    "region": null,
+    "sourceUrl": "https://find-and-update.company-information.service.gov.uk/company/17495464",
+    "websiteStatus": "no_website_found",
+    "website": null,
+    "websiteConfidence": null,
+    "emails": [],
+    "primaryEmail": null,
+    "phones": [],
+    "socials": {},
+    "registeredDomains": [],
+    "domain": null,
+    "domainCreatedOn": null,
+    "domainRecent": null,
+    "domainPage": null,
+    "domainPageTitle": null,
+    "domainsChecked": 10,
+    "ageDays": 2,
+    "scrapedAt": "2026-10-04T04:30:53.592Z"
+  },
+  {
+    "type": "lead",
+    "country": "FR",
+    "companyNumber": "130684152",
+    "name": "Entropic Trust",
+    "tradeName": null,
+    "legalForm": "Société par Actions Simplifiée",
+    "registeredOn": null,
+    "publishedOn": "2026-10-02",
+    "activity": "La recherche, le développement, la conception, le prototypage, l'industrialisation, la fabrication, l'intégration, les essais, la validation, la commercialisation, la concession de licences, la distribution, la maintenance et le support de technologies de cybersécurité à haute entropie, de systèmes cryptographiques, de solutions d'authentification, de matériels et logiciels sécurisés, de dispositifs connectés portables ( wearables ), de capteurs, de circuits électroniques, de systèmes embarqués, ainsi que des produits et services numériques, physiques et cyber-physiques de sécurité qui s'y rattachent.",
+    "sicCodes": [],
+    "capital": {
+      "amount": 90026.55,
+      "currency": "EUR"
+    },
+    "address": "1 Rue Marc Seguin, 26300 Alixan",
+    "postcode": "26300",
+    "city": "Alixan",
+    "area": "Drôme",
+    "areaCode": "26",
+    "region": "Auvergne-Rhône-Alpes",
+    "sourceUrl": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260189462",
+    "websiteStatus": "domain_registered",
+    "website": null,
+    "websiteConfidence": null,
+    "emails": [],
+    "primaryEmail": null,
+    "phones": [],
+    "socials": {},
+    "domainsChecked": 4,
+    "registeredDomains": [
+      "entropictrust.com",
+      "entropictrust.fr"
+    ],
+    "domain": "entropictrust.fr",
+    "domainCreatedOn": "2026-08-14",
+    "domainRecent": true,
+    "domainPage": "parked",
+    "domainPageTitle": "Parked Domain name on Hostinger DNS system",
+    "ageDays": 2,
+    "scrapedAt": "2026-10-04T04:31:38.219Z"
+  }
+]

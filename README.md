@@ -1,6 +1,6 @@
 # EuroScrape: ready-to-use data scrapers (Apify Actors)
 
-[![Apify Store](https://img.shields.io/badge/Apify_Store-19_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-14_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
+[![Apify Store](https://img.shields.io/badge/Apify_Store-20_actors-0d9488)](https://apify.com/euroscrape) [![Articles](https://img.shields.io/badge/Articles-14_guides-0d9488)](#-articles--guides) [![Pay per event](https://img.shields.io/badge/Pricing-pay_per_result-0d9488)](https://apify.com/euroscrape)
 
 ![Fare calendars from real Google Flights data](assets/demo-google-flights-prices.gif)
 
@@ -29,6 +29,7 @@ This repository holds **input templates and real sample outputs** for each Actor
 | [Trusted Shops Scraper: Shop Leads, Ratings, Reviews & Alerts](https://apify.com/euroscrape/trusted-shops-scraper) | Trusted Shops API: online shops of 11 European markets by keyword and size: legal entity, address, email, phone, register number, rating and 12-month review volume; customer reviews with the shop's replies; alerts on new negative reviews | $0.002 per shop, +$0.004 with company profile, $0.0006 per review | [Trusted Shops Scraper: Shop Leads, Ratings, Reviews & Alerts](https://apify.com/euroscrape/trusted-shops-scraper) |
 | [French Companies Scraper: SIRENE Leads, Directors & Emails](https://apify.com/euroscrape/france-companies) | French companies API (SIRENE API, SIRET API): every French company by activity, area and size, with finances and optionally a verified website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/france-companies/examples/french-plumbing-companies-with-contacts) |
 | [UK Companies House API & Scraper: UK Company Data & B2B Leads](https://apify.com/euroscrape/uk-companies) | Unofficial Companies House API: UK companies by SIC code and location, with officers and optionally website, emails and phones | $0.004 per company | [▶ example](https://apify.com/euroscrape/uk-companies/examples/new-london-software-companies-with-officers) |
+| [No-Website Leads: New Companies Without Website (UK & France)](https://apify.com/euroscrape/no-website-leads) | No-website leads API: newly registered UK and French companies with no website yet, from the official registers: name, activity, registered office, registration date, and for each company whether a domain at its name exists, when it was created and what answers there (web design leads, daily feed) | $0.005 per lead | [No-Website Leads](https://apify.com/euroscrape/no-website-leads) |
 | [App Store Reviews Scraper + Google Play Reviews (All Countries)](https://apify.com/euroscrape/app-reviews) | App Store reviews API and Google Play reviews API: mobile app reviews from both stores in 58 countries: rating, text, version, developer reply, summary by version and country, alerts on new negative reviews | $0.0002 per review | [▶ example](https://apify.com/euroscrape/app-reviews/examples/track-negative-app-reviews-spotify) |
 | [Kleinanzeigen Scraper & Kleinanzeigen API: Deals & Alerts](https://apify.com/euroscrape/kleinanzeigen-scraper) | Unofficial Kleinanzeigen API: German classifieds with a deal score vs. market price, view counts and instant alerts | $0.002 per ad | [▶ example](https://apify.com/euroscrape/kleinanzeigen-scraper/examples/instant-alerts-new-kleinanzeigen-ads) |
 
@@ -92,7 +93,7 @@ Ready-made sets, one server URL per need:
 | For | Server URL |
 |---|---|
 | Travel prices | `https://mcp.apify.com?tools=euroscrape/google-flights-prices,euroscrape/google-hotels-prices,euroscrape/ryanair-low-fares` |
-| Company data and B2B leads | `https://mcp.apify.com?tools=euroscrape/france-companies,euroscrape/uk-companies,euroscrape/company-identity,euroscrape/vat-validator,euroscrape/website-intelligence,euroscrape/trusted-shops-scraper` |
+| Company data and B2B leads | `https://mcp.apify.com?tools=euroscrape/france-companies,euroscrape/uk-companies,euroscrape/company-identity,euroscrape/vat-validator,euroscrape/website-intelligence,euroscrape/trusted-shops-scraper,euroscrape/no-website-leads` |
 | Real estate and energy (France, EU) | `https://mcp.apify.com?tools=euroscrape/france-property-prices,euroscrape/france-energy-ratings,euroscrape/france-building-permits,euroscrape/eu-electricity-prices,euroscrape/france-fuel-prices` |
 | Second-hand marketplaces | `https://mcp.apify.com?tools=euroscrape/vinted-scraper,euroscrape/kleinanzeigen-scraper,euroscrape/eu-marketplace-deals` |
 | Public tenders and app reviews | `https://mcp.apify.com?tools=euroscrape/eu-public-tenders,euroscrape/app-reviews` |

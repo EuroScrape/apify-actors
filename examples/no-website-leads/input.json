@@ -1,0 +1,9 @@
+{
+  "countries": ["UK", "FR"],
+  "registeredInLastDays": 7,
+  "activityKeywords": ["restaurant", "cafe", "restauration"],
+  "ukLocations": ["Manchester", "Leeds"],
+  "frDepartments": ["69", "13"],
+  "output": "noWebsite",
+  "maxItems": 100
+}
