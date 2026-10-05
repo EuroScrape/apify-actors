@@ -93,11 +93,11 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [cheapest day to fly berlin alicante](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-berlin-alicante)
-- Ready-made example: [cheapest day to fly paris new york](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-paris-new-york)
-- Ready-made example: [cheapest day to fly new york london](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-new-york-london)
-- Ready-made example: [cheapest day to fly los angeles honolulu](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-los-angeles-honolulu)
-- Ready-made example: [flight price tracker with price drop alerts](https://apify.com/euroscrape/google-flights-prices/examples/flight-price-tracker-with-price-drop-alerts)
+- Ready-made example: [Find the cheapest day to fly Berlin to Alicante](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-berlin-alicante)
+- Ready-made example: [Find the cheapest day to fly Paris to New York](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-paris-new-york)
+- Ready-made example: [Find the cheapest day to fly New York to London](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-new-york-london)
+- Ready-made example: [Find the cheapest day to fly Los Angeles to Honolulu](https://apify.com/euroscrape/google-flights-prices/examples/cheapest-day-to-fly-los-angeles-honolulu)
+- Ready-made example: [Track a flight's price and get alerts when it drops](https://apify.com/euroscrape/google-flights-prices/examples/flight-price-tracker-with-price-drop-alerts)
 - Article: [The same flight cost $362 or $162 depending on the day - building a fare calendar from Google Flights](../../articles/06-google-flights-calendar.md)
 - Example project: [`fare_calendar.py`](../flight-fare-calendar/fare_calendar.py), a single Python file to print the cheapest day to fly on your routes as a fare calendar
 - [All EuroScrape Actors](../../README.md)

@@ -77,8 +77,8 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [fly under 30 euros from paris beauvais](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-30-euros-from-paris-beauvais)
-- Ready-made example: [fly under 20 euros from brussels charleroi](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-euros-from-brussels-charleroi)
-- Ready-made example: [fly under 20 pounds from london stansted](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-pounds-from-london-stansted)
-- Ready-made example: [ryanair fare calendar cheapest day for a route](https://apify.com/euroscrape/ryanair-low-fares/examples/ryanair-fare-calendar-cheapest-day-for-a-route)
+- Ready-made example: [See everywhere you can fly under 30 € from Paris Beauvais](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-30-euros-from-paris-beauvais)
+- Ready-made example: [See everywhere you can fly under 20 € from Brussels Charleroi](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-euros-from-brussels-charleroi)
+- Ready-made example: [See everywhere you can fly under £20 from London Stansted](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-pounds-from-london-stansted)
+- Ready-made example: [Get the Ryanair fare calendar of a route, day by day](https://apify.com/euroscrape/ryanair-low-fares/examples/ryanair-fare-calendar-cheapest-day-for-a-route)
 - [All EuroScrape Actors](../../README.md)

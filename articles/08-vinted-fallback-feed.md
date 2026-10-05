@@ -48,4 +48,4 @@ The result, if you want to see it live: [Vinted Scraper on Apify](https://apify.
 
 ---
 
-*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](../README.md#-articles--guides).*
+*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](README.md).*

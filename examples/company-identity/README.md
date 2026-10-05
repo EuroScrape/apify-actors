@@ -125,7 +125,7 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [legal identity behind any eu website](https://apify.com/euroscrape/company-identity/examples/legal-identity-behind-any-eu-website)
-- Ready-made example: [find the company behind any german shop](https://apify.com/euroscrape/company-identity/examples/find-the-company-behind-any-german-shop)
-- Ready-made example: [trouver la societe derriere un site web](https://apify.com/euroscrape/company-identity/examples/trouver-la-societe-derriere-un-site-web)
+- Ready-made example: [Extract the legal identity behind any European website](https://apify.com/euroscrape/company-identity/examples/legal-identity-behind-any-eu-website)
+- Ready-made example: [Find the company behind any German online shop](https://apify.com/euroscrape/company-identity/examples/find-the-company-behind-any-german-shop)
+- Ready-made example: [Trouver la société derrière un site web (mentions légales)](https://apify.com/euroscrape/company-identity/examples/trouver-la-societe-derriere-un-site-web)
 - [All EuroScrape Actors](../../README.md)

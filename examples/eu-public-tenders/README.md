@@ -101,10 +101,10 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [daily alerts eu software tenders](https://apify.com/euroscrape/eu-public-tenders/examples/daily-alerts-eu-software-tenders)
-- Ready-made example: [appels d offres par mot cle et departement](https://apify.com/euroscrape/eu-public-tenders/examples/appels-d-offres-par-mot-cle-et-departement)
-- Ready-made example: [public contract award winners in europe](https://apify.com/euroscrape/eu-public-tenders/examples/public-contract-award-winners-in-europe)
-- Ready-made example: [oeffentliche ausschreibungen nach stichwort](https://apify.com/euroscrape/eu-public-tenders/examples/oeffentliche-ausschreibungen-nach-stichwort)
+- Ready-made example: [Get daily alerts for new EU software tenders](https://apify.com/euroscrape/eu-public-tenders/examples/daily-alerts-eu-software-tenders)
+- Ready-made example: [Appels d'offres par mot-clé et département (BOAMP, TED)](https://apify.com/euroscrape/eu-public-tenders/examples/appels-d-offres-par-mot-cle-et-departement)
+- Ready-made example: [See who wins public contracts in Europe, and for how much](https://apify.com/euroscrape/eu-public-tenders/examples/public-contract-award-winners-in-europe)
+- Ready-made example: [Öffentliche Ausschreibungen nach Stichwort (TED, Deutschland)](https://apify.com/euroscrape/eu-public-tenders/examples/oeffentliche-ausschreibungen-nach-stichwort)
 - Article: [57% of the contract lots I sampled got a single bid - mining EU tenders and award winners from TED](../../articles/03-eu-tenders.md)
 - Example project: [`tenders.py`](../eu-tenders-slack-alerts/tenders.py), a single Python file to post new tenders matching your keywords to Slack, daily
 - [All EuroScrape Actors](../../README.md)

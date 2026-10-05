@@ -43,4 +43,4 @@ A VAT number isn't valid forever - companies deregister, merge, go bankrupt. The
 
 ---
 
-*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](../README.md#-articles--guides).*
+*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](README.md).*

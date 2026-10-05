@@ -101,8 +101,8 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [new housing programmes around lyon](https://apify.com/euroscrape/france-building-permits/examples/new-housing-programmes-around-lyon)
-- Ready-made example: [permis de construire par commune](https://apify.com/euroscrape/france-building-permits/examples/permis-de-construire-par-commune)
-- Ready-made example: [new commercial building projects in france](https://apify.com/euroscrape/france-building-permits/examples/new-commercial-building-projects-in-france)
+- Ready-made example: [Find new housing programmes authorized around Lyon](https://apify.com/euroscrape/france-building-permits/examples/new-housing-programmes-around-lyon)
+- Ready-made example: [Permis de construire accordés par commune (Sitadel)](https://apify.com/euroscrape/france-building-permits/examples/permis-de-construire-par-commune)
+- Ready-made example: [Find new commercial building projects in France](https://apify.com/euroscrape/france-building-permits/examples/new-commercial-building-projects-in-france)
 - Article: [Companies file 1 French building permit in 5 and build 3 homes in 4 - and the register names them 8 months before the site opens](../../articles/13-building-permits-window.md)
 - [All EuroScrape Actors](../../README.md)

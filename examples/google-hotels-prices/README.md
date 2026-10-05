@@ -115,9 +115,9 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [hotel price on every booking site](https://apify.com/euroscrape/google-hotels-prices/examples/hotel-price-on-every-booking-site)
-- Ready-made example: [hotel rate parity official site vs booking sites](https://apify.com/euroscrape/google-hotels-prices/examples/hotel-rate-parity-official-site-vs-booking-sites)
-- Ready-made example: [cheapest well rated hotels in paris](https://apify.com/euroscrape/google-hotels-prices/examples/cheapest-well-rated-hotels-in-paris)
+- Ready-made example: [Compare a hotel's price on every booking site](https://apify.com/euroscrape/google-hotels-prices/examples/hotel-price-on-every-booking-site)
+- Ready-made example: [Check a hotel's rate parity: official site vs booking sites](https://apify.com/euroscrape/google-hotels-prices/examples/hotel-rate-parity-official-site-vs-booking-sites)
+- Ready-made example: [Find the cheapest well-rated hotels in Paris for your dates](https://apify.com/euroscrape/google-hotels-prices/examples/cheapest-well-rated-hotels-in-paris)
 - Article: [Check a hotel's price on every booking site (and spot rate-parity gaps) without writing a scraper](../../articles/01-google-hotels.md)
 - Example project: [`parity.py`](../hotel-rate-parity-monitor/parity.py), a single Python file to check whether a hotel's official site is the cheapest place to book it
 - [All EuroScrape Actors](../../README.md)

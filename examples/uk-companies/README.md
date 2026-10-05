@@ -94,8 +94,8 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [new london software companies with officers](https://apify.com/euroscrape/uk-companies/examples/new-london-software-companies-with-officers)
-- Ready-made example: [newly incorporated uk companies this week](https://apify.com/euroscrape/uk-companies/examples/newly-incorporated-uk-companies-this-week)
-- Ready-made example: [uk restaurants by town with directors](https://apify.com/euroscrape/uk-companies/examples/uk-restaurants-by-town-with-directors)
+- Ready-made example: [List new London software companies with their officers](https://apify.com/euroscrape/uk-companies/examples/new-london-software-companies-with-officers)
+- Ready-made example: [List every UK company incorporated in the last 7 days](https://apify.com/euroscrape/uk-companies/examples/newly-incorporated-uk-companies-this-week)
+- Ready-made example: [List the restaurants of a UK town with their directors](https://apify.com/euroscrape/uk-companies/examples/uk-restaurants-by-town-with-directors)
 - Article: [Build B2B lead lists from official company registers (France SIRENE and UK Companies House)](../../articles/05-company-registers-leads.md)
 - [All EuroScrape Actors](../../README.md)

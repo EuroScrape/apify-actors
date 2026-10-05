@@ -106,4 +106,4 @@ Input templates and real sample outputs for this and other EuroScrape Actors are
 
 ---
 
-*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](../README.md#-articles--guides).*
+*Part of the [EuroScrape](https://apify.com/euroscrape) actor collection — [all articles](README.md).*

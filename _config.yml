@@ -1,0 +1,15 @@
+# GitHub Pages: renders this repository as a website (https://euroscrape.github.io/apify-actors/).
+title: EuroScrape
+description: >-
+  Ready-to-use data scrapers and APIs on Apify Store: company data and leads, travel prices,
+  second-hand marketplaces, EU open data and energy prices. Guides and examples built on real data.
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
+titles_from_headings:
+  strip_title: true
+exclude:
+  - LICENSE

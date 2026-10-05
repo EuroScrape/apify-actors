@@ -93,12 +93,12 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [apartments sold in grenoble real prices](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-grenoble-real-prices)
-- Ready-made example: [apartments sold in bordeaux real prices](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-bordeaux-real-prices)
-- Ready-made example: [sold prices by energy class in lyon](https://apify.com/euroscrape/france-property-prices/examples/sold-prices-by-energy-class-in-lyon)
-- Ready-made example: [rental yield by arrondissement in paris](https://apify.com/euroscrape/france-property-prices/examples/rental-yield-by-arrondissement-in-paris)
-- Ready-made example: [prix immobilier ventes reelles par commune](https://apify.com/euroscrape/france-property-prices/examples/prix-immobilier-ventes-reelles-par-commune)
-- Ready-made example: [french riviera sold property prices](https://apify.com/euroscrape/france-property-prices/examples/french-riviera-sold-property-prices)
+- Ready-made example: [See every apartment sold in Grenoble with real prices](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-grenoble-real-prices)
+- Ready-made example: [See every apartment sold in Bordeaux with real prices](https://apify.com/euroscrape/france-property-prices/examples/apartments-sold-in-bordeaux-real-prices)
+- Ready-made example: [Compare sold apartment prices by energy class (DPE) in Lyon](https://apify.com/euroscrape/france-property-prices/examples/sold-prices-by-energy-class-in-lyon)
+- Ready-made example: [Compare gross rental yields across Paris arrondissements](https://apify.com/euroscrape/france-property-prices/examples/rental-yield-by-arrondissement-in-paris)
+- Ready-made example: [Prix immobilier réels par commune : toutes les ventes (DVF)](https://apify.com/euroscrape/france-property-prices/examples/prix-immobilier-ventes-reelles-par-commune)
+- Ready-made example: [See real sold property prices on the French Riviera](https://apify.com/euroscrape/france-property-prices/examples/french-riviera-sold-property-prices)
 - Article: [France publishes every property sale as open data - most people compute the price per m² wrong](../../articles/10-dvf-prix-immobilier.md)
 - Article: [I matched 2,518 apartment sales to their energy certificates - F and G homes sold 16% cheaper per m²](../../articles/12-dvf-dpe-energy-discount.md)
 - [All EuroScrape Actors](../../README.md)

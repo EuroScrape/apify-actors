@@ -93,13 +93,13 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [cheapest electricity hours france](https://apify.com/euroscrape/eu-electricity-prices/examples/cheapest-electricity-hours-france)
-- Ready-made example: [alerts when german power prices go negative](https://apify.com/euroscrape/eu-electricity-prices/examples/alerts-when-german-power-prices-go-negative)
-- Ready-made example: [germany day ahead electricity prices hourly](https://apify.com/euroscrape/eu-electricity-prices/examples/germany-day-ahead-electricity-prices-hourly)
-- Ready-made example: [strompreise morgen stuendlich day ahead](https://apify.com/euroscrape/eu-electricity-prices/examples/strompreise-morgen-stuendlich-day-ahead)
-- Ready-made example: [netherlands dynamic electricity prices hourly](https://apify.com/euroscrape/eu-electricity-prices/examples/netherlands-dynamic-electricity-prices-hourly)
-- Ready-made example: [precio luz manana por horas](https://apify.com/euroscrape/eu-electricity-prices/examples/precio-luz-manana-por-horas)
-- Ready-made example: [nordic electricity spot prices by zone](https://apify.com/euroscrape/eu-electricity-prices/examples/nordic-electricity-spot-prices-by-zone)
-- Ready-made example: [prix electricite demain heure par heure](https://apify.com/euroscrape/eu-electricity-prices/examples/prix-electricite-demain-heure-par-heure)
+- Ready-made example: [Get tomorrow's cheapest electricity hours in France](https://apify.com/euroscrape/eu-electricity-prices/examples/cheapest-electricity-hours-france)
+- Ready-made example: [Get alerts when German electricity prices go negative](https://apify.com/euroscrape/eu-electricity-prices/examples/alerts-when-german-power-prices-go-negative)
+- Ready-made example: [Get Germany's day-ahead electricity prices, hour by hour](https://apify.com/euroscrape/eu-electricity-prices/examples/germany-day-ahead-electricity-prices-hourly)
+- Ready-made example: [Strompreise morgen: stündliche Day-Ahead-Preise (DE, AT)](https://apify.com/euroscrape/eu-electricity-prices/examples/strompreise-morgen-stuendlich-day-ahead)
+- Ready-made example: [Get tomorrow's hourly electricity prices in the Netherlands](https://apify.com/euroscrape/eu-electricity-prices/examples/netherlands-dynamic-electricity-prices-hourly)
+- Ready-made example: [Precio de la luz mañana por horas (España y Portugal)](https://apify.com/euroscrape/eu-electricity-prices/examples/precio-luz-manana-por-horas)
+- Ready-made example: [Get Nordic electricity spot prices by bidding zone](https://apify.com/euroscrape/eu-electricity-prices/examples/nordic-electricity-spot-prices-by-zone)
+- Ready-made example: [Prix de l'électricité demain, heure par heure (France)](https://apify.com/euroscrape/eu-electricity-prices/examples/prix-electricite-demain-heure-par-heure)
 - Article: [Night power is not the cheapest, and the cheapest fuel station is often a ghost - two things official energy data taught me](../../articles/11-energy-two-assumptions.md)
 - [All EuroScrape Actors](../../README.md)

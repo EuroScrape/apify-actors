@@ -92,11 +92,11 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [vinted new listing alerts nike fr](https://apify.com/euroscrape/vinted-scraper/examples/vinted-new-listing-alerts-nike-fr)
-- Ready-made example: [ps5 deal alerts on vinted](https://apify.com/euroscrape/vinted-scraper/examples/ps5-deal-alerts-on-vinted)
-- Ready-made example: [vinted price comparison across countries](https://apify.com/euroscrape/vinted-scraper/examples/vinted-price-comparison-across-countries)
-- Ready-made example: [track sold items on vinted](https://apify.com/euroscrape/vinted-scraper/examples/track-sold-items-on-vinted)
-- Ready-made example: [alerte vinted nouvelles annonces](https://apify.com/euroscrape/vinted-scraper/examples/alerte-vinted-nouvelles-annonces)
-- Ready-made example: [vinted alarm neue artikel](https://apify.com/euroscrape/vinted-scraper/examples/vinted-alarm-neue-artikel)
+- Ready-made example: [Get instant alerts for new Nike listings on Vinted](https://apify.com/euroscrape/vinted-scraper/examples/vinted-new-listing-alerts-nike-fr)
+- Ready-made example: [Get instant alerts for new PS5 listings on Vinted](https://apify.com/euroscrape/vinted-scraper/examples/ps5-deal-alerts-on-vinted)
+- Ready-made example: [Compare Vinted prices for the same item across countries](https://apify.com/euroscrape/vinted-scraper/examples/vinted-price-comparison-across-countries)
+- Ready-made example: [Track which Vinted listings sell, and at what price](https://apify.com/euroscrape/vinted-scraper/examples/track-sold-items-on-vinted)
+- Ready-made example: [Alerte Vinted : les nouvelles annonces dès leur mise en ligne](https://apify.com/euroscrape/vinted-scraper/examples/alerte-vinted-nouvelles-annonces)
+- Ready-made example: [Vinted-Alarm: neue Artikel sofort per Telegram oder Discord](https://apify.com/euroscrape/vinted-scraper/examples/vinted-alarm-neue-artikel)
 - Article: [When a Vinted search finds nothing, it quietly shows you popular junk - here is how to detect it](../../articles/08-vinted-fallback-feed.md)
 - [All EuroScrape Actors](../../README.md)

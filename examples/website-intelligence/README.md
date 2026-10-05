@@ -168,6 +168,6 @@ Apify subscribers get 10–30% off depending on their plan.
 
 ## More
 
-- Ready-made example: [tech stack and sales signals of a website](https://apify.com/euroscrape/website-intelligence/examples/tech-stack-and-sales-signals-of-a-website)
+- Ready-made example: [Find the tech stack and sales signals of any website](https://apify.com/euroscrape/website-intelligence/examples/tech-stack-and-sales-signals-of-a-website)
 - Article: [Find websites running WordPress, WooCommerce or Shopify - and the ones that need your help](../../articles/04-tech-stack-leads.md)
 - [All EuroScrape Actors](../../README.md)
