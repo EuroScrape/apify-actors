@@ -94,5 +94,7 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [compare iphone prices across 18 countries](https://apify.com/euroscrape/eu-marketplace-deals/examples/compare-iphone-prices-across-18-countries)
+- Ready-made example: [search wallapop subito marktplaats olx in one run](https://apify.com/euroscrape/eu-marketplace-deals/examples/search-wallapop-subito-marktplaats-olx-in-one-run)
+- Ready-made example: [second hand new listing and price drop alerts](https://apify.com/euroscrape/eu-marketplace-deals/examples/second-hand-new-listing-and-price-drop-alerts)
 - Article: [Same used iPhone, 62% price gap - comparing second-hand prices across 18 European countries](../../articles/02-second-hand-europe.md)
 - [All EuroScrape Actors](../../README.md)

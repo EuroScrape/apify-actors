@@ -79,4 +79,6 @@ Apify subscribers get 10–30% off depending on their plan.
 
 - Ready-made example: [fly under 30 euros from paris beauvais](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-30-euros-from-paris-beauvais)
 - Ready-made example: [fly under 20 euros from brussels charleroi](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-euros-from-brussels-charleroi)
+- Ready-made example: [fly under 20 pounds from london stansted](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-pounds-from-london-stansted)
+- Ready-made example: [ryanair fare calendar cheapest day for a route](https://apify.com/euroscrape/ryanair-low-fares/examples/ryanair-fare-calendar-cheapest-day-for-a-route)
 - [All EuroScrape Actors](../../README.md)

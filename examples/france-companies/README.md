@@ -139,5 +139,6 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [french plumbing companies with contacts](https://apify.com/euroscrape/france-companies/examples/french-plumbing-companies-with-contacts)
+- Ready-made example: [liste entreprises par code naf et departement](https://apify.com/euroscrape/france-companies/examples/liste-entreprises-par-code-naf-et-departement)
 - Article: [Build B2B lead lists from official company registers (France SIRENE and UK Companies House)](../../articles/05-company-registers-leads.md)
 - [All EuroScrape Actors](../../README.md)

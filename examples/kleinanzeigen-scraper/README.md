@@ -92,4 +92,5 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [instant alerts new kleinanzeigen ads](https://apify.com/euroscrape/kleinanzeigen-scraper/examples/instant-alerts-new-kleinanzeigen-ads)
+- Ready-made example: [kleinanzeigen suchagent neue anzeigen](https://apify.com/euroscrape/kleinanzeigen-scraper/examples/kleinanzeigen-suchagent-neue-anzeigen)
 - [All EuroScrape Actors](../../README.md)

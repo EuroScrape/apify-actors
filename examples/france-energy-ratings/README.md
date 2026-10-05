@@ -103,5 +103,6 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [energy sieves f g homes in paris](https://apify.com/euroscrape/france-energy-ratings/examples/energy-sieves-f-g-homes-in-paris)
+- Ready-made example: [dpe par commune classes energie](https://apify.com/euroscrape/france-energy-ratings/examples/dpe-par-commune-classes-energie)
 - Article: [I matched 2,518 apartment sales to their energy certificates - F and G homes sold 16% cheaper per m²](../../articles/12-dvf-dpe-energy-discount.md)
 - [All EuroScrape Actors](../../README.md)

@@ -94,5 +94,9 @@ Apify subscribers get 10–30% off depending on their plan.
 
 - Ready-made example: [vinted new listing alerts nike fr](https://apify.com/euroscrape/vinted-scraper/examples/vinted-new-listing-alerts-nike-fr)
 - Ready-made example: [ps5 deal alerts on vinted](https://apify.com/euroscrape/vinted-scraper/examples/ps5-deal-alerts-on-vinted)
+- Ready-made example: [vinted price comparison across countries](https://apify.com/euroscrape/vinted-scraper/examples/vinted-price-comparison-across-countries)
+- Ready-made example: [track sold items on vinted](https://apify.com/euroscrape/vinted-scraper/examples/track-sold-items-on-vinted)
+- Ready-made example: [alerte vinted nouvelles annonces](https://apify.com/euroscrape/vinted-scraper/examples/alerte-vinted-nouvelles-annonces)
+- Ready-made example: [vinted alarm neue artikel](https://apify.com/euroscrape/vinted-scraper/examples/vinted-alarm-neue-artikel)
 - Article: [When a Vinted search finds nothing, it quietly shows you popular junk - here is how to detect it](../../articles/08-vinted-fallback-feed.md)
 - [All EuroScrape Actors](../../README.md)

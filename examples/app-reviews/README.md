@@ -83,5 +83,6 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [track negative app reviews spotify](https://apify.com/euroscrape/app-reviews/examples/track-negative-app-reviews-spotify)
+- Ready-made example: [export google play reviews of any app](https://apify.com/euroscrape/app-reviews/examples/export-google-play-reviews-of-any-app)
 - Article: [Get every new 1-star review of your app in Slack (App Store and Google Play, 58 countries)](../../articles/07-app-reviews-alerts.md)
 - [All EuroScrape Actors](../../README.md)

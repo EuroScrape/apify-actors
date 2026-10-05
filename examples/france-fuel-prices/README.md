@@ -110,5 +110,6 @@ Apify subscribers get 10–30% off depending on their plan.
 - Ready-made example: [cheapest diesel around lyon](https://apify.com/euroscrape/france-fuel-prices/examples/cheapest-diesel-around-lyon)
 - Ready-made example: [cheapest diesel around marseille](https://apify.com/euroscrape/france-fuel-prices/examples/cheapest-diesel-around-marseille)
 - Ready-made example: [e85 stations around toulouse](https://apify.com/euroscrape/france-fuel-prices/examples/e85-stations-around-toulouse)
+- Ready-made example: [prix carburants autour d une ville](https://apify.com/euroscrape/france-fuel-prices/examples/prix-carburants-autour-d-une-ville)
 - Article: [Night power is not the cheapest, and the cheapest fuel station is often a ghost - two things official energy data taught me](../../articles/11-energy-two-assumptions.md)
 - [All EuroScrape Actors](../../README.md)

@@ -73,5 +73,8 @@ Apify subscribers get 10–30% off depending on their plan.
 ## More
 
 - Ready-made example: [check eu vat numbers in bulk](https://apify.com/euroscrape/vat-validator/examples/check-eu-vat-numbers-in-bulk)
+- Ready-made example: [monitor vat numbers alert when invalid](https://apify.com/euroscrape/vat-validator/examples/monitor-vat-numbers-alert-when-invalid)
+- Ready-made example: [verifier numeros tva intracommunautaire en masse](https://apify.com/euroscrape/vat-validator/examples/verifier-numeros-tva-intracommunautaire-en-masse)
+- Ready-made example: [ust idnr pruefen massenabfrage](https://apify.com/euroscrape/vat-validator/examples/ust-idnr-pruefen-massenabfrage)
 - Article: [Zero-rating an intra-EU invoice? Without a VIES consultation number, you may owe the VAT yourself](../../articles/09-vat-vies-proof.md)
 - [All EuroScrape Actors](../../README.md)
