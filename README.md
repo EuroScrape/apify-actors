@@ -114,6 +114,14 @@ Hotels, tenders, second-hand marketplaces, Kleinanzeigen and company registries 
 ## 💬 Feedback
 
 Missing a field, a country or a source? Say it in a review on the Actor's page in Apify Store.
+## 📊 Data pages, updated daily
+
+Two small tables rebuilt every day from official open data: [the cheapest electricity hours in 28 European bidding zones](data/electricity-cheapest-hours.md) and [the cheapest fuel around twenty French cities](data/prix-carburants-villes.md). Each has a JSON copy.
+
+## 🤖 MCP server
+
+All twenty Actors as tools for Claude, Cursor and any MCP client, with a spending cap per call: [EuroScrape/euroscrape-mcp](https://github.com/EuroScrape/euroscrape-mcp).
+
 ## 📚 Articles & guides
 
 Real numbers, real code, from building and running these Actors:

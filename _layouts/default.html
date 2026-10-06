@@ -71,11 +71,13 @@ footer .cadre{padding-top:18px;padding-bottom:28px}
 <body>
 <header class="bande"><div class="cadre large">
 <a class="marque" href="{{ '/' | relative_url }}">EuroScrape</a>
-<nav><a href="{{ '/' | relative_url }}">Actors</a><a href="{{ '/articles/' | relative_url }}">Articles</a><a href="{{ '/examples/' | relative_url }}">Examples</a><a href="https://apify.com/euroscrape">Apify Store</a><a href="https://github.com/EuroScrape/apify-actors">GitHub</a></nav>
+<nav><a href="{{ '/' | relative_url }}">Actors</a><a href="{{ '/articles/' | relative_url }}">Articles</a><a href="{{ '/data/' | relative_url }}">Data</a><a href="{{ '/examples/' | relative_url }}">Examples</a><a href="https://apify.com/euroscrape">Apify Store</a><a href="https://github.com/EuroScrape/apify-actors">GitHub</a></nav>
 </div></header>
 <main class="cadre{% if accueil %} large{% endif %}">
 {%- if page.url contains '/articles/' and page.url != '/articles/' %}
 <p class="fil"><a href="{{ '/articles/' | relative_url }}">← All articles</a></p>
+{%- elsif page.url contains '/data/' and page.url != '/data/' %}
+<p class="fil"><a href="{{ '/data/' | relative_url }}">← All data pages</a></p>
 {%- elsif page.url contains '/examples/' and page.url != '/examples/' %}
 <p class="fil"><a href="{{ '/examples/' | relative_url }}">← All examples</a></p>
 {%- endif %}
