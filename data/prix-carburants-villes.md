@@ -8,23 +8,23 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Ville | Gazole le moins cher | Où | Gazole médian | Écart local | E10 le moins cher | SP98 le moins cher |
 |---|---|---|---|---|---|---|
 | Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,394 | 65 ct | 1,990 | 1,990 |
-| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,369 | 31 ct | 1,990 | 1,990 |
+| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,382 | 30 ct | 1,990 | 1,990 |
 | Lyon | 2,240 | Boulevard Des Provinces, Sainte Foy Les Lyon | 2,375 | 31 ct | 1,990 | 1,990 |
 | Toulouse | 2,245 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,388 | 34 ct | 1,990 | 2,224 |
-| Nice | 2,250 | 93 Route De Turin Rn 204, Nice | 2,327 | 32 ct | 1,990 | 1,990 |
-| Nantes | 2,240 | 6 Rue Joseph Cugnot, Carquefou | 2,319 | 24 ct | 1,990 | 1,990 |
-| Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,369 | 25 ct | 1,990 | 1,990 |
-| Strasbourg | 2,225 | 145 Route De Lyon, Illkirch-Graffenstaden | 2,529 | 57 ct | 1,990 | 2,359 |
-| Bordeaux | 2,250 | Rocade Périphérique Exterieur Aire Du Truc, Merignac | 2,353 | 30 ct | 1,990 | 1,990 |
+| Nice | 2,250 | 93 Route De Turin Rn 204, Nice | 2,357 | 32 ct | 1,990 | 1,990 |
+| Nantes | 2,240 | 6 Rue Joseph Cugnot, Carquefou | 2,299 | 24 ct | 1,990 | 1,990 |
+| Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,367 | 25 ct | 1,990 | 1,990 |
+| Strasbourg | 2,225 | 145 Route De Lyon, Illkirch-Graffenstaden | 2,522 | 57 ct | 1,990 | 2,359 |
+| Bordeaux | 2,250 | Rn230- Aire De Lormont Sens Bayonne-Paris, Lormont | 2,353 | 30 ct | 1,990 | 1,990 |
 | Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,352 | 40 ct | 1,990 | 1,990 |
 | Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,324 | 24 ct | 1,990 | 1,990 |
 | Reims | 2,250 | 12, Avenue Brebant, Reims | 2,377 | 42 ct | 1,990 | 2,239 |
 | Saint-Étienne | 2,250 | 35 Rue Holtzer, Unieux | 2,349 | 26 ct | 1,990 | 1,990 |
 | Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,359 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,372 | 24 ct | 1,990 | 1,990 |
-| Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,368 | 30 ct | 1,990 | 2,214 |
-| Dijon | 2,250 | 15 Rue De Mayence, Dijon | 2,365 | 25 ct | 1,990 | 2,209 |
-| Angers | 2,250 | Rd 323 - Direction Angers, Beaucouze | 2,339 | 59 ct | 1,990 | 2,229 |
+| Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,368 | 29 ct | 1,990 | 1,990 |
+| Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,365 | 25 ct | 1,990 | 2,209 |
+| Angers | 2,250 | Rd 323 - Direction Angers, Beaucouze | 2,339 | 51 ct | 1,990 | 2,229 |
 | Nîmes | 2,249 | 405 Chemin Bas De Montpellier, Nîmes | 2,369 | 29 ct | 1,990 | 1,990 |
 | Clermont-Ferrand | 2,250 | Fontchenille, Gerzat | 2,340 | 26 ct | 1,990 | 1,990 |
 
