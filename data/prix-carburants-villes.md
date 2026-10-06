@@ -9,7 +9,7 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 |---|---|---|---|---|---|---|
 | Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,397 | 65 ct | 1,990 | 1,990 |
 | Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,369 | 31 ct | 1,990 | 1,990 |
-| Lyon | 2,240 | Boulevard Des Provinces, Sainte Foy Les Lyon | 2,379 | 31 ct | 1,990 | 1,990 |
+| Lyon | 2,240 | Boulevard Des Provinces, Sainte Foy Les Lyon | 2,378 | 31 ct | 1,990 | 1,990 |
 | Toulouse | 2,245 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,388 | 34 ct | 1,990 | 2,224 |
 | Nice | 2,250 | 93 Route De Turin Rn 204, Nice | 2,327 | 32 ct | 1,990 | 1,990 |
 | Nantes | 2,240 | 6 Rue Joseph Cugnot, Carquefou | 2,319 | 25 ct | 1,990 | 1,990 |
@@ -20,10 +20,10 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,324 | 25 ct | 1,990 | 1,990 |
 | Reims | 2,250 | 12, Avenue Brebant, Reims | 2,379 | 42 ct | 1,990 | 1,990 |
 | Saint-Étienne | 2,250 | 35 Rue Holtzer, Unieux | 2,349 | 26 ct | 1,990 | 1,990 |
-| Toulon | 2,250 | 715 Rte De La Seyne, Ollioules | 2,359 | 35 ct | 1,990 | 1,990 |
+| Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,359 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,372 | 24 ct | 1,990 | 1,990 |
 | Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,369 | 30 ct | 1,990 | 1,990 |
-| Dijon | 2,250 | 15 Rue De Mayence, Dijon | 2,370 | 25 ct | 1,990 | 2,209 |
+| Dijon | 2,250 | 15 Rue De Mayence, Dijon | 2,369 | 25 ct | 1,990 | 2,209 |
 | Angers | 2,250 | Bd Henri Dunant, Angers | 2,339 | 59 ct | 1,990 | 2,229 |
 | Nîmes | 2,249 | 405 Chemin Bas De Montpellier, Nîmes | 2,369 | 29 ct | 1,990 | 1,990 |
 | Clermont-Ferrand | 2,250 | Fontchenille, Gerzat | 2,340 | 26 ct | 1,990 | 1,990 |

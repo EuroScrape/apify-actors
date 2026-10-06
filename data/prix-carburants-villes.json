@@ -19,7 +19,7 @@
     "spreadCts": 65
    },
    "E10": {
-    "stations": 104,
+    "stations": 105,
     "cheapest": {
      "price": 1.99,
      "address": "60 AV DE STALINGRAD",
@@ -27,11 +27,11 @@
      "distanceKm": 8.3,
      "updatedAt": "2026-10-06T00:01:00"
     },
-    "median": 2.199,
+    "median": 2.198,
     "spreadCts": 47.9
    },
    "SP98": {
-    "stations": 87,
+    "stations": 88,
     "cheapest": {
      "price": 1.99,
      "address": "59 RUE JEAN BLEUZEN",
@@ -85,7 +85,7 @@
   {
    "ville": "Lyon",
    "Gazole": {
-    "stations": 81,
+    "stations": 82,
     "cheapest": {
      "price": 2.24,
      "address": "BOULEVARD DES PROVINCES",
@@ -93,7 +93,7 @@
      "distanceKm": 2.9,
      "updatedAt": "2026-10-05T11:12:40"
     },
-    "median": 2.379,
+    "median": 2.378,
     "spreadCts": 30.9
    },
    "E10": {
@@ -514,37 +514,37 @@
   {
    "ville": "Toulon",
    "Gazole": {
-    "stations": 33,
+    "stations": 34,
     "cheapest": {
      "price": 2.25,
-     "address": "715 RTE DE LA SEYNE",
-     "city": "OLLIOULES",
-     "distanceKm": 7,
-     "updatedAt": "2026-10-06T00:01:00"
+     "address": "AV.DE L'UNIVERSITE",
+     "city": "La Valette-du-Var",
+     "distanceKm": 6.5,
+     "updatedAt": "2026-10-06T10:33:27"
     },
     "median": 2.359,
     "spreadCts": 34.9
    },
    "E10": {
-    "stations": 30,
+    "stations": 31,
     "cheapest": {
      "price": 1.99,
-     "address": "715 RTE DE LA SEYNE",
-     "city": "OLLIOULES",
-     "distanceKm": 7,
-     "updatedAt": "2026-10-06T00:01:00"
+     "address": "AV.DE L'UNIVERSITE",
+     "city": "La Valette-du-Var",
+     "distanceKm": 6.5,
+     "updatedAt": "2026-10-06T10:33:27"
     },
-    "median": 2.179,
+    "median": 2.172,
     "spreadCts": 35.9
    },
    "SP98": {
-    "stations": 30,
+    "stations": 31,
     "cheapest": {
      "price": 1.99,
-     "address": "715 RTE DE LA SEYNE",
-     "city": "OLLIOULES",
-     "distanceKm": 7,
-     "updatedAt": "2026-10-06T00:01:00"
+     "address": "AV.DE L'UNIVERSITE",
+     "city": "La Valette-du-Var",
+     "distanceKm": 6.5,
+     "updatedAt": "2026-10-06T10:33:27"
     },
     "median": 2.284,
     "spreadCts": 51.9
@@ -639,7 +639,7 @@
      "distanceKm": 3.1,
      "updatedAt": "2026-10-02T14:39:35"
     },
-    "median": 2.37,
+    "median": 2.369,
     "spreadCts": 24.9
    },
    "E10": {
@@ -772,7 +772,7 @@
     "spreadCts": 30
    },
    "SP98": {
-    "stations": 25,
+    "stations": 26,
     "cheapest": {
      "price": 1.99,
      "address": "8 BOULEVARD WINSTON CHURCHILL",
