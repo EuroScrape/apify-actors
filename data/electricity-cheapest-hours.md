@@ -1,45 +1,36 @@
 ---
 lang: en
 ---
-# Cheapest electricity hours in Europe: day-ahead prices for 7 October 2026
+# Cheapest electricity hours in Europe: day-ahead prices for 8 October 2026
 
-The three cheapest consecutive hours of electricity on 7 October 2026 in 27 European bidding zones, from the day-ahead market, with the average, lowest and highest price of the day. Updated every day after the auction. Wholesale prices in EUR/MWh, before taxes and grid fees; times are CET/CEST.
+The three cheapest consecutive hours of electricity on 8 October 2026 in 18 European bidding zones, from the day-ahead market, with the average, lowest and highest price of the day. Updated every day after the auction. Wholesale prices in EUR/MWh, before taxes and grid fees; times are CET/CEST.
 
 | Zone | Cheapest 3 hours | Average in that window | Day average | Lowest | Highest | Negative hours |
 |---|---|---|---|---|---|---|
-| Austria (AT) | 11:15–14:15 | 112 | 195 | 98 at 11:45 | 280 at 08:00 | 0 |
-| Belgium (BE) | 12:30–15:30 | 152 | 193 | 137 at 23:45 | 280 at 08:00 | 0 |
-| Bulgaria (BG) | 12:45–15:45 | 113 | 199 | 69 at 09:15 | 288 at 20:15 | 0 |
-| Croatia (HR) | 11:30–14:30 | 119 | 204 | 104 at 13:45 | 280 at 08:00 | 0 |
-| Czechia (CZ) | 11:45–14:45 | 114 | 186 | 107 at 13:45 | 280 at 08:00 | 0 |
-| Denmark West (DK1) | 12:15–15:15 | 139 | 193 | 134 at 13:30 | 284 at 07:00 | 0 |
-| Denmark East (DK2) | 12:15–15:15 | 148 | 194 | 134 at 23:45 | 281 at 07:00 | 0 |
-| Estonia (EE) | 00:00–03:00 | 1.1 | 70 | 0 at 02:00 | 256 at 17:45 | 0 |
-| Finland (FI) | 00:00–03:00 | 0 | 16 | 0 at 00:00 | 40 at 17:45 | 0 |
-| France (FR) | 12:45–15:45 | 151 | 188 | 132 at 23:45 | 280 at 08:00 | 0 |
-| Germany-Luxembourg (DE-LU) | 12:00–15:00 | 130 | 192 | 123 at 13:00 | 280 at 08:00 | 0 |
-| Greece (GR) | 09:00–12:00 | 0 | 162 | 0 at 09:00 | 328 at 18:45 | 6.75 |
-| Hungary (HU) | 11:30–14:30 | 114 | 211 | 102 at 11:45 | 300 at 20:15 | 0 |
-| Italy North (IT-North) | 02:30–05:30 | 195 | 221 | 180 at 16:00 | 280 at 08:00 | 0 |
-| Latvia (LV) | 09:30–12:30 | 123 | 177 | 24 at 09:45 | 285 at 08:00 | 0 |
-| Lithuania (LT) | 11:45–14:45 | 150 | 196 | 136 at 23:45 | 285 at 08:00 | 0 |
-| Netherlands (NL) | 12:15–15:15 | 144 | 192 | 137 at 13:15 | 280 at 08:00 | 0 |
-| Norway Kristiansand (NO2) | 12:15–15:15 | 138 | 169 | 132 at 23:45 | 265 at 08:00 | 0 |
-| Poland (PL) | 12:00–15:00 | 114 | 168 | 107 at 09:30 | 280 at 08:00 | 0 |
-| Portugal (PT) | 14:00–17:00 | 95 | 181 | 81 at 16:00 | 246 at 08:15 | 0 |
-| Romania (RO) | 11:30–14:30 | 115 | 209 | 103 at 13:45 | 290 at 20:15 | 0 |
-| Slovakia (SK) | 11:30–14:30 | 113 | 186 | 105 at 13:45 | 280 at 08:00 | 0 |
-| Slovenia (SI) | 11:30–14:30 | 120 | 202 | 103 at 13:45 | 280 at 08:00 | 0 |
-| Spain (ES) | 14:00–17:00 | 95 | 180 | 81 at 16:00 | 251 at 08:15 | 0 |
-| Sweden Stockholm (SE3) | 12:00–15:00 | 78 | 107 | 75 at 14:00 | 185 at 17:45 | 0 |
-| Sweden Malmö (SE4) | 12:00–15:00 | 148 | 193 | 134 at 23:45 | 281 at 08:00 | 0 |
-| Switzerland (CH) | 12:00–15:00 | 168 | 205 | 168 at 13:00 | 275 at 07:00 | 0 |
+| Austria (AT) | 10:30–13:30 | 156 | 189 | 135 at 11:30 | 275 at 08:00 | 0 |
+| Belgium (BE) | 12:15–15:15 | 96 | 147 | 87 at 13:45 | 291 at 19:30 | 0 |
+| Czechia (CZ) | 21:00–00:00 | 112 | 139 | 81 at 23:45 | 199 at 06:45 | 0 |
+| Denmark West (DK1) | 13:15–16:15 | 99 | 132 | 84 at 23:45 | 195 at 08:00 | 0 |
+| Denmark East (DK2) | 13:30–16:30 | 115 | 137 | 85 at 23:45 | 199 at 08:00 | 0 |
+| Estonia (EE) | 20:00–23:00 | 62 | 123 | 26 at 22:45 | 188 at 08:00 | 0 |
+| Finland (FI) | 00:00–03:00 | 35 | 103 | 26 at 22:45 | 188 at 08:00 | 0 |
+| Germany-Luxembourg (DE-LU) | 13:15–16:15 | 103 | 139 | 96 at 15:00 | 204 at 08:00 | 0 |
+| Latvia (LV) | 20:00–23:00 | 103 | 135 | 26 at 22:45 | 188 at 08:00 | 0 |
+| Lithuania (LT) | 20:00–23:00 | 103 | 135 | 26 at 22:45 | 188 at 08:00 | 0 |
+| Norway Kristiansand (NO2) | 12:15–15:15 | 121 | 133 | 117 at 23:45 | 171 at 09:00 | 0 |
+| Poland (PL) | 21:00–00:00 | 114 | 133 | 97 at 23:45 | 204 at 17:45 | 0 |
+| Portugal (PT) | 11:30–14:30 | 0 | 107 | 0 at 11:30 | 204 at 00:00 | 0 |
+| Slovenia (SI) | 11:15–14:15 | 150 | 197 | 136 at 11:30 | 253 at 08:00 | 0 |
+| Spain (ES) | 11:30–14:30 | 0 | 107 | 0 at 11:30 | 204 at 00:00 | 0 |
+| Sweden Stockholm (SE3) | 21:00–00:00 | 54 | 115 | 25 at 23:45 | 180 at 08:00 | 0 |
+| Sweden Malmö (SE4) | 21:00–00:00 | 61 | 130 | 25 at 23:45 | 192 at 08:00 | 0 |
+| Switzerland (CH) | 02:00–05:00 | 190 | 212 | 189 at 04:00 | 228 at 18:00 | 0 |
 
 ## What stands out
 
-- In 22 of 27 zones, the cheapest three hours start between 10:00 and 16:00, not at night.
-- Cheapest day on average: Finland (16 EUR/MWh). Most expensive: Italy North (221 EUR/MWh).
-- Negative prices: Greece.
+- In 9 of 18 zones, the cheapest three hours start between 10:00 and 16:00, not at night.
+- Cheapest day on average: Finland (103 EUR/MWh). Most expensive: Switzerland (212 EUR/MWh).
+- No zone has negative prices that day.
 
 ## Get these numbers yourself
 
