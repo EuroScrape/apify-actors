@@ -118,9 +118,13 @@ Missing a field, a country or a source? Say it in a review on the Actor's page i
 
 Two small tables rebuilt every day from official open data: [the cheapest electricity hours in 28 European bidding zones](data/electricity-cheapest-hours.md) and [the cheapest fuel around twenty French cities](data/prix-carburants-villes.md). Each has a JSON copy.
 
+## ✈️ Flight price tracker
+
+A template repository that tracks Google Flights prices in Git: one CSV per route, updated every day by GitHub Actions, with a Telegram or Discord alert when a fare drops. One Python file, no dependency: [EuroScrape/flight-price-tracker](https://github.com/EuroScrape/flight-price-tracker).
+
 ## 🤖 MCP server
 
-All twenty Actors as tools for Claude, Cursor and any MCP client, with a spending cap per call: [EuroScrape/euroscrape-mcp](https://github.com/EuroScrape/euroscrape-mcp).
+All twenty Actors as tools for Claude, Cursor and any MCP client, with a spending cap per call: [EuroScrape/euroscrape-mcp](https://github.com/EuroScrape/euroscrape-mcp). In Claude Desktop it installs in one click from the [latest release](https://github.com/EuroScrape/euroscrape-mcp/releases/latest), and it is listed in the official MCP registry as `io.github.EuroScrape/euroscrape-mcp`.
 
 ## 📚 Articles & guides
 
