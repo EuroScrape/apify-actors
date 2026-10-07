@@ -158,3 +158,5 @@ Small, runnable Python projects built on these Actors (one file each, `pip insta
 | [`examples/eu-tenders-slack-alerts`](examples/eu-tenders-slack-alerts/tenders.py) | Posts new EU public tenders matching your keywords to a Slack channel, daily |
 | [`examples/new-company-leads`](examples/new-company-leads/leads.py) | Lists this week's new companies in your town that have no website - the ones that just bought a domain first - and writes `leads.csv` |
 
+
+[Privacy policy](privacy.md)
