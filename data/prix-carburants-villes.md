@@ -7,26 +7,26 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 
 | Ville | Gazole le moins cher | Où | Gazole médian | Écart local | E10 le moins cher | SP98 le moins cher |
 |---|---|---|---|---|---|---|
-| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,366 | 65 ct | 1,990 | 1,990 |
+| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,368 | 65 ct | 1,990 | 1,990 |
 | Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,369 | 30 ct | 1,990 | 1,990 |
 | Lyon | 2,250 | Bd Laurent Bonnevay, Bron | 2,367 | 30 ct | 1,990 | 1,990 |
-| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,380 | 36 ct | 1,990 | 1,990 |
+| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,386 | 36 ct | 1,990 | 1,990 |
 | Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,357 | 32 ct | 1,990 | 1,990 |
-| Nantes | 2,250 | Rue Bauche Thiraud - Rocade Sud, Reze | 2,289 | 23 ct | 1,990 | 1,990 |
+| Nantes | 2,250 | Rue Bauche Thiraud - Rocade Sud, Reze | 2,299 | 23 ct | 1,990 | 1,990 |
 | Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,356 | 25 ct | 1,990 | 1,990 |
-| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,529 | 49 ct | 1,990 | 2,389 |
+| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,530 | 63 ct | 1,990 | 2,389 |
 | Bordeaux | 2,250 | 307 Av D'Eysines, Le Bouscat | 2,328 | 30 ct | 1,990 | 1,990 |
-| Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,339 | 37 ct | 1,990 | 1,990 |
+| Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,331 | 37 ct | 1,990 | 1,990 |
 | Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,320 | 24 ct | 1,990 | 1,990 |
 | Reims | 2,250 | 12, Avenue Brebant, Reims | 2,376 | 42 ct | 1,990 | 1,990 |
 | Saint-Étienne | 2,250 | 35 Rue Holtzer, Unieux | 2,335 | 25 ct | 1,990 | 1,990 |
 | Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,296 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,372 | 24 ct | 1,990 | 1,990 |
-| Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,359 | 29 ct | 1,990 | 1,990 |
+| Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,359 | 28 ct | 1,990 | 1,990 |
 | Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,364 | 25 ct | 1,990 | 2,259 |
-| Angers | 2,285 | 26 Rue Valentin Des Ormeaux, Mûrs-Erigné | 2,339 | 47 ct | 2,128 | 2,229 |
-| Nîmes | 2,250 | 2705 Rte De Montpellier, Nimes | 2,352 | 29 ct | 1,990 | 1,990 |
-| Clermont-Ferrand | 2,250 | Fontchenille, Gerzat | 2,329 | 26 ct | 1,990 | 1,990 |
+| Angers | 2,250 | Rd 323 - Direction Angers, Beaucouze | 2,336 | 51 ct | 1,990 | 1,990 |
+| Nîmes | 2,250 | 120 Chemin Du Mas Fléchier, Nîmes | 2,352 | 29 ct | 1,990 | 1,990 |
+| Clermont-Ferrand | 2,250 | 8 Boulevard Winston Churchill, Clermont-Ferrand | 2,329 | 26 ct | 1,990 | 1,990 |
 
 ## Ce qui ressort
 
