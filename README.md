@@ -144,6 +144,7 @@ Real numbers, real code, from building and running these Actors:
 - [I matched 2,518 apartment sales to their energy certificates - F and G homes sold 16% cheaper per m²](articles/12-dvf-dpe-energy-discount.md)
 - [Companies file 1 French building permit in 5 and build 3 homes in 4 - and the register names them 8 months before the site opens](articles/13-building-permits-window.md)
 - [A 4.8-star shop tells you nothing - across 444 German online shops the rating fits in a third of a point, while the share of 1 and 2 star reviews varies 11x](articles/14-trusted-shops-ratings.md)
+- [The median "PlayStation 5" on Kleinanzeigen costs 55 euros - three traps in second-hand price data](articles/15-kleinanzeigen-price-traps.md)
 
 
 ## 🧪 Example projects
