@@ -87,14 +87,14 @@
    "Gazole": {
     "stations": 78,
     "cheapest": {
-     "price": 2.238,
+     "price": 2.239,
      "address": "145, Rue Anatole France",
      "city": "VILLEURBANNE",
      "distanceKm": 4,
-     "updatedAt": "2026-10-08T00:46:00"
+     "updatedAt": "2026-10-08T08:25:00"
     },
     "median": 2.368,
-    "spreadCts": 31.1
+    "spreadCts": 31
    },
    "E10": {
     "stations": 70,
@@ -126,17 +126,17 @@
    "Gazole": {
     "stations": 61,
     "cheapest": {
-     "price": 2.25,
-     "address": "55 BOULEVARD DE SUISSE",
-     "city": "TOULOUSE",
-     "distanceKm": 1.9,
-     "updatedAt": "2026-10-08T00:01:00"
+     "price": 2.229,
+     "address": "Boulevard de l'Europe",
+     "city": "PORTET-SUR-GARONNE",
+     "distanceKm": 7.9,
+     "updatedAt": "2026-10-08T08:20:43"
     },
     "median": 2.369,
-    "spreadCts": 34
+    "spreadCts": 36.1
    },
    "E10": {
-    "stations": 52,
+    "stations": 51,
     "cheapest": {
      "price": 1.99,
      "address": "65 ROUTE D AGDE",
@@ -148,7 +148,7 @@
     "spreadCts": 26.9
    },
    "SP98": {
-    "stations": 43,
+    "stations": 42,
     "cheapest": {
      "price": 1.99,
      "address": "98 AVENUE TOLOSANE",
@@ -156,7 +156,7 @@
      "distanceKm": 7.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.301,
+    "median": 2.318,
     "spreadCts": 38.9
    }
   },
@@ -319,7 +319,7 @@
   {
    "ville": "Bordeaux",
    "Gazole": {
-    "stations": 58,
+    "stations": 59,
     "cheapest": {
      "price": 2.249,
      "address": "Centre Commercial GRAND TOUR",
@@ -327,7 +327,7 @@
      "distanceKm": 9,
      "updatedAt": "2026-10-08T07:00:00"
     },
-    "median": 2.329,
+    "median": 2.328,
     "spreadCts": 30.6
    },
    "E10": {
@@ -520,7 +520,7 @@
      "address": "ROUTE DE L'UNIVERSITE",
      "city": "La Valette-du-Var",
      "distanceKm": 6.6,
-     "updatedAt": "2026-10-07T22:55:00"
+     "updatedAt": "2026-10-08T08:25:00"
     },
     "median": 2.296,
     "spreadCts": 35.1
@@ -612,7 +612,7 @@
      "distanceKm": 5.2,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.189,
+    "median": 2.188,
     "spreadCts": 30.9
    },
    "SP98": {

@@ -9,13 +9,13 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 |---|---|---|---|---|---|---|
 | Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,345 | 65 ct | 1,990 | 1,990 |
 | Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,350 | 30 ct | 1,990 | 1,990 |
-| Lyon | 2,238 | 145, Rue Anatole France, Villeurbanne | 2,368 | 31 ct | 1,990 | 1,990 |
-| Toulouse | 2,250 | 55 Boulevard De Suisse, Toulouse | 2,369 | 34 ct | 1,990 | 1,990 |
+| Lyon | 2,239 | 145, Rue Anatole France, Villeurbanne | 2,368 | 31 ct | 1,990 | 1,990 |
+| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,369 | 36 ct | 1,990 | 1,990 |
 | Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,317 | 32 ct | 1,990 | 1,990 |
 | Nantes | 2,250 | Boulevard De L'Europe, Vertou | 2,289 | 21 ct | 1,990 | 1,990 |
 | Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,355 | 25 ct | 1,990 | 1,990 |
 | Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,481 | 63 ct | 1,990 | 2,389 |
-| Bordeaux | 2,249 | Centre Commercial Grand Tour, Sainte-Eulalie | 2,329 | 31 ct | 1,990 | 1,990 |
+| Bordeaux | 2,249 | Centre Commercial Grand Tour, Sainte-Eulalie | 2,328 | 31 ct | 1,990 | 1,990 |
 | Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,331 | 39 ct | 1,990 | 1,990 |
 | Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,299 | 23 ct | 1,990 | 1,990 |
 | Reims | 2,250 | 12, Avenue Brebant, Reims | 2,376 | 42 ct | 1,990 | 1,990 |
@@ -30,7 +30,7 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 
 ## Ce qui ressort
 
-- Le gazole le moins cher du jour dans ces villes : 2,238 € le litre, autour de Lyon.
+- Le gazole le moins cher du jour dans ces villes : 2,229 € le litre, autour de Toulouse.
 - Le plus grand écart entre stations d'un même secteur : 65 centimes par litre autour de Paris ; sur un plein de 50 litres, cela fait 32 €.
 
 ## Les mêmes chiffres pour votre ville
