@@ -118,6 +118,10 @@ Missing a field, a country or a source? Say it in a review on the Actor's page i
 
 Two small tables rebuilt every day from official open data: [the cheapest electricity hours in 28 European bidding zones](data/electricity-cheapest-hours.md) and [the cheapest fuel around twenty French cities](data/prix-carburants-villes.md). Each has a JSON copy.
 
+## 🇫🇷 En français
+
+Six Actors read French public data: [prix immobilier (DVF)](fr/prix-immobilier.md), [DPE](fr/dpe.md), [permis de construire](fr/permis-de-construire.md), [prix des carburants](fr/prix-carburants.md), [entreprises (SIRENE)](fr/entreprises.md), [marchés publics](fr/marches-publics.md). Each has a page in French with a same-day example and prices: [les robots EuroScrape en français](fr/README.md).
+
 ## ✈️ Flight price tracker
 
 A template repository that tracks Google Flights prices in Git: one CSV per route, updated every day by GitHub Actions, with a Telegram or Discord alert when a fare drops. One Python file, no dependency: [EuroScrape/flight-price-tracker](https://github.com/EuroScrape/flight-price-tracker).
