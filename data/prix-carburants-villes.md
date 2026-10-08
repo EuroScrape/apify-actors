@@ -1,36 +1,36 @@
 ---
 lang: fr
 ---
-# Carburant le moins cher aujourd'hui dans 20 villes de France (7 octobre 2026)
+# Carburant le moins cher aujourd'hui dans 20 villes de France (8 octobre 2026)
 
-Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km autour de 20 grandes villes, relevé le 7 octobre 2026 dans le flux officiel des prix des carburants. Avec, pour le gazole, la station la moins chère, le prix médian des stations du secteur et l'écart entre la plus chère et la moins chère. Prix en euros par litre. Mis à jour chaque jour.
+Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km autour de 20 grandes villes, relevé le 8 octobre 2026 dans le flux officiel des prix des carburants. Avec, pour le gazole, la station la moins chère, le prix médian des stations du secteur et l'écart entre la plus chère et la moins chère. Prix en euros par litre. Mis à jour chaque jour.
 
 | Ville | Gazole le moins cher | Où | Gazole médian | Écart local | E10 le moins cher | SP98 le moins cher |
 |---|---|---|---|---|---|---|
-| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,368 | 65 ct | 1,990 | 1,990 |
-| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,369 | 30 ct | 1,990 | 1,990 |
-| Lyon | 2,250 | Bd Laurent Bonnevay, Bron | 2,367 | 30 ct | 1,990 | 1,990 |
-| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,386 | 36 ct | 1,990 | 1,990 |
-| Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,357 | 32 ct | 1,990 | 1,990 |
-| Nantes | 2,250 | Rue Bauche Thiraud - Rocade Sud, Reze | 2,299 | 23 ct | 1,990 | 1,990 |
-| Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,356 | 25 ct | 1,990 | 1,990 |
-| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,530 | 63 ct | 1,990 | 2,389 |
-| Bordeaux | 2,250 | 307 Av D'Eysines, Le Bouscat | 2,328 | 30 ct | 1,990 | 1,990 |
-| Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,331 | 37 ct | 1,990 | 1,990 |
-| Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,320 | 24 ct | 1,990 | 1,990 |
+| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,345 | 65 ct | 1,990 | 1,990 |
+| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,350 | 30 ct | 1,990 | 1,990 |
+| Lyon | 2,238 | 145, Rue Anatole France, Villeurbanne | 2,368 | 31 ct | 1,990 | 1,990 |
+| Toulouse | 2,250 | 55 Boulevard De Suisse, Toulouse | 2,369 | 34 ct | 1,990 | 1,990 |
+| Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,317 | 32 ct | 1,990 | 1,990 |
+| Nantes | 2,250 | Boulevard De L'Europe, Vertou | 2,289 | 21 ct | 1,990 | 1,990 |
+| Montpellier | 2,250 | A9 - Aire De Fabregues Nord, Fabregues | 2,355 | 25 ct | 1,990 | 1,990 |
+| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,481 | 63 ct | 1,990 | 2,389 |
+| Bordeaux | 2,249 | Centre Commercial Grand Tour, Sainte-Eulalie | 2,329 | 31 ct | 1,990 | 1,990 |
+| Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,331 | 39 ct | 1,990 | 1,990 |
+| Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,299 | 23 ct | 1,990 | 1,990 |
 | Reims | 2,250 | 12, Avenue Brebant, Reims | 2,376 | 42 ct | 1,990 | 1,990 |
 | Saint-Étienne | 2,250 | 35 Rue Holtzer, Unieux | 2,335 | 25 ct | 1,990 | 1,990 |
-| Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,296 | 35 ct | 1,990 | 1,990 |
-| Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,372 | 24 ct | 1,990 | 1,990 |
+| Toulon | 2,248 | Route De L'Universite, La Valette-Du-Var | 2,296 | 35 ct | 1,990 | 1,990 |
+| Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,300 | 24 ct | 1,990 | 1,990 |
 | Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,359 | 28 ct | 1,990 | 1,990 |
-| Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,364 | 25 ct | 1,990 | 2,259 |
-| Angers | 2,250 | Rd 323 - Direction Angers, Beaucouze | 2,336 | 51 ct | 1,990 | 1,990 |
+| Dijon | 2,250 | 15 Rue De Mayence, Dijon | 2,359 | 20 ct | 1,990 | 1,990 |
+| Angers | 2,250 | 170 Rue Letanduere, Angers | 2,310 | 51 ct | 1,990 | 1,990 |
 | Nîmes | 2,250 | 120 Chemin Du Mas Fléchier, Nîmes | 2,352 | 29 ct | 1,990 | 1,990 |
-| Clermont-Ferrand | 2,250 | 8 Boulevard Winston Churchill, Clermont-Ferrand | 2,329 | 26 ct | 1,990 | 1,990 |
+| Clermont-Ferrand | 2,250 | Fontchenille, Gerzat | 2,320 | 26 ct | 1,990 | 1,990 |
 
 ## Ce qui ressort
 
-- Le gazole le moins cher du jour dans ces villes : 2,229 € le litre, autour de Toulouse.
+- Le gazole le moins cher du jour dans ces villes : 2,238 € le litre, autour de Lyon.
 - Le plus grand écart entre stations d'un même secteur : 65 centimes par litre autour de Paris ; sur un plein de 50 litres, cela fait 32 €.
 
 ## Les mêmes chiffres pour votre ville

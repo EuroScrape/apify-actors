@@ -7,20 +7,20 @@ The three cheapest consecutive hours of electricity on 8 October 2026 in 19 Euro
 
 | Zone | Cheapest 3 hours | Average in that window | Day average | Lowest | Highest | Negative hours |
 |---|---|---|---|---|---|---|
-| Bulgaria (BG) | 11:15–14:15 | 145 | 207 | 135 at 11:30 | 271 at 07:00 | 0 |
+| Bulgaria (BG) | 11:15–14:15 | 145 | 208 | 135 at 11:30 | 271 at 07:00 | 0 |
 | Croatia (HR) | 11:15–14:15 | 149 | 201 | 136 at 11:30 | 258 at 07:00 | 0 |
 | Czechia (CZ) | 21:00–00:00 | 112 | 139 | 81 at 23:45 | 199 at 06:45 | 0 |
 | Denmark West (DK1) | 13:15–16:15 | 99 | 132 | 84 at 23:45 | 195 at 08:00 | 0 |
 | Denmark East (DK2) | 13:30–16:30 | 115 | 137 | 85 at 23:45 | 199 at 08:00 | 0 |
-| Estonia (EE) | 20:00–23:00 | 62 | 123 | 26 at 22:45 | 188 at 08:00 | 0 |
-| Finland (FI) | 00:00–03:00 | 35 | 103 | 26 at 22:45 | 188 at 08:00 | 0 |
-| Greece (GR) | 10:30–13:30 | 0 | 162 | 0 at 10:45 | 271 at 07:00 | 3.5 |
+| Estonia (EE) | 21:00–00:00 | 43 | 119 | 25 at 23:45 | 188 at 08:00 | 0 |
+| Finland (FI) | 00:00–03:00 | 35 | 100 | 25 at 23:45 | 188 at 08:00 | 0 |
+| Greece (GR) | 10:30–13:30 | 0 | 165 | 0 at 10:45 | 271 at 07:00 | 3.5 |
 | Hungary (HU) | 11:15–14:15 | 146 | 214 | 134 at 11:45 | 278 at 07:00 | 0 |
-| Latvia (LV) | 20:00–23:00 | 103 | 135 | 26 at 22:45 | 188 at 08:00 | 0 |
-| Lithuania (LT) | 20:00–23:00 | 103 | 135 | 26 at 22:45 | 188 at 08:00 | 0 |
+| Latvia (LV) | 21:00–00:00 | 62 | 130 | 25 at 23:45 | 188 at 08:00 | 0 |
+| Lithuania (LT) | 21:00–00:00 | 62 | 130 | 25 at 23:45 | 188 at 08:00 | 0 |
 | Norway Kristiansand (NO2) | 12:15–15:15 | 121 | 133 | 117 at 23:45 | 171 at 09:00 | 0 |
 | Poland (PL) | 21:00–00:00 | 114 | 133 | 97 at 23:45 | 204 at 17:45 | 0 |
-| Romania (RO) | 11:15–14:15 | 145 | 208 | 135 at 11:30 | 272 at 07:00 | 0 |
+| Romania (RO) | 11:15–14:15 | 145 | 209 | 135 at 11:30 | 272 at 07:00 | 0 |
 | Slovakia (SK) | 01:45–04:45 | 106 | 177 | 101 at 02:15 | 314 at 07:00 | 0 |
 | Slovenia (SI) | 11:15–14:15 | 150 | 197 | 136 at 11:30 | 253 at 08:00 | 0 |
 | Sweden Stockholm (SE3) | 21:00–00:00 | 54 | 115 | 25 at 23:45 | 180 at 08:00 | 0 |
@@ -30,7 +30,7 @@ The three cheapest consecutive hours of electricity on 8 October 2026 in 19 Euro
 ## What stands out
 
 - In 9 of 19 zones, the cheapest three hours start between 10:00 and 16:00, not at night.
-- Cheapest day on average: Finland (103 EUR/MWh). Most expensive: Hungary (214 EUR/MWh).
+- Cheapest day on average: Finland (100 EUR/MWh). Most expensive: Hungary (214 EUR/MWh).
 - Negative prices: Greece.
 
 ## Get these numbers yourself
