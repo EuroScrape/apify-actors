@@ -7,10 +7,10 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 
 | Ville | Gazole le moins cher | Où | Gazole médian | Écart local | E10 le moins cher | SP98 le moins cher |
 |---|---|---|---|---|---|---|
-| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,345 | 65 ct | 1,990 | 1,990 |
+| Paris | 2,225 | 114 Bd De L Hopital, Paris | 2,349 | 68 ct | 1,990 | 1,990 |
 | Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,349 | 30 ct | 1,990 | 1,990 |
 | Lyon | 2,239 | 145, Rue Anatole France, Villeurbanne | 2,349 | 31 ct | 1,990 | 1,990 |
-| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,328 | 36 ct | 1,990 | 1,990 |
+| Toulouse | 2,229 | Boulevard De L'Europe, Portet-Sur-Garonne | 2,348 | 36 ct | 1,990 | 2,219 |
 | Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,315 | 32 ct | 1,990 | 1,990 |
 | Nantes | 2,250 | Boulevard De L'Europe, Vertou | 2,279 | 21 ct | 1,990 | 1,990 |
 | Montpellier | 2,249 | Route De Nîmes, Le Crès | 2,356 | 25 ct | 1,990 | 1,990 |
@@ -23,15 +23,15 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Toulon | 2,248 | Route De L'Universite, La Valette-Du-Var | 2,295 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,300 | 24 ct | 1,990 | 1,990 |
 | Grenoble | 2,250 | 14 Avenue Esclangon, Gières | 2,357 | 28 ct | 1,990 | 1,990 |
-| Dijon | 2,250 | Boulevard Du Champ Aux Metiers, Quetigny | 2,359 | 20 ct | 1,990 | 1,990 |
+| Dijon | 2,250 | 170, Rue D'Auxonne, Dijon | 2,359 | 20 ct | 1,990 | 2,259 |
 | Angers | 2,250 | 170 Rue Letanduere, Angers | 2,310 | 51 ct | 1,990 | 1,990 |
-| Nîmes | 2,249 | 405 Chemin Bas De Montpellier, Nîmes | 2,329 | 29 ct | 1,990 | 1,990 |
+| Nîmes | 2,250 | 120 Chemin Du Mas Fléchier, Nîmes | 2,329 | 29 ct | 1,990 | 1,990 |
 | Clermont-Ferrand | 2,250 | Route De Clermont, Cournon-D'Auvergne | 2,308 | 26 ct | 1,990 | 1,990 |
 
 ## Ce qui ressort
 
-- Le gazole le moins cher du jour dans ces villes : 2,229 € le litre, autour de Toulouse.
-- Le plus grand écart entre stations d'un même secteur : 65 centimes par litre autour de Paris ; sur un plein de 50 litres, cela fait 32 €.
+- Le gazole le moins cher du jour dans ces villes : 2,225 € le litre, autour de Paris.
+- Le plus grand écart entre stations d'un même secteur : 68 centimes par litre autour de Paris ; sur un plein de 50 litres, cela fait 34 €.
 
 ## Les mêmes chiffres pour votre ville
 
