@@ -19,7 +19,7 @@
     "spreadCts": 65
    },
    "E10": {
-    "stations": 114,
+    "stations": 113,
     "cheapest": {
      "price": 1.99,
      "address": "60 AV DE STALINGRAD",
@@ -31,7 +31,7 @@
     "spreadCts": 47.9
    },
    "SP98": {
-    "stations": 94,
+    "stations": 92,
     "cheapest": {
      "price": 1.99,
      "address": "59 RUE JEAN BLEUZEN",
@@ -39,14 +39,14 @@
      "distanceKm": 5.5,
      "updatedAt": "2026-10-07T20:19:19"
     },
-    "median": 2.369,
+    "median": 2.379,
     "spreadCts": 89
    }
   },
   {
    "ville": "Marseille",
    "Gazole": {
-    "stations": 58,
+    "stations": 59,
     "cheapest": {
      "price": 2.25,
      "address": "AVENUE FREDERIC MISTRAL",
@@ -54,11 +54,11 @@
      "distanceKm": 7.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.35,
+    "median": 2.349,
     "spreadCts": 29.9
    },
    "E10": {
-    "stations": 53,
+    "stations": 51,
     "cheapest": {
      "price": 1.99,
      "address": "AVENUE FREDERIC MISTRAL",
@@ -66,11 +66,11 @@
      "distanceKm": 7.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.168,
+    "median": 2.169,
     "spreadCts": 36.9
    },
    "SP98": {
-    "stations": 46,
+    "stations": 47,
     "cheapest": {
      "price": 1.99,
      "address": "AVENUE FREDERIC MISTRAL",
@@ -93,7 +93,7 @@
      "distanceKm": 4,
      "updatedAt": "2026-10-08T08:25:00"
     },
-    "median": 2.368,
+    "median": 2.349,
     "spreadCts": 31
    },
    "E10": {
@@ -105,11 +105,11 @@
      "distanceKm": 5.8,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.177,
+    "median": 2.168,
     "spreadCts": 34.9
    },
    "SP98": {
-    "stations": 64,
+    "stations": 62,
     "cheapest": {
      "price": 1.99,
      "address": "BD LAURENT BONNEVAY",
@@ -117,26 +117,26 @@
      "distanceKm": 5.8,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.315,
+    "median": 2.32,
     "spreadCts": 51.9
    }
   },
   {
    "ville": "Toulouse",
    "Gazole": {
-    "stations": 61,
+    "stations": 58,
     "cheapest": {
-     "price": 2.229,
-     "address": "Boulevard de l'Europe",
-     "city": "PORTET-SUR-GARONNE",
-     "distanceKm": 7.9,
-     "updatedAt": "2026-10-08T08:20:43"
+     "price": 2.225,
+     "address": "328 Route de Saint-Simon",
+     "city": "Toulouse",
+     "distanceKm": 2.3,
+     "updatedAt": "2026-10-08T13:12:26"
     },
-    "median": 2.369,
-    "spreadCts": 36.1
+    "median": 2.348,
+    "spreadCts": 36.5
    },
    "E10": {
-    "stations": 51,
+    "stations": 53,
     "cheapest": {
      "price": 1.99,
      "address": "65 ROUTE D AGDE",
@@ -144,26 +144,26 @@
      "distanceKm": 4.9,
      "updatedAt": "2026-10-08T07:30:18"
     },
-    "median": 2.196,
+    "median": 2.195,
     "spreadCts": 26.9
    },
    "SP98": {
     "stations": 42,
     "cheapest": {
      "price": 1.99,
-     "address": "98 AVENUE TOLOSANE",
-     "city": "RAMONVILLE SAINT AGNE",
-     "distanceKm": 7.7,
-     "updatedAt": "2026-10-08T00:01:00"
+     "address": "328 Route de Saint-Simon",
+     "city": "Toulouse",
+     "distanceKm": 2.3,
+     "updatedAt": "2026-10-08T13:12:26"
     },
-    "median": 2.318,
+    "median": 2.319,
     "spreadCts": 38.9
    }
   },
   {
    "ville": "Nice",
    "Gazole": {
-    "stations": 44,
+    "stations": 43,
     "cheapest": {
      "price": 2.249,
      "address": "456 Boulevard du Mercantour - Quartier Saint Isidore",
@@ -171,11 +171,11 @@
      "distanceKm": 5.2,
      "updatedAt": "2026-10-07T07:43:55"
     },
-    "median": 2.317,
+    "median": 2.315,
     "spreadCts": 31.8
    },
    "E10": {
-    "stations": 40,
+    "stations": 39,
     "cheapest": {
      "price": 1.99,
      "address": "93 ROUTE DE TURIN RN 204",
@@ -187,7 +187,7 @@
     "spreadCts": 47
    },
    "SP98": {
-    "stations": 37,
+    "stations": 38,
     "cheapest": {
      "price": 1.99,
      "address": "93 ROUTE DE TURIN RN 204",
@@ -202,7 +202,7 @@
   {
    "ville": "Nantes",
    "Gazole": {
-    "stations": 44,
+    "stations": 46,
     "cheapest": {
      "price": 2.25,
      "address": "BOULEVARD DE L'EUROPE",
@@ -210,7 +210,7 @@
      "distanceKm": 9.8,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.289,
+    "median": 2.279,
     "spreadCts": 20.9
    },
    "E10": {
@@ -222,11 +222,11 @@
      "distanceKm": 8.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.125,
+    "median": 2.129,
     "spreadCts": 26.9
    },
    "SP98": {
-    "stations": 35,
+    "stations": 34,
     "cheapest": {
      "price": 1.99,
      "address": "RUE BAUCHE THIRAUD - ROCADE SUD",
@@ -234,26 +234,26 @@
      "distanceKm": 8.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.223,
+    "median": 2.228,
     "spreadCts": 42.9
    }
   },
   {
    "ville": "Montpellier",
    "Gazole": {
-    "stations": 40,
+    "stations": 41,
     "cheapest": {
-     "price": 2.25,
-     "address": "A9 - AIRE DE FABREGUES NORD",
-     "city": "FABREGUES",
-     "distanceKm": 9.3,
-     "updatedAt": "2026-10-08T00:01:00"
+     "price": 2.249,
+     "address": "Route de Nîmes",
+     "city": "Le Crès",
+     "distanceKm": 5.7,
+     "updatedAt": "2026-10-08T11:47:22"
     },
     "median": 2.355,
-    "spreadCts": 24.9
+    "spreadCts": 25
    },
    "E10": {
-    "stations": 37,
+    "stations": 38,
     "cheapest": {
      "price": 1.99,
      "address": "A9 - AIRE DE FABREGUES NORD",
@@ -261,11 +261,11 @@
      "distanceKm": 9.3,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.176,
+    "median": 2.179,
     "spreadCts": 30.9
    },
    "SP98": {
-    "stations": 35,
+    "stations": 36,
     "cheapest": {
      "price": 1.99,
      "address": "A9 - AIRE DE FABREGUES NORD",
@@ -280,7 +280,7 @@
   {
    "ville": "Strasbourg",
    "Gazole": {
-    "stations": 30,
+    "stations": 31,
     "cheapest": {
      "price": 2.25,
      "address": "49 RTE DU RHIN",
@@ -288,11 +288,11 @@
      "distanceKm": 2,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.481,
+    "median": 2.472,
     "spreadCts": 62.6
    },
    "E10": {
-    "stations": 22,
+    "stations": 23,
     "cheapest": {
      "price": 1.99,
      "address": "49 RTE DU RHIN",
@@ -312,26 +312,26 @@
      "distanceKm": 5,
      "updatedAt": "2026-10-07T09:28:46"
     },
-    "median": 2.406,
+    "median": 2.429,
     "spreadCts": 19.3
    }
   },
   {
    "ville": "Bordeaux",
    "Gazole": {
-    "stations": 59,
+    "stations": 61,
     "cheapest": {
      "price": 2.249,
-     "address": "Centre Commercial GRAND TOUR",
-     "city": "Sainte-Eulalie",
-     "distanceKm": 9,
-     "updatedAt": "2026-10-08T07:00:00"
+     "address": "34, Avenue Descartes",
+     "city": "Saint-Médard-en-Jalles",
+     "distanceKm": 8.7,
+     "updatedAt": "2026-10-08T09:11:00"
     },
-    "median": 2.328,
+    "median": 2.322,
     "spreadCts": 30.6
    },
    "E10": {
-    "stations": 53,
+    "stations": 54,
     "cheapest": {
      "price": 1.99,
      "address": "307 AV D'EYSINES",
@@ -339,7 +339,7 @@
      "distanceKm": 2.2,
      "updatedAt": "2026-10-08T06:57:28"
     },
-    "median": 2.128,
+    "median": 2.133,
     "spreadCts": 30.9
    },
    "SP98": {
@@ -351,7 +351,7 @@
      "distanceKm": 2.2,
      "updatedAt": "2026-10-08T06:57:28"
     },
-    "median": 2.253,
+    "median": 2.259,
     "spreadCts": 44
    }
   },
@@ -366,7 +366,7 @@
      "distanceKm": 4.3,
      "updatedAt": "2026-10-08T08:09:42"
     },
-    "median": 2.331,
+    "median": 2.325,
     "spreadCts": 39.2
    },
    "E10": {
@@ -378,17 +378,17 @@
      "distanceKm": 4.3,
      "updatedAt": "2026-10-08T08:09:42"
     },
-    "median": 2.117,
+    "median": 2.119,
     "spreadCts": 30.9
    },
    "SP98": {
-    "stations": 37,
+    "stations": 38,
     "cheapest": {
      "price": 1.99,
-     "address": "33 RUE JEAN JAURES",
-     "city": "VILLENEUVE D'ASCQ",
-     "distanceKm": 7,
-     "updatedAt": "2026-10-08T00:01:00"
+     "address": "17 A 25 RUE ROGER SALENGRO",
+     "city": "LILLE",
+     "distanceKm": 4,
+     "updatedAt": "2026-10-08T06:27:51"
     },
     "median": 2.242,
     "spreadCts": 42.9
@@ -397,31 +397,19 @@
   {
    "ville": "Rennes",
    "Gazole": {
-    "stations": 37,
+    "stations": 34,
     "cheapest": {
      "price": 2.25,
-     "address": "LA BROSSE",
-     "city": "LA CHAPELLE-DES-FOUGERETZ",
-     "distanceKm": 6.6,
-     "updatedAt": "2026-10-06T17:15:28"
+     "address": "19, BD LEON BOURGEOIS",
+     "city": "RENNES",
+     "distanceKm": 3.2,
+     "updatedAt": "2026-10-02T18:15:32"
     },
-    "median": 2.299,
+    "median": 2.298,
     "spreadCts": 22.9
    },
    "E10": {
     "stations": 29,
-    "cheapest": {
-     "price": 1.99,
-     "address": "LA BROSSE",
-     "city": "LA CHAPELLE-DES-FOUGERETZ",
-     "distanceKm": 6.6,
-     "updatedAt": "2026-10-06T17:15:28"
-    },
-    "median": 2.125,
-    "spreadCts": 27.9
-   },
-   "SP98": {
-    "stations": 24,
     "cheapest": {
      "price": 1.99,
      "address": "CENTRE COMMERCIAL ALMA, 10 RUE B",
@@ -429,14 +417,26 @@
      "distanceKm": 3.8,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.245,
+    "median": 2.129,
+    "spreadCts": 27.9
+   },
+   "SP98": {
+    "stations": 27,
+    "cheapest": {
+     "price": 1.99,
+     "address": "CENTRE COMMERCIAL ALMA, 10 RUE B",
+     "city": "RENNES",
+     "distanceKm": 3.8,
+     "updatedAt": "2026-10-08T00:01:00"
+    },
+    "median": 2.242,
     "spreadCts": 43.9
    }
   },
   {
    "ville": "Reims",
    "Gazole": {
-    "stations": 24,
+    "stations": 23,
     "cheapest": {
      "price": 2.25,
      "address": "12, AVENUE BREBANT",
@@ -445,10 +445,10 @@
      "updatedAt": "2026-10-08T00:01:00"
     },
     "median": 2.376,
-    "spreadCts": 41.9
+    "spreadCts": 44.1
    },
    "E10": {
-    "stations": 21,
+    "stations": 20,
     "cheapest": {
      "price": 1.99,
      "address": "12, AVENUE BREBANT",
@@ -456,8 +456,8 @@
      "distanceKm": 3.2,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.17,
-    "spreadCts": 57.1
+    "median": 2.169,
+    "spreadCts": 59.5
    },
    "SP98": {
     "stations": 21,
@@ -468,14 +468,14 @@
      "distanceKm": 3.2,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.259,
-    "spreadCts": 72.1
+    "median": 2.253,
+    "spreadCts": 74.5
    }
   },
   {
    "ville": "Saint-Étienne",
    "Gazole": {
-    "stations": 29,
+    "stations": 27,
     "cheapest": {
      "price": 2.25,
      "address": "35 RUE HOLTZER",
@@ -499,7 +499,7 @@
     "spreadCts": 30.9
    },
    "SP98": {
-    "stations": 20,
+    "stations": 19,
     "cheapest": {
      "price": 1.99,
      "address": "148 RUE ANTOINE DURAFOUR",
@@ -522,7 +522,7 @@
      "distanceKm": 6.6,
      "updatedAt": "2026-10-08T08:25:00"
     },
-    "median": 2.296,
+    "median": 2.295,
     "spreadCts": 35.1
    },
    "E10": {
@@ -534,11 +534,11 @@
      "distanceKm": 6.5,
      "updatedAt": "2026-10-06T10:33:27"
     },
-    "median": 2.156,
+    "median": 2.155,
     "spreadCts": 35.9
    },
    "SP98": {
-    "stations": 32,
+    "stations": 31,
     "cheapest": {
      "price": 1.99,
      "address": "AV.DE L'UNIVERSITE",
@@ -546,7 +546,7 @@
      "distanceKm": 6.5,
      "updatedAt": "2026-10-06T10:33:27"
     },
-    "median": 2.279,
+    "median": 2.278,
     "spreadCts": 51.9
    }
   },
@@ -565,19 +565,19 @@
     "spreadCts": 24
    },
    "E10": {
-    "stations": 15,
+    "stations": 16,
     "cheapest": {
      "price": 1.99,
-     "address": "2 RUE EUGENE MOPIN",
+     "address": "BOULEVARD LENINGRAD",
      "city": "LE HAVRE",
-     "distanceKm": 3.1,
-     "updatedAt": "2026-10-08T00:01:00"
+     "distanceKm": 2.1,
+     "updatedAt": "2026-10-08T13:40:34"
     },
-    "median": 2.131,
+    "median": 2.134,
     "spreadCts": 20
    },
    "SP98": {
-    "stations": 12,
+    "stations": 13,
     "cheapest": {
      "price": 1.99,
      "address": "BD.CLEMENCEAU",
@@ -585,7 +585,7 @@
      "distanceKm": 2.5,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.261,
+    "median": 2.256,
     "spreadCts": 36
    }
   },
@@ -600,38 +600,38 @@
      "distanceKm": 5.5,
      "updatedAt": "2026-09-14T08:12:08"
     },
-    "median": 2.359,
+    "median": 2.357,
     "spreadCts": 27.9
    },
    "E10": {
-    "stations": 26,
+    "stations": 28,
     "cheapest": {
      "price": 1.99,
-     "address": "96 COURS ST ANDRE",
-     "city": "Pont-de-claix",
-     "distanceKm": 5.2,
-     "updatedAt": "2026-10-08T00:01:00"
+     "address": "Avenue de Verdun",
+     "city": "LA TRONCHE",
+     "distanceKm": 3,
+     "updatedAt": "2026-10-08T09:19:34"
     },
-    "median": 2.188,
+    "median": 2.182,
     "spreadCts": 30.9
    },
    "SP98": {
-    "stations": 23,
+    "stations": 25,
     "cheapest": {
      "price": 1.99,
-     "address": "115 AVENUE DE LA REPUBLIQUE",
-     "city": "SEYSSINET",
-     "distanceKm": 1.7,
-     "updatedAt": "2026-10-08T08:10:26"
+     "address": "Avenue de Verdun",
+     "city": "LA TRONCHE",
+     "distanceKm": 3,
+     "updatedAt": "2026-10-08T09:19:34"
     },
-    "median": 2.306,
+    "median": 2.305,
     "spreadCts": 47.9
    }
   },
   {
    "ville": "Dijon",
    "Gazole": {
-    "stations": 26,
+    "stations": 25,
     "cheapest": {
      "price": 2.25,
      "address": "15 Rue de Mayence",
@@ -643,28 +643,28 @@
     "spreadCts": 19.9
    },
    "E10": {
-    "stations": 22,
+    "stations": 20,
     "cheapest": {
-     "price": 1.99,
-     "address": "Route de Seurre",
-     "city": "LONGVIC",
-     "distanceKm": 6,
-     "updatedAt": "2026-10-05T17:12:19"
+     "price": 2.109,
+     "address": "Route de Chevigny",
+     "city": "SENNECEY-LES-DIJON",
+     "distanceKm": 6.9,
+     "updatedAt": "2026-10-07T09:50:18"
     },
     "median": 2.189,
-    "spreadCts": 30.9
+    "spreadCts": 19
    },
    "SP98": {
-    "stations": 21,
+    "stations": 20,
     "cheapest": {
-     "price": 1.99,
-     "address": "170, RUE D'AUXONNE",
-     "city": "DIJON",
-     "distanceKm": 3.3,
-     "updatedAt": "2026-10-08T00:01:00"
+     "price": 2.259,
+     "address": "Route de Chevigny",
+     "city": "SENNECEY-LES-DIJON",
+     "distanceKm": 6.9,
+     "updatedAt": "2026-10-07T09:50:18"
     },
-    "median": 2.293,
-    "spreadCts": 40.9
+    "median": 2.296,
+    "spreadCts": 14
    }
   },
   {
@@ -682,7 +682,7 @@
     "spreadCts": 50.9
    },
    "E10": {
-    "stations": 23,
+    "stations": 24,
     "cheapest": {
      "price": 1.99,
      "address": "170 RUE LETANDUERE",
@@ -711,14 +711,14 @@
    "Gazole": {
     "stations": 28,
     "cheapest": {
-     "price": 2.25,
-     "address": "120 Chemin du Mas Fléchier",
+     "price": 2.249,
+     "address": "405 Chemin Bas de Montpellier",
      "city": "NîMES",
-     "distanceKm": 2.8,
-     "updatedAt": "2026-10-08T01:19:00"
+     "distanceKm": 1.7,
+     "updatedAt": "2026-10-08T08:56:07"
     },
-    "median": 2.352,
-    "spreadCts": 28.9
+    "median": 2.329,
+    "spreadCts": 29
    },
    "E10": {
     "stations": 26,
@@ -729,58 +729,58 @@
      "distanceKm": 2.7,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.179,
+    "median": 2.169,
     "spreadCts": 30.9
    },
    "SP98": {
-    "stations": 24,
+    "stations": 23,
     "cheapest": {
      "price": 1.99,
-     "address": "2705 RTE DE MONTPELLIER",
+     "address": "390 AV PIERRE MENDES FRANCE",
      "city": "NIMES",
-     "distanceKm": 2.7,
+     "distanceKm": 3,
      "updatedAt": "2026-10-08T00:01:00"
     },
-    "median": 2.299,
+    "median": 2.292,
     "spreadCts": 47.9
    }
   },
   {
    "ville": "Clermont-Ferrand",
    "Gazole": {
-    "stations": 27,
+    "stations": 30,
     "cheapest": {
      "price": 2.25,
-     "address": "FONTCHENILLE",
-     "city": "GERZAT",
-     "distanceKm": 4.7,
-     "updatedAt": "2026-10-08T06:35:20"
+     "address": "Route de Clermont",
+     "city": "COURNON-D'AUVERGNE",
+     "distanceKm": 6.8,
+     "updatedAt": "2026-10-08T12:37:39"
     },
-    "median": 2.32,
+    "median": 2.309,
     "spreadCts": 26.3
    },
    "E10": {
-    "stations": 23,
+    "stations": 26,
     "cheapest": {
      "price": 1.99,
-     "address": "FONTCHENILLE",
-     "city": "GERZAT",
-     "distanceKm": 4.7,
-     "updatedAt": "2026-10-08T06:35:20"
+     "address": "Route de Clermont",
+     "city": "COURNON-D'AUVERGNE",
+     "distanceKm": 6.8,
+     "updatedAt": "2026-10-08T12:37:39"
     },
-    "median": 2.154,
+    "median": 2.139,
     "spreadCts": 30
    },
    "SP98": {
-    "stations": 22,
+    "stations": 25,
     "cheapest": {
      "price": 1.99,
-     "address": "FONTCHENILLE",
-     "city": "GERZAT",
-     "distanceKm": 4.7,
-     "updatedAt": "2026-10-08T06:35:20"
+     "address": "Route de Clermont",
+     "city": "COURNON-D'AUVERGNE",
+     "distanceKm": 6.8,
+     "updatedAt": "2026-10-08T12:37:39"
     },
-    "median": 2.279,
+    "median": 2.261,
     "spreadCts": 40
    }
   }
