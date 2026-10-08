@@ -17,5 +17,6 @@ Real numbers, real code, from building and running the EuroScrape Actors.
 - [Companies file 1 French building permit in 5 and build 3 homes in 4 - and the register names them 8 months before the site opens](13-building-permits-window.md)
 - [A 4.8-star shop tells you nothing - across 444 German online shops the rating fits in a third of a point, while the share of 1 and 2 star reviews varies 11x](14-trusted-shops-ratings.md)
 - [The median "PlayStation 5" on Kleinanzeigen costs 55 euros - three traps in second-hand price data](15-kleinanzeigen-price-traps.md)
+- [38 of 40 online shops in Germany publish a valid VAT number - what an Impressum gives you, and where reading it breaks](16-impressum-40-shops.md)
 
 [All EuroScrape Actors](../README.md)
