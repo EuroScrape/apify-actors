@@ -211,6 +211,23 @@
    }
   },
   {
+   "zone": "IT-North",
+   "zoneName": "Italy North",
+   "country": "Italy",
+   "averageEurMwh": 234.89,
+   "minEurMwh": 188.04,
+   "minTimeCet": "2026-10-09T13:00",
+   "maxEurMwh": 280,
+   "maxTimeCet": "2026-10-09T06:45",
+   "negativeHours": 0,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-09T12:15",
+    "averageEurMwh": 196.11,
+    "endCet": "2026-10-09T15:15"
+   }
+  },
+  {
    "zone": "NL",
    "zoneName": "Netherlands",
    "country": "Netherlands",
@@ -327,6 +344,23 @@
     "startCet": "2026-10-09T01:30",
     "averageEurMwh": 169.98,
     "endCet": "2026-10-09T04:30"
+   }
+  },
+  {
+   "zone": "ES",
+   "zoneName": "Spain",
+   "country": "Spain",
+   "averageEurMwh": 107.58,
+   "minEurMwh": -6.9,
+   "minTimeCet": "2026-10-09T15:15",
+   "maxEurMwh": 211.6,
+   "maxTimeCet": "2026-10-09T19:45",
+   "negativeHours": 6.25,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-09T12:45",
+    "averageEurMwh": -5.33,
+    "endCet": "2026-10-09T15:45"
    }
   },
   {

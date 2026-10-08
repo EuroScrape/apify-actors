@@ -3,7 +3,7 @@ lang: en
 ---
 # Cheapest electricity hours in Europe: day-ahead prices for 9 October 2026
 
-The three cheapest consecutive hours of electricity on 9 October 2026 in 22 European bidding zones, from the day-ahead market, with the average, lowest and highest price of the day. Updated every day after the auction. Wholesale prices in EUR/MWh, before taxes and grid fees; times are CET/CEST.
+The three cheapest consecutive hours of electricity on 9 October 2026 in 24 European bidding zones, from the day-ahead market, with the average, lowest and highest price of the day. Updated every day after the auction. Wholesale prices in EUR/MWh, before taxes and grid fees; times are CET/CEST.
 
 | Zone | Cheapest 3 hours | Average in that window | Day average | Lowest | Highest | Negative hours |
 |---|---|---|---|---|---|---|
@@ -19,6 +19,7 @@ The three cheapest consecutive hours of electricity on 9 October 2026 in 22 Euro
 | Germany-Luxembourg (DE-LU) | 11:45–14:45 | 4.5 | 79 | 0.1 at 12:30 | 167 at 08:00 | 0 |
 | Greece (GR) | 10:45–13:45 | 3.2 | 205 | 0 at 11:15 | 346 at 18:00 | 0 |
 | Hungary (HU) | 12:15–15:15 | 163 | 269 | 156 at 12:30 | 475 at 19:45 | 0 |
+| Italy North (IT-North) | 12:15–15:15 | 196 | 235 | 188 at 13:00 | 280 at 06:45 | 0 |
 | Netherlands (NL) | 13:15–16:15 | 51 | 91 | 38 at 15:00 | 169 at 08:00 | 0 |
 | Norway Kristiansand (NO2) | 21:00–00:00 | 71 | 96 | 41 at 23:45 | 150 at 08:00 | 0 |
 | Poland (PL) | 11:45–14:45 | -3.7 | 83 | -23 at 14:15 | 215 at 18:45 | 1.5 |
@@ -26,15 +27,16 @@ The three cheapest consecutive hours of electricity on 9 October 2026 in 22 Euro
 | Romania (RO) | 12:30–15:30 | 159 | 254 | 150 at 15:00 | 431 at 18:45 | 0 |
 | Slovakia (SK) | 11:30–14:30 | 134 | 222 | 122 at 12:30 | 379 at 08:30 | 0 |
 | Slovenia (SI) | 01:30–04:30 | 170 | 212 | 136 at 15:00 | 280 at 06:45 | 0 |
+| Spain (ES) | 12:45–15:45 | -5.3 | 108 | -6.9 at 15:15 | 212 at 19:45 | 6.25 |
 | Sweden Stockholm (SE3) | 02:30–05:30 | 13 | 30 | 10 at 02:45 | 71 at 19:00 | 0 |
 | Sweden Malmö (SE4) | 02:30–05:30 | 13 | 40 | 11 at 02:45 | 121 at 19:00 | 0 |
 | Switzerland (CH) | 02:00–05:00 | 174 | 200 | 172 at 04:00 | 225 at 17:00 | 0 |
 
 ## What stands out
 
-- In 15 of 22 zones, the cheapest three hours start between 10:00 and 16:00, not at night.
+- In 17 of 24 zones, the cheapest three hours start between 10:00 and 16:00, not at night.
 - Cheapest day on average: Finland (20 EUR/MWh). Most expensive: Hungary (269 EUR/MWh).
-- Negative prices: Czechia, Poland.
+- Negative prices: Czechia, Poland, Spain.
 
 ## Get these numbers yourself
 
