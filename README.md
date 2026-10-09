@@ -150,6 +150,7 @@ Real numbers, real code, from building and running these Actors:
 - [A 4.8-star shop tells you nothing - across 444 German online shops the rating fits in a third of a point, while the share of 1 and 2 star reviews varies 11x](articles/14-trusted-shops-ratings.md)
 - [The median "PlayStation 5" on Kleinanzeigen costs 55 euros - three traps in second-hand price data](articles/15-kleinanzeigen-price-traps.md)
 - [38 of 40 online shops in Germany publish a valid VAT number - what an Impressum gives you, and where reading it breaks](articles/16-impressum-40-shops.md)
+- [Fridays cost 25% more than Mondays on Ryanair - what the November fare calendars of three routes look like as data](articles/17-ryanair-fridays.md)
 
 
 ## 🧪 Example projects
