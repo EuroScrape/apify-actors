@@ -10,11 +10,11 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,359 | 65 ct | 1,990 | 1,990 |
 | Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,349 | 30 ct | 1,990 | 1,990 |
 | Lyon | 2,239 | 145, Rue Anatole France, Villeurbanne | 2,348 | 31 ct | 1,990 | 1,990 |
-| Toulouse | 2,248 | Chemin De Saint Jean, Montrabe | 2,327 | 34 ct | 1,990 | 2,220 |
+| Toulouse | 2,248 | Chemin De Saint Jean, Montrabe | 2,334 | 34 ct | 1,990 | 2,220 |
 | Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,315 | 32 ct | 1,990 | 1,990 |
-| Nantes | 2,250 | Rue Bauche Thiraud - Rocade Sud, Reze | 2,293 | 22 ct | 1,990 | 1,990 |
+| Nantes | 2,250 | Rue Bauche Thiraud - Rocade Sud, Reze | 2,280 | 22 ct | 1,990 | 1,990 |
 | Montpellier | 2,249 | Ecoparc Departemental Cd.112, Saint-Aunes | 2,356 | 25 ct | 1,990 | 1,990 |
-| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,506 | 68 ct | 1,990 | 1,990 |
+| Strasbourg | 2,250 | 49 Rte Du Rhin, Strasbourg | 2,515 | 68 ct | 1,990 | 1,990 |
 | Bordeaux | 2,249 | Centre Commercial Grand Tour, Sainte-Eulalie | 2,322 | 31 ct | 1,990 | 1,990 |
 | Lille | 2,250 | 331 Rue Charles Saint-Venant, Ronchin | 2,309 | 42 ct | 1,990 | 1,990 |
 | Rennes | 2,250 | La Brosse, La Chapelle-Des-Fougeretz | 2,295 | 23 ct | 1,990 | 1,990 |
@@ -22,11 +22,11 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Saint-Étienne | 2,250 | 35 Rue Holtzer, Unieux | 2,329 | 25 ct | 1,990 | 1,990 |
 | Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,302 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,300 | 24 ct | 1,990 | 1,990 |
-| Grenoble | 2,250 | Avenue De Verdun, La Tronche | 2,348 | 28 ct | 1,990 | 1,990 |
-| Dijon | 2,250 | 15 Rue De Mayence, Dijon | 2,349 | 20 ct | 1,990 | 1,990 |
+| Grenoble | 2,250 | Avenue De Verdun, La Tronche | 2,355 | 28 ct | 1,990 | 1,990 |
+| Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,349 | 20 ct | 1,990 | 1,990 |
 | Angers | 2,250 | 170 Rue Letanduere, Angers | 2,319 | 51 ct | 1,990 | 1,990 |
 | Nîmes | 2,250 | 2705 Rte De Montpellier, Nimes | 2,329 | 29 ct | 1,990 | 1,990 |
-| Clermont-Ferrand | 2,249 | Rue Jean Mermoz, Le Cendre | 2,304 | 26 ct | 1,990 | 1,990 |
+| Clermont-Ferrand | 2,249 | Rue Jean Mermoz, Le Cendre | 2,294 | 26 ct | 1,990 | 1,990 |
 
 ## Ce qui ressort
 

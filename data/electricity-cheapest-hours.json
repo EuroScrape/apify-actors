@@ -41,6 +41,23 @@
    }
   },
   {
+   "zone": "BG",
+   "zoneName": "Bulgaria",
+   "country": "Bulgaria",
+   "averageEurMwh": 231.83,
+   "minEurMwh": 137.54,
+   "minTimeCet": "2026-10-10T14:45",
+   "maxEurMwh": 336.27,
+   "maxTimeCet": "2026-10-10T17:30",
+   "negativeHours": 0,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-10T09:45",
+    "averageEurMwh": 152.85,
+    "endCet": "2026-10-10T12:45"
+   }
+  },
+  {
    "zone": "CZ",
    "zoneName": "Czechia",
    "country": "Czechia",
@@ -143,6 +160,40 @@
    }
   },
   {
+   "zone": "IE(SEM)",
+   "zoneName": "Ireland (SEM)",
+   "country": "Ireland",
+   "averageEurMwh": 82.36,
+   "minEurMwh": 9.8,
+   "minTimeCet": "2026-10-10T04:00",
+   "maxEurMwh": 273,
+   "maxTimeCet": "2026-10-10T22:00",
+   "negativeHours": 0,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-10T03:00",
+    "averageEurMwh": 10.6,
+    "endCet": "2026-10-10T06:00"
+   }
+  },
+  {
+   "zone": "IT-North",
+   "zoneName": "Italy North",
+   "country": "Italy",
+   "averageEurMwh": 219.95,
+   "minEurMwh": 166.03,
+   "minTimeCet": "2026-10-10T14:00",
+   "maxEurMwh": 260.1,
+   "maxTimeCet": "2026-10-10T19:15",
+   "negativeHours": 0,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-10T12:30",
+    "averageEurMwh": 174.75,
+    "endCet": "2026-10-10T15:30"
+   }
+  },
+  {
    "zone": "NO2",
    "zoneName": "Norway Kristiansand",
    "country": "Norway",
@@ -214,17 +265,17 @@
    "zone": "ES",
    "zoneName": "Spain",
    "country": "Spain",
-   "averageEurMwh": 130,
-   "minEurMwh": -0.01,
-   "minTimeCet": "2026-10-10T15:00",
-   "maxEurMwh": 219.66,
+   "averageEurMwh": 125.16,
+   "minEurMwh": -9.08,
+   "minTimeCet": "2026-10-10T16:30",
+   "maxEurMwh": 217.65,
    "maxTimeCet": "2026-10-10T19:45",
-   "negativeHours": 1.5,
+   "negativeHours": 4,
    "cheapestWindow": {
     "hours": 3,
-    "startCet": "2026-10-10T13:30",
-    "averageEurMwh": 0,
-    "endCet": "2026-10-10T16:30"
+    "startCet": "2026-10-10T13:00",
+    "averageEurMwh": -3.76,
+    "endCet": "2026-10-10T16:00"
    }
   },
   {
