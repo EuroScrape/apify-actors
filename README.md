@@ -151,6 +151,7 @@ Real numbers, real code, from building and running these Actors:
 - [The median "PlayStation 5" on Kleinanzeigen costs 55 euros - three traps in second-hand price data](articles/15-kleinanzeigen-price-traps.md)
 - [38 of 40 online shops in Germany publish a valid VAT number - what an Impressum gives you, and where reading it breaks](articles/16-impressum-40-shops.md)
 - [Fridays cost 25% more than Mondays on Ryanair - what the November fare calendars of three routes look like as data](articles/17-ryanair-fridays.md)
+- [Duolingo is rated 4.7 in both app stores, and its newest reviews in Germany average 3.1 - what a store rating hides, country by country](articles/18-duolingo-reviews-by-country.md)
 
 
 ## 🧪 Example projects

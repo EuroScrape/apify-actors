@@ -85,4 +85,5 @@ Apify subscribers get 10–30% off depending on their plan.
 - Ready-made example: [Track negative App Store and Google Play reviews](https://apify.com/euroscrape/app-reviews/examples/track-negative-app-reviews-spotify)
 - Ready-made example: [Export the Google Play reviews of any app](https://apify.com/euroscrape/app-reviews/examples/export-google-play-reviews-of-any-app)
 - Article: [Get every new 1-star review of your app in Slack (App Store and Google Play, 58 countries)](../../articles/07-app-reviews-alerts.md)
+- Article: [Duolingo is rated 4.7 in both app stores, and its newest reviews in Germany average 3.1 - what a store rating hides, country by country](../../articles/18-duolingo-reviews-by-country.md)
 - [All EuroScrape Actors](../../README.md)

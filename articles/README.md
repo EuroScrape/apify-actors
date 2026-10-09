@@ -19,5 +19,6 @@ Real numbers, real code, from building and running the EuroScrape Actors.
 - [The median "PlayStation 5" on Kleinanzeigen costs 55 euros - three traps in second-hand price data](15-kleinanzeigen-price-traps.md)
 - [38 of 40 online shops in Germany publish a valid VAT number - what an Impressum gives you, and where reading it breaks](16-impressum-40-shops.md)
 - [Fridays cost 25% more than Mondays on Ryanair - what the November fare calendars of three routes look like as data](17-ryanair-fridays.md)
+- [Duolingo is rated 4.7 in both app stores, and its newest reviews in Germany average 3.1 - what a store rating hides, country by country](18-duolingo-reviews-by-country.md)
 
 [All EuroScrape Actors](../README.md)
