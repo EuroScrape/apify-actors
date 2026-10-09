@@ -44,7 +44,7 @@
    "zone": "BG",
    "zoneName": "Bulgaria",
    "country": "Bulgaria",
-   "averageEurMwh": 240.28,
+   "averageEurMwh": 241.49,
    "minEurMwh": 148.35,
    "minTimeCet": "2026-10-09T15:00",
    "maxEurMwh": 379.67,
@@ -129,7 +129,7 @@
    "zone": "FI",
    "zoneName": "Finland",
    "country": "Finland",
-   "averageEurMwh": 20.34,
+   "averageEurMwh": 20.25,
    "minEurMwh": 9.82,
    "minTimeCet": "2026-10-09T02:45",
    "maxEurMwh": 29.03,
@@ -180,7 +180,7 @@
    "zone": "GR",
    "zoneName": "Greece",
    "country": "Greece",
-   "averageEurMwh": 205.25,
+   "averageEurMwh": 207.93,
    "minEurMwh": 0.01,
    "minTimeCet": "2026-10-09T11:15",
    "maxEurMwh": 346.1,
@@ -208,6 +208,23 @@
     "startCet": "2026-10-09T12:15",
     "averageEurMwh": 163.1,
     "endCet": "2026-10-09T15:15"
+   }
+  },
+  {
+   "zone": "IE(SEM)",
+   "zoneName": "Ireland (SEM)",
+   "country": "Ireland",
+   "averageEurMwh": 87.95,
+   "minEurMwh": 38.95,
+   "minTimeCet": "2026-10-09T15:00",
+   "maxEurMwh": 157.03,
+   "maxTimeCet": "2026-10-09T08:00",
+   "negativeHours": 0,
+   "cheapestWindow": {
+    "hours": 3,
+    "startCet": "2026-10-09T13:00",
+    "averageEurMwh": 42.49,
+    "endCet": "2026-10-09T16:00"
    }
   },
   {
@@ -282,7 +299,7 @@
    "zone": "PT",
    "zoneName": "Portugal",
    "country": "Portugal",
-   "averageEurMwh": 108.84,
+   "averageEurMwh": 106.75,
    "minEurMwh": 0,
    "minTimeCet": "2026-10-09T11:15",
    "maxEurMwh": 205,
@@ -299,7 +316,7 @@
    "zone": "RO",
    "zoneName": "Romania",
    "country": "Romania",
-   "averageEurMwh": 254.46,
+   "averageEurMwh": 255.2,
    "minEurMwh": 149.53,
    "minTimeCet": "2026-10-09T15:00",
    "maxEurMwh": 431.39,
