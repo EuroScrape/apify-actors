@@ -1,0 +1,24 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>EuroScrape articles</title>
+<link>https://euroscrape.github.io/apify-actors/articles/</link>
+<atom:link href="https://euroscrape.github.io/apify-actors/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Real numbers and methods from building and running the EuroScrape data Actors on Apify: travel prices, second-hand marketplaces, company data, EU and French open data.</description>
+<language>en</language>
+<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+{%- assign articles = site.pages | where_exp: "p", "p.path contains 'articles/'" | where_exp: "p", "p.path != 'articles/README.md'" | sort: "path" | reverse %}
+{%- for p in articles %}
+<item>
+<title>{{ p.title | xml_escape }}</title>
+<link>https://euroscrape.github.io/apify-actors{{ p.url }}</link>
+<guid isPermaLink="true">https://euroscrape.github.io/apify-actors{{ p.url }}</guid>
+<description>{{ p.content | markdownify | strip_html | strip_newlines | truncate: 400 | xml_escape }}</description>
+</item>
+{%- endfor %}
+</channel>
+</rss>
