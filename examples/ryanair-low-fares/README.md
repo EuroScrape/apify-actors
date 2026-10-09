@@ -81,4 +81,5 @@ Apify subscribers get 10–30% off depending on their plan.
 - Ready-made example: [See everywhere you can fly under 20 € from Brussels Charleroi](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-euros-from-brussels-charleroi)
 - Ready-made example: [See everywhere you can fly under £20 from London Stansted](https://apify.com/euroscrape/ryanair-low-fares/examples/fly-under-20-pounds-from-london-stansted)
 - Ready-made example: [Get the Ryanair fare calendar of a route, day by day](https://apify.com/euroscrape/ryanair-low-fares/examples/ryanair-fare-calendar-cheapest-day-for-a-route)
+- Article: [Fridays cost 25% more than Mondays on Ryanair - what the November fare calendars of three routes look like as data](../../articles/17-ryanair-fridays.md)
 - [All EuroScrape Actors](../../README.md)
