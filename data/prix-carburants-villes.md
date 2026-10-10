@@ -7,8 +7,8 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 
 | Ville | Gazole le moins cher | Où | Gazole médian | Écart local | E10 le moins cher | SP98 le moins cher |
 |---|---|---|---|---|---|---|
-| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,382 | 65 ct | 1,990 | 1,990 |
-| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,349 | 30 ct | 1,990 | 1,990 |
+| Paris | 2,250 | 60 Av De Stalingrad, Villejuif | 2,388 | 65 ct | 1,990 | 1,990 |
+| Marseille | 2,250 | Avenue Frederic Mistral, Marseille | 2,348 | 30 ct | 1,990 | 1,990 |
 | Lyon | 2,239 | 145, Rue Anatole France, Villeurbanne | 2,368 | 31 ct | 1,990 | 1,990 |
 | Toulouse | 2,248 | Avenue Dewoitine, Cornebarrieu | 2,327 | 25 ct | 1,990 | 2,220 |
 | Nice | 2,249 | 456 Boulevard Du Mercantour - Quartier Saint Isidore, Nice | 2,330 | 32 ct | 1,990 | 1,990 |
@@ -23,7 +23,7 @@ Le prix le plus bas du gazole, du SP95-E10 et du SP98 dans un rayon de 10 km aut
 | Toulon | 2,250 | Av.De L'Universite, La Valette-Du-Var | 2,302 | 35 ct | 1,990 | 1,990 |
 | Le Havre | 2,250 | Boulevard Clemenceau, Le Havre | 2,307 | 24 ct | 1,990 | 1,990 |
 | Grenoble | 2,250 | Avenue De Verdun, La Tronche | 2,355 | 28 ct | 1,990 | 1,990 |
-| Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,349 | 20 ct | 1,990 | 1,990 |
+| Dijon | 2,250 | 88 Boulevard De Troyes, Talant | 2,349 | 20 ct | 1,990 | 2,272 |
 | Angers | 2,250 | 170 Rue Letanduere, Angers | 2,329 | 56 ct | 1,990 | 1,990 |
 | Nîmes | 2,250 | 2705 Rte De Montpellier, Nimes | 2,339 | 29 ct | 1,990 | 1,990 |
 | Clermont-Ferrand | 2,249 | Rue Jean Mermoz, Le Cendre | 2,301 | 26 ct | 1,990 | 1,990 |
