@@ -20,7 +20,7 @@ The three cheapest consecutive hours of electricity on 10 October 2026 in 19 Eur
 | Italy North (IT-North) | 12:30–15:30 | 175 | 220 | 166 at 14:00 | 260 at 19:15 | 0 |
 | Norway Kristiansand (NO2) | 00:45–03:45 | 14 | 82 | 11 at 01:15 | 159 at 19:30 | 0 |
 | Poland (PL) | 02:15–05:15 | 60 | 107 | 54 at 03:00 | 201 at 18:45 | 0 |
-| Portugal (PT) | 13:30–16:30 | 0 | 131 | 0 at 15:00 | 220 at 19:45 | 0.5 |
+| Portugal (PT) | 13:30–16:30 | 0 | 128 | 0 at 15:00 | 220 at 19:45 | 0.5 |
 | Slovenia (SI) | 12:00–15:00 | 153 | 203 | 134 at 14:45 | 256 at 18:45 | 0 |
 | Spain (ES) | 13:00–16:00 | -3.8 | 125 | -9.1 at 16:30 | 218 at 19:45 | 4 |
 | Sweden Stockholm (SE3) | 01:15–04:15 | 13 | 32 | 11 at 01:15 | 83 at 19:00 | 0 |
